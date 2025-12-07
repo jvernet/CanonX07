@@ -5,6 +5,8 @@ ___
 
 Ce markdown à pour but de compiler les petits codes source de ce numéro.
 
+NDR : 2 page sont manquantes.
+
 ## To DO
 
 
