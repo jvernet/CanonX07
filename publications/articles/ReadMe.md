@@ -1,8 +1,6 @@
-# X07
 
-___
-## Introduction
 
 TO DO
 
-___
+Magazines Here
+
