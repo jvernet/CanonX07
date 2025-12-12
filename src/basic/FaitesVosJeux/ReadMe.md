@@ -1,6 +1,8 @@
-# Faites vos jeux avec CANONXO7
+# Faites vos jeux avec CANON X-07
 
+avril 1984
 
+___
 ## Introduction
 
 Les codes sources des jeux du livre.
