@@ -10,7 +10,7 @@ NDR : 2 page sont manquantes.
 ## To DO
 
 
-
+___
 Page 16\
 Nombre Aléatoire
 ```basic
@@ -56,6 +56,7 @@ LD(1F26),A
 RET
 ```
 
+___
 Page 17\
 Tirage Loto
 
@@ -70,6 +71,43 @@ Tirage Loto
 20 G$=INKEY$:IF G$="" THEN 20
 25 IF G$=CHR$(13) THEN 8 ELSE CLS:END
 ```
+
+___
+Page 20\
+Programme No1 :
+
+```basic
+10 DEFINT A-Z:S=1:N=242
+20 FORI=1TO48
+30 BEEPI,S
+40 NEXT
+50 BEEP1,0
+60 OUT243,0
+70 OUT244,0
+80 FORL=255TO0STEP-1
+90 OUTN,L
+100 NEXT
+```
+
+Programme No2 :
+
+```basic
+10 DEFINT A-Z:S=1:N=242
+20 OUT243,0:OUT244,78
+30 FORL=0TO255
+40 OUTN,L:OUTN,255-L
+50 NEXT
+```
+
+Programme surprise :
+```basic
+TO DO
+```
+
+
+
+
+
 
 
 ```basic
