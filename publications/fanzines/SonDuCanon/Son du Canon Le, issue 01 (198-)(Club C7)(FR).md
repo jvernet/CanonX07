@@ -11,7 +11,7 @@ NDR : 2 page sont manquantes.
 
 
 
-Page 6\
+Page 16\
 Nombre Aléatoire
 ```basic
 5 REM "GENERATEUR ALEATOIRE"
@@ -56,7 +56,7 @@ LD(1F26),A
 RET
 ```
 
-Page 7\
+Page 17\
 Tirage Loto
 
 ```basic
