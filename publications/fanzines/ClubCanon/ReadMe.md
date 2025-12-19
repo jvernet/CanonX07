@@ -5,7 +5,9 @@ ___
 
 Fanzines édité par le CLub Canon XO7.\
 Les sources proviennent de Abandonware Magazines.\
-Les fichiers ont été restauré du mieux possible. Ceci afin de pouvoir les imprimer.
+Les fichiers sont en cours de restauration complète. Ceci afin de pouvoir les imprimer comme si ils venaient de sortir.
+
+Pour les dessins, nous ne connaissons pas le ou les auteurs, si vous savez, laisser un message.
 
 ___
 ## Tableau des publications
