@@ -15,7 +15,19 @@ Source : Abandonware Magazines
 ___
 # Tableau
 
-6 numéros connus :
+Tableau de suivi :
+
+| Icon | État |
+|------|-------|
+|  ✅  | Terminé |
+|  ❌  | Echec |
+|  ❕  | À trouver |
+|  📝  | En cours |
+
+
+Tableaux de l'état d'avancement des restaurations :
+
+Les 6 numéros connus :
 
 | No | Date | Etat | COmmentaire |
 |----|------|------|-------------|
@@ -26,7 +38,7 @@ ___
 | 05 |  |  | |
 | 06 |  |  | |
 
-5 Hors série connus :
+Les 5 Hors série connus :
 
 | No | Date | Etat | COmmentaire |
 |----|------|------|-------------|
@@ -39,11 +51,16 @@ ___
 Il n'y a pas de no sur les HS, il faut les remettre dans l'ordre de date de publication.
 
 ___
-### Un livre ?
+## Note de restauration
 
-Fusion de tout le fanzine en format livre.\
-Suppression des PA, Pubs et autres.\
-...
+Les sources sont les scan qui se trouvent encore sur Abandonware Magazine.\
+Les JPG ont été transformé en PNG, puis en Grayscale. Traitements divers de corrections et retouches.\
+Transformation en A4 300dpi.\
+Une fois les images correctes, mise en PDF et OCR.
+
+Le renammage des PNG cherche à correspondre aux no de page.\
+Des pages blanches peuvent être insérées afin de pouvoir imprimer correctement chaque fanzines en mode livret.
+Par exemple sur une imprimante A3.
 
 
 ___

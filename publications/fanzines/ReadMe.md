@@ -11,4 +11,13 @@ De plus, nous ignorons le nombre exact de publication pour chacun d'eux.
 - Club Canon X-07
 - Club C7
 
+
+___
+## Un livre ?
+
+Fusion de tous les fanzines en format livre.\
+Suppression des PA, Pubs et autres.\
+...
+
+
 ___
