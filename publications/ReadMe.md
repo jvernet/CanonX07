@@ -1,8 +1,16 @@
-# X07
+# Publications sur le CANON X-07
 
 ___
 ## Introduction
 
-TO DO
+Sont mis ici les publications connues concernant le CANON X-07.\
+Livres, Articles et Fanzines.
+
+Les recherches et restaurations sont en cours.
+
+Dans le cadre d'articles, seul l'article est repris de la revues.
+
+Cette partie ne concerne pas les logiciels publiés, par exemple dans Hebdogiciel.\
+Veuillez vous référer au répertoire "src".
 
 ___
