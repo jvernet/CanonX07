@@ -1,6 +1,14 @@
+# Fanzines CANON X-07
 
-TO DO
+___
+## Introduction
 
-Fanzines here.
+Vous trouverez ici les 2 fanzines connus concernant le CANON X-07.\
+Il manque certains numéros et nous sommes toujours à leurs recherche.
 
+De plus, nous ignorons le nombre exact de publication pour chacun d'eux.
 
+- Club Canon X-07
+- Club C7
+
+___
