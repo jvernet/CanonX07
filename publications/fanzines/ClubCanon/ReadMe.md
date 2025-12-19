@@ -14,17 +14,24 @@ ___
 | No | Dates | Etat |Commentaire |
 |----|-------|------|------------|
 | 01| | | Manquant |
-| 02| | | |
-| 03| | | |
-| 04| | | |
-| 05| | | |
+| 02| | | PNG lisible |
+| 03| | | PNG lisible |
+| 04| | | PNG lisible |
+| 05| | | PNG lisible |
 | 06| | | Manquant |
-| 07| | | |
-| 08| | | |
-| 09| | | |
-| 10| | | |
-| 11| | | |
+| 07| | | PNG lisible |
+| 08| | | PNG lisible |
+| 09| | | PNG lisible |
+| 10| | | PNG lisible |
+| 11| | | PNG lisible |
 | 12-13| | | Numéro double |
 
+___
+## Note de restauration
+
+Les sources sont les scan qui se trouvent encore sur Abandonware Magazine.\
+Les JPG ont été transformé en PNG, puis en Grayscale. Traitements divers de corrections et retouches.\
+Transformation en A4 300dpi.\
+Une fois les images correctes, mise en PDF et OCR.
 
 ___
