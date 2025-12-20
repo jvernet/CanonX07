@@ -25,16 +25,18 @@ ___
 | No | Date       | Réf.                                    | Commentaire                  |
 |----|------------|-----------------------------------------|------------------------------|
 | 03 |    | 34 eme SICOB | |
-| 05 |  | Produits | Présentation p60 |
+| 05 |    | Produits | Présentation p60 |
 
+
+Restauration des pages à faire.
 
 ___
 ### LIST
 
 | No | Date       | Réf.                                    | Commentaire                  |
 |----|------------|-----------------------------------------|------------------------------|
-| 01 |   | Table des matières | Listing - p78 |
-| 03 |   | Publicité double page | |
+| 01 |    | Table des matières | Listing - p78 |
+| 03 |    | Publicité double page | |
 | 06 |    | La gazette de List - Carte Minitel | Tout petit encart - p16 |
 | 06 |    | La gazette de List - Logi'Stick | 3 cassettes - p18 |
 | 06 |    | La guerre des trois | Listing ; p20-21 |
@@ -56,7 +58,8 @@ ___
 | 12 |    | Mesurer le temps d'utilisation | Listings p63-64 |
 | 12 |    | Interdire l'accès... | Listings p68-69 |
 
-Rien au dela du no 12. De plus beaucoup de no incomplets.
+Pas de no 13 et au-dela.\
+De plus beaucoup de no sont incomplets.
 
 
 ___
@@ -80,21 +83,22 @@ Pas de no 24 et au-delà trouvé.
 ___
 ### Tilt
 
-| No | Date       | Réf.                                    | Commentaire                  |
-|----|------------|-----------------------------------------|------------------------------|
-| 10 | 1984-03    | L'Aventurier de l'île perdue            | Jeu en ancart - Listing      |
-| 12 | 1984  | Tilt journal | Logi'Stick - p10 |
-| 13 | 1984 | La cité interdite | Jeu en ancart - Listing |
-| 16 | 1984 | AWALI | Jeu en ancart - Listing |
-| 17 | 1984 | Tilt Journal | Zodiacal - Pub |
-| 18 | 1985 | Tout Shuss | Jeu en ancart - Listing |
-| 19 | 1985 | Tilt Journal | L'X07 A DE LA MÉMOIRE - p16 |
+| No | Date       | Réf.                         | Commentaire                  |
+|----|------------|------------------------------|------------------------------|
+| 10 | 1984-03    | L'Aventurier de l'île perdue | Jeu en ancart - Listing      |
+| 12 | 1984       | Tilt journal                 | Logi'Stick - p10             |
+| 13 | 1984       | La cité interdite            | Jeu en ancart - Listing      |
+| 16 | 1984       | AWALI                        | Jeu en ancart - Listing      |
+| 17 | 1984       | Tilt Journal                 | Zodiacal - Pub               |
+| 18 | 1985       | Tout Shuss                   | Jeu en ancart - Listing      |
+| 19 | 1985       | Tilt Journal                 | L'X07 A DE LA MÉMOIRE - p16  |
 
--> 25
+ recherche -> 35
 
 Le no 17 à un panaché de micro de l'époque.
 
+En cours d'extraction.\
+Il faudra netoyer les PDF et refaire les plan de jeu.
 
 
-
-
+___
