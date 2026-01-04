@@ -11,6 +11,8 @@ De plus, nous ignorons le nombre exact de publication pour chacun d'eux.
 - Club Canon X-07
 - Club C7
 
+- Atlantis
+- Info'Look
 
 ___
 ## Un livre ?
