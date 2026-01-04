@@ -38,4 +38,11 @@ Publicité pour le XF-01 : Lecteur de disquette compatible IBM.
 Grille tarifaires.\
 Permet aussi de référencer le matèriel pour le Canon X-07.
 
+
+### CMI
+
+Centre Micro informatique
+
+Fiche partenariat et tarif Canon.
+
 ___
