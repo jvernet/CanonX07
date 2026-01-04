@@ -1,0 +1,515 @@
+
+100 '**********************************
+110 '
+120 '  NUMEROLOGIE
+130 '     J.MONTERRIN
+140 '        d'apres J.-D FERMIER.
+150 '
+160 '**********************************
+170 CLS
+180 PRINT" Vous allez entrer"
+190 PRINT" dans le domaine"
+200 PRINT" de la NUMEROLOGIE."
+210 FOR I=1 TO 2500
+220 NEXT I
+1000 '*********************************
+1010 '****      INITIALISATION     ****
+1020 CLS
+1030 CLEAR 2500
+1040 N$="":P$=""
+1050 INPUT"NOM...";N$
+1060 INPUT"PRENOM";P$
+1070 DN=LEN(N$)+1
+1080 DP=LEN(P$)+1
+1090 DIM TN(DN),TP(DP),TC(9)
+1100 A$="ABCDEFGHI"
+1110 B$="JKLMNOPQR"
+1120 C$="STUVWXYZ*"
+1130 CLS
+1140 PRINT"Date de naissance :"
+1150 INPUT" Jour :";JO
+1160 INPUT" Mois :";MO
+1170 INPUT" Annee:";AN
+1180 CLS
+1190 PRINT"Date actuelle :"
+1200 INPUT" Mois :";MS
+1210 INPUT" Annee:";AE
+1220 CLS
+1230 PRINT"PATIENCE,JE CALCULE ET J'IMPRIME"
+1240 LPRINT STRING$(40,"*")
+1250 LPRINT:LPRINT
+1260 LPRINT°3,3§P$+"  "N$
+1270 LPRINT
+1280 LPRINT°2,0§"N(e) le: ";JO;MO;AN
+1290 LPRINT:LPRINT
+1310 '****            NOM          ****
+1320 FOR I=1 TO DN-1
+1330 D$=MID$(N$,I,1)
+1340 FOR J=1 TO 9
+1350 E$=MID$(A$,J,1)
+1360 IF E$=D$ THEN 1420
+1370 E$=MID$(B$,J,1)
+1380 IF E$=D$ THEN 1420
+1390 E$=MID$(C$,J,1)
+1400 IF E$=D$ THEN 1420
+1410 NEXT J
+1420 TN(I)=J
+1430 TC(J)=TC(J)+1
+1440 TN(DN)=TN(DN)+TN(I)
+1450 NEXT I
+1500 '*********************************
+1510 '****          PRENOM         ****
+1520 FOR I=1 TO DP-1
+1530 D$=MID$(P$,I,1)
+1540 FOR J=1 TO 9
+1550 E$=MID$(A$,J,1)
+1560 IF E$=D$ THEN 1620
+1570 E$=MID$(B$,J,1)
+1580 IF E$=D$ THEN 1620
+1590 E$=MID$(C$,J,1)
+1600 IF E$=D$ THEN 1620
+1610 NEXT J
+1620 TP(I)=J
+1630 TC(J)=TC(J)+1
+1640 TP(DP)=TP(DP)+TP(I)
+1650 NEXT I
+1660 LPRINT"Resultat Nom :"
+1670 FOR I=1 TO DN
+1680 LPRINT TN(I);
+1690 NEXT I
+1700 LPRINT:LPRINT"Resultat prenom :"
+1710 FOR I=1 TO DP
+1720 LPRINT TP(I);
+1730 NEXT I
+1740 LPRINT:LPRINT"Totaux :"
+1750 FOR I=1 TO 9
+1760 LPRINT TC(I);
+1770 NEXT I
+1780 LPRINT:LPRINT
+1800 '*********************************
+1810 '****       GENERALITES       ****
+1815 J=0:K=0
+1820 LPRINT"*EN GENERAL,"
+1830 LPRINT" VOUS ETES :"
+1840 FOR I=1 TO 9
+1850 IF TC(I)<3 THEN1870
+1855 J=J+1
+1860 ON I GOSUB 2020,2050,2080,2110,2140,2170,2200,2230,2260
+1870 NEXT I
+1875 IF J=0 THEN GOSUB 2290
+1880 LPRINT" VOUS MANQUEZ :"
+1890 FOR I=1 TO 9
+1900 IF TC(I)>0 THEN1920
+1910 ON I GOSUB 3020,3040,3060,3080,3100,3120,3140,3160,3180
+1915 K=K+1
+1920 NEXT I
+1925 IF K=0 THEN GOSUB 2310
+1930 LPRINT:LPRINT
+1940 GOTO 3300
+2000 '*********************************
+2010 '****        TXT.AVOIR        ****
+2020 LPRINT"  -Matre de vous,confiant en vous et"
+2030 LPRINT"   capable d'autorit."
+2040 RETURN
+2050 LPRINT"  -Soucieux de vous associer,ou de"
+2060 LPRINT"   collaborer.Soumission possible."
+2070 RETURN
+2080 LPRINT"  -Sociable,souple et adaptable.Vous"
+2090 LPRINT"   avez le got du contact. "
+2100 RETURN
+2110 LPRINT"  -Ralisateur.Vous tes organis et"
+2120 LPRINT"   travailleur.Stabilit."
+2130 RETURN
+2140 LPRINT"  -Mobile,vous avez le got des voyages"
+2150 LPRINT"   et du changement.Epris de libert."
+2160 RETURN
+2170 LPRINT"  -Soucieux d'harmonie.Amour,foyer et"
+2180 LPRINT"   famille sont votre lot.Conciliation."
+2190 RETURN
+2200 LPRINT"  -Capable de vie intrieure,d'analyse"
+2210 LPRINT"  et de rflexion.Comprhension."
+2220 RETURN
+2230 LPRINT"  -Matrialiste.Vous avez le got de"
+2240 LPRINT"   l'argent et de la russite.Pouvoir."
+2250 RETURN
+2260 LPRINT"  -Humanitaire.Vous tes dvou et"
+2270 LPRINT"   interss par les autres.Altruisme."
+2280 RETURN
+2290 LPRINT"  -Dnu de tendances marques."
+2300 RETURN
+2310 LPRINT"  -De peu de choses.L'ensemble est bien"
+2320 LPRINT"   quilibr."
+2330 RETURN
+3000 '*********************************
+3010 '****        TXT.MANQUE       ****
+3020 LPRINT"  -De Confiance en vous."
+3030 RETURN
+3040 LPRINT"  -D'esprit de collaboration."
+3050 RETURN
+3060 LPRINT"  -De sociabilit."
+3070 RETURN
+3080 LPRINT"  -Du sens de la ralisation."
+3090 RETURN
+3100 LPRINT"  -De mobilit."
+3110 RETURN
+3120 LPRINT"  -Du sens de l'harmonie."
+3130 RETURN
+3140 LPRINT"  -De vie intrieure."
+3150 RETURN
+3160 LPRINT"  -De sens matriel."
+3170 RETURN
+3180 LPRINT"  -D'humanit."
+3190 RETURN
+3300 '*********************************
+3310 '****       NB.EXPRESION      ****
+3320 NE$=STR$(TN(DN)+TP(DP))
+3330 NE=VAL(MID$(NE$,2,1))+VAL(MID$(NE$,3,1))
+3340 NE=NE+VAL(MID$(NE$,4,1))
+3350 IF NE=11 THEN NE=10:GOTO 3400
+3360 IF NE=22 THEN NE=11:GOTO 3400
+3370 NE$=STR$(NE)
+3380 NE=VAL(MID$(NE$,2,1))+VAL(MID$(NE$,3,1))
+3390 LPRINT°2,1§"*PLUS SPECIFIQUEMENT,(";NE;+")"
+3400 ON NE GOSUB3500,3700,3900,4100,4300,4500,4700,4900,5100,5300,5500
+3410 LPRINT:LPRINT
+3420 GOTO 5800
+3500 '*********************************
+3510 '****     TXT.EXPRESSION      ****
+3520 LPRINT" PERSONNALITE:autoritaire,volontaire."
+3530 LPRINT" Confiance en vous.Ambition.Tendance"
+3540 LPRINT"  l'egosme et  la domination."
+3550 LPRINT" AMOUR:affirmation de l'autorit,le"
+3560 LPRINT" partenaire doit tre docile et fidle."
+3570 LPRINT" Vous tes gnreux et passionn,mais"
+3580 LPRINT" l'attitude est distante voire froide."
+3590 LPRINT" TRAVAIL:vous avez l'Šme d'un chef,vous"
+3600 LPRINT" dirigez et commandez.Vous acceptez mal"
+3610 LPRINT" les erreurs.vous tes exigeant dans"
+3620 LPRINT" vos associations."
+3630 LPRINT" SANTE,vos points faibles : le coeur,"
+3640 LPRINT" la circulation sanguine et les yeux."
+3650 RETURN
+3700 LPRINT" PERSONNALITE:equilibr et sensible,"
+3710 LPRINT" tact et imagination.Tendance  la"
+3720 LPRINT" paresse et  la soumission.Vous vous"
+3740 LPRINT" unissez mme si vous n'tes pas sr "
+3750 LPRINT" de vos sentiments.Vous tes doux "
+3760 LPRINT" et rveur."
+3770 LPRINT" TRAVAIL:vous tes un collaborateur-n."
+3780 LPRINT" Vous aimez les ambiances sereines.Vous"
+3790 LPRINT" tes dou pour les contacts et les"
+3800 LPRINT" ngociations.Meilleur en excution"
+3810 LPRINT" qu'en direction,sauf dans le cadre "
+3820 LPRINT" d'une activit indpendante en rapport"
+3830 LPRINT" avec la cration ou le commerce."
+3840 LPRINT" SANTE,vos points faibles:foie,ovaires "
+3850 LPRINT" ou testicules,pancras et estomac."
+3860 RETURN
+3900 LPRINT" PERSONNALITE:crative,sociable,franche"
+3910 LPRINT" et gnreuse.Tendance ‰ la colre,‰"
+3920 LPRINT" l'orgueil et ‰ la dispersion."
+3930 LPRINT" AMOUR:gaiet et jovialit.L'amour est"
+3940 LPRINT" profond,passionn.Neanmoins vous tes"
+3950 LPRINT" grand amateur de plaisir.Vous mettez "
+3960 LPRINT" du temps ‰ trouver l'union srieuse."
+3970 LPRINT" Vous y cherchez le càt brillant ou "
+3980 LPRINT" intressant."
+3990 LPRINT" TRAVAIL:vous rayonnez et vous savez"
+4000 LPRINT" communiquer.Mouvement et activit vous"
+4010 LPRINT" sont indispensables.Vous avez le got"
+4020 LPRINT" de l'organisation et des relations."
+4030 LPRINT" Votre objectif:russir matriellement."
+4040 LPRINT" SANTE,vos points faibles:le foie et la"
+4050 LPRINT" circulation artrielle."
+4060 RETURN
+4100 LPRINT" PERSONNALITE:patient,persvrant et"
+4110 LPRINT" stable.Vous tes prcis et organis."
+4120 LPRINT" Tendance ‰ la routine et ‰ la lenteur,"
+4130 LPRINT" parfois ‰ l'avarice."
+4140 LPRINT" AMOUR:vos sentimemts sont profonds et"
+4150 LPRINT" stables mais peu demonstratifs.Fidle"
+4160 LPRINT" ‰ vos principes,vous tes discret et"
+4170 LPRINT" rserv."
+4180 LPRINT" TRAVAIL:vous tes un travailleur-n."
+4190 LPRINT" On vous fait trs confiance pour vos"
+4200 LPRINT" qualits d'ordre et de mthode.Vous"
+4210 LPRINT" devrez votre russite ‰ vos efforts"
+4220 LPRINT" assidus.Ascension lente et rgulire."
+4230 LPRINT" SANTE,vos points faibles:les os,les"
+4240 LPRINT" dents et les articulations."
+4250 RETURN
+4300 LPRINT" PERSONNALITE:adaptation,souplesse,"
+4310 LPRINT" vivacit et mobilit sont votre lot."
+4320 LPRINT" Tendances:impulsivit,instabilit."
+4330 LPRINT" AMOUR:pas trs sentimental vous tes"
+4340 LPRINT" plaisant par votre esprit et votre"
+4350 LPRINT" charme .Votre got pour le changement"
+4360 LPRINT" s'accommode mal des unions durables."
+4370 LPRINT" Il vous arrive,pour la bonne cause,de"
+4380 LPRINT" vous unir dfinitivement."
+4390 LPRINT" TRAVAIL:vous vous intressez ‰ des"
+4400 LPRINT" domaines varis,vous pouvez changer de"
+4410 LPRINT" profession.Vous avez besoin de bouger."
+4420 LPRINT" Adaptation et facilit de contact vous"
+4430 LPRINT" font souvent russir."
+4440 LPRINT" SANTE,vos points faibles:le systme"
+4450 LPRINT" nerveux,les poumons,la gorge."
+4460 RETURN
+4500 LPRINT" PERSONNALITE:vous tes charmant,d'un"
+4510 LPRINT" esprit conciliant,sentimental.Vous"
+4520 LPRINT" avez le sens de la beaut.Tendance ‰"
+4530 LPRINT" la facilit,l'indcision et ‰ une"
+4540 LPRINT" sensualit exacerbe."
+4550 LPRINT" AMOUR:vous avez le souci de plaire et"
+4560 LPRINT" vous recherchez le bonheur dans les"
+4570 LPRINT" plaisirs et l'amour.Votre quilibre"
+4580 LPRINT" est ‰ ce prix.Dans une union durable,"
+4590 LPRINT" vous avez l'esprit de famille et vous"
+4600 LPRINT" vous occupez de votre foyer."
+4610 LPRINT" TRAVAIL:vous n'tes pas trs dbordant"
+4620 LPRINT" d'activit et vous manquez un peu"
+4630 LPRINT" de rigueur.Vous tes dou pour les"
+4640 LPRINT" accords.Vous tes capable d'assumer"
+4650 LPRINT" vos responsabilits.Possibilit de"
+4660 LPRINT" russite dans le domaine artistique."
+4670 LPRINT" SANTE,vos points faibles:gorge,voix et"
+4680 LPRINT" les organes fminins."
+4690 RETURN
+4700 LPRINT" PERSONNALITE:vous savez analyser et"
+4710 LPRINT" tudier.Vous avez de l'intuition et le"
+4720 LPRINT" culte de l'amiti.Tendances:angoisse"
+4730 LPRINT" pessimisme et enttement."
+4740 LPRINT" AMOUR:vous tes indpendant et ne vous"
+4750 LPRINT" embarrassez pas de dtails.Amours et"
+4760 LPRINT" ruptures se succdent souvent de faåon"
+4770 LPRINT" inattendue.Union possible avec  un(e)"
+4780 LPRINT" partenaire respectant l'indpendance"
+4790 LPRINT" et partageant les mmes intrts.Vous"
+4800 LPRINT" exigez beaucoup de l'autre."
+4810 LPRINT" TRAVAIL:vous aimez les activits assez"
+4820 LPRINT" indpendantes et vitez la monotonie."
+4830 LPRINT" L'autorit d'autrui est mal supporte."
+4840 LPRINT" Votre originalit vous fait russir en"
+4850 LPRINT" dehors des sentiers battus."
+4860 LPRINT" SANTE,vos points faibles:les nerfs et"
+4870 LPRINT" le psychisme."
+4880 RETURN
+4900 LPRINT" PERSONNALITE:nergique,entreprenant"
+4910 LPRINT" audacieux et courageux.Tendance ‰ la"
+4920 LPRINT" duret,‰ l'agressivit,‰ la rancune."
+4930 LPRINT" AMOUR:vous tes imptueux, impatient."
+4940 LPRINT" Il vous faut des conqutes rapides."
+4950 LPRINT" Vous aimez avec passion,vos sentiments"
+4960 LPRINT" sont francs.Dans l'union vous pouvez"
+4970 LPRINT" tre jaloux.Au moins,on sait u on va."
+4980 LPRINT" TRAVAIL:vous tes un grand travailleur"
+4990 LPRINT" et vous avez besoin de dpenser votre"
+5000 LPRINT" nergie.Vous avez le sens du concret"
+5010 LPRINT" et des dcisions rapides.La russite"
+5020 LPRINT" se fait rapidement et par ‰-coups."
+5030 LPRINT" SANTE,les points faibles:la tte et"
+5040 LPRINT" les organes masculins.Il y a risque de"
+5050 LPRINT" blessures ou d'oprations. "
+5060 RETURN
+5100 LPRINT" PERSONNALITE:altruiste,dvou,motif"
+5110 LPRINT" idaliste et trs passion.Tendances:"
+5120 LPRINT" dsordre,crdulit et contradiction."
+5130 LPRINT" AMOUR:pas trs romantique,faisant la"
+5140 LPRINT" preuve de votre affection,vous exigez"
+5150 LPRINT" des gages en retour.vous tes loyal et"
+5160 LPRINT" fidle.En l'absence d'quilibre,vous"
+5170 LPRINT" pouvez aller vers du peu reluisant."
+5180 LPRINT" TRAVAIL:vous tes dvou et dot d'une"
+5190 LPRINT" grande capacit d'assimilation,ceci"
+5200 LPRINT" participe ‰ votre russite.Vous tes"
+5210 LPRINT" facilement influenc.Il vous manque un"
+5220 LPRINT" peu de sens pratique .Il vous faut y"
+5230 LPRINT" croire pour travailler efficacement."
+5240 LPRINT" SANTE,vos points faibles:le psychisme"
+5250 LPRINT" et le systme lymphatique. "
+5260 RETURN
+5300 LPRINT" PERSONNALITE:vous tes dou de force"
+5310 LPRINT" morale et physique.Vous tes inspir"
+5320 LPRINT" ambitieux et vous avez de l'ascendant"
+5330 LPRINT" sur autrui.Tendance au nervosisme et ‰"
+5340 LPRINT" la brutalit.
+5350 LPRINT" AMOUR:votre force de caractre doit"
+5360 LPRINT" tre accepte par l'autre.Vous tes"
+5370 LPRINT" attirant.Vous acceptez mal que l'on"
+5380 LPRINT" vous contredise.
+5390 LPRINT" TRAVAIL:votre vision est large,vous"
+5400 LPRINT" russissez dans ce qui vous intresse."
+5410 LPRINT" Vous recherchez les responsabilits et"
+5420 LPRINT" avez le sens du commandement."
+5430 LPRINT" SANTE,vos points faibles:cerveau.Vous"
+5440 LPRINT" tes sujet a la depression et au"
+5450 LPRINT" surmenage."
+5460 RETURN
+5500 LPRINT" PERSONNALITE:matre de vous,dot d'un"
+5510 LPRINT" esprit constructif.Vous avez le sens"
+5520 LPRINT" de la ralisation et de la puissance"
+5530 LPRINT" au travail.Tendance ‰ l'extravagance"
+5540 LPRINT" et ‰ l'aveuglement."
+5550 LPRINT" AMOUR:proccup par l'ambition,votre"
+5560 LPRINT" vie sentimentale parat secondaire.Le"
+5570 LPRINT" grand amour est possible si l'autre"
+5580 LPRINT" pouse vos passions et vos intrts."
+5590 LPRINT" TRAVAIL:vous tes dot d'inspiration"
+5600 LPRINT" cratrice,vous savez raliser vos"
+5610 LPRINT" projets.Vous ralisez pour vous et"
+5620 LPRINT" pour les autres.Puissance et capacit"
+5630 LPRINT" de travail vous amneront la russite,"
+5640 LPRINT" voire la renomme."
+5650 LPRINT" SANTE,vos points faibles:les os.Risque"
+5660 LPRINT" de trouble nerveux ou psychique."
+5670 RETURN
+5800 '*********************************
+5810 '****        DOMINANTE        ****
+5820 FOR I=1 TO 9
+5830 IF DM<TC(I) THEN DM=TC(I)
+5840 NEXT I
+5850 LPRINT°2,3§"*CE QUI DOMINE."
+5860 LPRINT" VOUS ETES :(";DM;+")"
+5870 FOR I=1 TO 9
+5880 IF DM=TC(I) THEN 5900
+5890 NEXT I
+5900 ON I GOSUB 2020,2050,2080,2110,2140,2170,2200,2230,2260
+5910 LPRINT:LPRINT
+6000 '*********************************
+6010 '****         NBR.VIE         ****
+6020 CV$=STR$(JO+MO+AN)
+6030 CV=VAL(MID$(CV$,2,1))+VAL(MID$(CV$,3,1))
+6040 CV=CV+VAL(MID$(CV$,4,1))+VAL(MID$(CV$,5,1))
+6050 IF CV=11 THEN CV=10:GOTO 6100
+6060 IF CV=22 THEN CV=11:GOTO 6100
+6070 CV$=STR$(CV)
+6080 CV=VAL(MID$(CV$,2,1))+VAL(MID$(CV$,3,1))
+6090 LPRINT°2,2§"*VOTRE VIE,CE QUI EST FAVORISE.(";CV;+")"
+6100 ON CV GOSUB 6200,6300,6400,6500,6600,6700,6800,6900,7000,7100,7200
+6110 LPRINT:LPRINT
+6120 GOTO 7500
+6200 '*********************************
+6210 '****         TXT.VIE         ****
+6220 LPRINT" Vie d'action individuelle.Tout en vous"
+6230 LPRINT" favorise la reussite personnelle et"
+6240 LPRINT" les realisations individuelles."
+6250 RETURN
+6300 LPRINT" Vie de collaboration et d'harmonie."
+6310 LPRINT" Vous tes dou pour les associations,"
+6320 LPRINT" vous avez toutes chances de conclure"
+6330 LPRINT" un mariage heureux.Vous recherchez"
+6340 LPRINT" l'affection et l'amiti."
+6350 RETURN
+6400 LPRINT" Vie de crativit et d'expression.Tout"
+6410 LPRINT" en vous favorise les activits de "
+6420 LPRINT" contact et les relations avec autrui."
+6430 RETURN
+6500 LPRINT" Vie de travail et de construction.Vous"
+6510 LPRINT" pouvez obtenir le succs par votre"
+6520 LPRINT" travail et vos efforts rguliers."
+6530 RETURN
+6600 LPRINT" Vie de mobilit et de changements.Vous"
+6610 LPRINT" risquez d'tre plus ou moins soumis a"
+6620 LPRINT" des changements dans tous les domaines"
+6630 LPRINT" de l'existence.Votre vie connatra des"
+6640 LPRINT" transformations frquentes."
+6650 RETURN
+6700 LPRINT" Vie de responsabilit et d'harmonie"
+6710 LPRINT" sentimentale.Vous aurez des choix ‰"
+6720 LPRINT" faire.Ce ne sera pas toujours facile"
+6730 LPRINT" de choisir la bonne direction."
+6740 RETURN
+6800 LPRINT" Vie intrieure et indpendante.Vous"
+6810 LPRINT" tes enclin aux travaux de l'esprit et"
+6820 LPRINT" ‰ la vie intrieure ou spirituelle et"
+6830 LPRINT" tout ce qui a rapport avec l'analyse"
+6840 LPRINT" ou la recherche."
+6850 RETURN
+6900 LPRINT" Vie de ralisations ambitieuses et"
+6910 LPRINT" d'acquisitions matrielles.Vous tes"
+6920 LPRINT" dou d'ambition et capable de raliser"
+6930 LPRINT" des travaux d'envergure."
+6940 RETURN
+7000 LPRINT" Vie d'vasion ou d'idal.Vous avez une"
+7010 LPRINT" propension aux voyages:aussi bien ceux"
+7020 LPRINT" de l'esprit ou de l'Šme que ceux que"
+7030 LPRINT" l'on peut effectuer dans le monde."
+7040 LPRINT" A prvoir beaucoup de rencontres et"
+7050 LPRINT" d'expriences varies."
+7060 RETURN
+7100 LPRINT" Vie d'inspiration et de matrise.Vous"
+7110 LPRINT" avez des facilites pour accomplir des"
+7120 LPRINT" ralisations ambitieuses,originales."
+7130 RETURN
+7200 LPRINT" Vie d'accomplissements importants.Vous"
+7210 LPRINT" avez des facilits pour concevoir des"
+7220 LPRINT" projets de haut niveau.Ceux-ci peuvent"
+7230 LPRINT" intresser une collectivit."
+7240 RETURN
+7500 '*********************************
+7510 '****       NBR.AVENIR        ****
+7520 AV$=STR$(JO+MO+MS+AE)
+7530 AV=VAL(MID$(AV$,2,1))+VAL(MID$(AV$,3,1))
+7540 AV=AV+VAL(MID$(AV$,4,1))+VAL(MID$(AV$,5,1))
+7550 AV$=STR$(AV)
+7560 AV=VAL(MID$(AV$,2,1))+VAL(MID$(AV$,3,1))
+7570 LPRINT°2,3§"*CE MOIS CI:(";AV;+")"
+7580 ON AV GOSUB 8000,8200,8400,8600,8800,9000,9200,9400,9600
+7590 LPRINT:LPRINT
+7600 LPRINT°2,0§STRING$(40,"*")
+7610 LPRINT:LPRINT
+7620 PRINT" FIN"
+7630 END
+8000 '*********************************
+8010 '****         TXT.MOIS        ****
+8020 LPRINT" Est idal pour commencer une activit"
+8030 LPRINT" ou vous attaquer a un problme ardu."
+8040 LPRINT" L'action personnelle est favorise."
+8050 RETURN
+8200 LPRINT" Est idal pour les rencontres et pour"
+8210 LPRINT" renouer des contacts.C'est le moment"
+8220 LPRINT" de solliciter une aide.L'association"
+8230 LPRINT" est conseille."
+8240 RETURN
+8400 LPRINT" Est idal pour vous exprimer.Le succs"
+8410 LPRINT" est facilit dans tous les domaines."
+8420 LPRINT" Montrez vous sous un jour avantageux."
+8430 LPRINT" Soyez prudent dans vos dpenses."
+8440 RETURN
+8600 LPRINT" Est idal pour le travail et la vie"
+8610 LPRINT" matrielle.Proccupez-vous de votre"
+8620 LPRINT" intrieur et mettez tout a jour.Des"
+8630 LPRINT" restrictions sont ‰ prvoir,ou bien"
+8640 LPRINT" un surcroit inattendu de travail."
+8650 RETURN
+8800 LPRINT" Est idal pour changer de peau ou pour"
+8810 LPRINT" de nouvelles initiatives.Le voyage ou"
+8820 LPRINT" les nouvelles aventures vous attirent."
+8830 LPRINT" Attention aux excs.Tendance possible"
+8840 LPRINT" ‰ l'impulsivit.Possible rencontre"
+8850 LPRINT" sentimentale."
+8860 RETURN
+9000 LPRINT" Est idal pour l'amiti et l'amour."
+9010 LPRINT" Possibilit de former une union ou de"
+9020 LPRINT" mettre fin ‰ une union de caractre"
+9030 LPRINT" sentimental.Soyez conciliant,conflits"
+9040 LPRINT" et litiges ne sont pas favorables."
+9050 RETURN
+9200 LPRINT" Est idal pour marquer une pose et"
+9210 LPRINT" faire le point.N'entreprenez pas une"
+9220 LPRINT" affaire financire ou matrielle.Les"
+9230 LPRINT" activits intellectuelles sont votre"
+9240 LPRINT" lot.Il y a risque de retards et de"
+9250 LPRINT" contretemps."
+9260 RETURN
+9400 LPRINT" Est idal pour les affaires,l'argent."
+9410 LPRINT" Rglez les problmes matriels.Lancez"
+9420 LPRINT" vous dans une entreprise.Veillez ‰ la"
+9430 LPRINT" sant et attention sur la route.Pour"
+9440 LPRINT" certains chance au jeu."
+9450 RETURN
+9600 LPRINT" Est idal pour finir ce qui est en"
+9610 LPRINT" cours.Ne dbutez rien,l'issue n'est"
+9620 LPRINT" pas garantie.Relations favorises avec"
+9630 LPRINT" l'tranger.Des pertes sont possibles."
+9640 RETURN

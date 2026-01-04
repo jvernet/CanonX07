@@ -1,0 +1,3 @@
+
+10 KEY$(1)="INIINIT £1,"+CHR$(34)+"COM:"+CHR$(34)+CHR$(13)
+20 KEY$(3)="L£1LIST £1"

@@ -1,0 +1,493 @@
+Programmes CANON X-07
+
+------------------------------------------------------------------------
+ LOGI'STICK
+ ----------
+------------------------------------------------------------------------
+	"TEXTE"
+FACE A
+ - TOUCHE
+ - TEXTE
+ - V-TEXTE
+
+FACE B
+ - TOUCHE
+ - V-TEXTE
+ - TEXTE
+
+	"FICHIER"
+FACE A
+ - LFICHE
+ - VFICHE
+
+FACE B
+ - VFICHE
+ - LFICHE
+
+------------------------------------------------------------------------
+"GRAPHE"
+------------------------------------------------------------------------
+FACE A
+ - GRAF1
+ - GRAF2
+ - prog inconnu (LM ?)
+FACE B
+ - GRAF2
+ - GRAF1
+
+------------------------------------------------------------------------
+"JEU2" 
+------------------------------------------------------------------------
+FACE A
+ - CARPAC (LM) defini les caracteres puis attends le suivant "cload" executé automatiquement !
+ - CAPMAN (2 eme partie pacman)
+ - SNAKE1 : Anaconda
+ - SNAKE2 : Anaconda X-720 - Video
+ - 
+FACE B
+ - SNAKE1 : Anaconda
+ - SNAKE2 : Anaconda X-720 - Video
+ - CARPAC (LM) sert à lancer CAPMAN !
+ - CAPMAN (2 eme partie pacman)
+
+------------------------------------------------------------------------
+"AGENDA" - 8 Ko
+------------------------------------------------------------------------
+FACE A
+ - AGENDA : pb illisible
+ - AGENDA : pb illisible
+ 
+FACE B
+ - AGENDA : pb illisible
+ - AGENDA : pb illisible
+ 
+------------------------------------------------------------------------ 
+"ASTRO" - 24 Ko
+------------------------------------------------------------------------
+-------
+FACE A
+ - 
+FACE B
+ - ASTRO
+
+------------------------------------------------------------------------
+POCKET SOFT
+------------------------------------------------------------------------
+X-07GRAPH
+---------
+ - XGRAPH
+ - XCONV
+ 
+X-07BASE
+--------
+ - XBASE
+ - XTRANS
+  
+X-07CALC
+--------
+ - XCALC
+ - XPLOT
+ 
+X-07PERT
+--------
+ - XPERT
+ 
+------------------------------------------------------------------------
+K7-1
+----
+ - REF16B + codes speciaux asm !
+ - EXA16B + codes speciaux asm !
+ - PIEGEL + codes speciaux asm !
+ - PIEGVI + codes speciaux asm !
+ - OTH-RE + codes speciaux asm !
+ 
+ - LMDATA
+ - CANON
+ - RESTOR
+ - COPIE
+ - LLISTB + codes speciaux asm !
+ - LOGOGE
+ - LABYR + codes speciaux asm !
+ - PENTO + codes speciaux asm !
+ - SOLIT + codes speciaux asm !
+ - AUTNUM
+
+K7-2
+----
+ - PROG A pour optocoupleur
+ - PROG B pour optocoupleur
+ - CIRCUS
+ - GEO
+ - TELE telecran
+ - LOTO
+ - ALEA
+
+K7-3 (4/5)
+----
+ - PENTA + codes speciaux asm !
+ - SOL   + codes speciaux asm !
+ - BREAK
+ - BOX
+ - TRIL-L
+ - CAMEMB pour X710
+ - DIRECT utilitaire
+ - COCA demo Cocacola
+ - 3D demo carré 3D  + codes speciaux asm ???
+ - EXA8BA  + codes speciaux asm !
+ - BOX
+ - LMDATA
+ - CANON
+ - C7TEXT + codes speciaux asm !
+
+K7-4 (6/7)
+----
+Face B
+ - POKER
+ - SAUTE saute moutons
+ - ALARME
+ - CARAC
+ - MEMORY 
+ - LABY + codes speciaux asm !
+
+Face B
+ - UTIL + codes speciaux asm !
+ - COURBE
+ - NOTES
+
+K7-5 (8)
+----
+ Face A
+ - POLYGO
+ - AMORTL
+ - AMORTD
+ - ANEVID
+ - SIMVID
+ 
+ Face B
+ - BURGER
+ - BLITZ
+
+K7-6 (Jeux Andre Tonic)
+----
+ - HARPOO	: Harpoon
+ - STAR		: Star Blaster
+ - SERPEN	: Serpent
+ - MARCHA	: Le marchand de l'espace
+ - CIRCUS	: Magic Circus
+ - C.L-M
+ - TRI
+ - CALC2/
+ - CASSE	: Casse Briques
+ - DONJON
+ - MORPIO	: Morpion
+ - PROG A2
+ - PROG B2
+ - COPIE
+ - COURBE	: traceur de courbes
+ - MEMORY	: Memory
+ - MASTER	: Master Mind
+ - JACK		: Jack Pot
+ - T-T-T	: Tic tac toe
+
+K7-7 (divers)
+----
+ - ASTRO	: Astrologie
+ - NUMERO	: Numerologie 24 K0
+ - TRON
+ - MATRIC	: Calcul matriciel
+ - STARS	: Jeu 7K0
+ - RIX 	  + codes speciaux asm !
+ - AWARI  + codes speciaux asm !
+ - 421		: Jeu du 421
+ - CITE		: La Cite interdite
+ - GP		: Grand Prix
+ - PROTEC
+ - CVBASE
+ - BLOCOC
+ - K7
+
+K7-8 (MATRIC)
+----
+ - RESET
+ - IA
+ - GRAPHO
+ - JOUR 
+ - PROTEC 
+ - CVBASE 
+ - MINITE
+ 
+ - TELE 
+ - LMDATA
+ - TELTAX
+ - ETI
+ - FICHES
+ - CALC
+
+K7-9 (C-60 SBL cassette)
+----
+ - SERPEN
+ - F 1
+ - BOMB
+ - COFFRE
+ - METEOR
+ - MUR LM
+ - CARACT.TXT
+ - King F
+ - B ROGE	: BUCK ROGERS
+ - AXIES
+ - RASE M
+ - Axies	
+ - SKIING
+ - DELTA
+ - KEY
+ - Fichie
+ - Laby
+
+ - K7		: trace etiquettes
+ - K7 (2)	: trace etiquettes
+ - T.T		: Traitement texte
+ - T.T (2)	: Traitement texte
+
+K7-10 
+----
+ - TUNNEL
+ - BREAK
+ - GASP	: Gaspation 1985 Nelson Productions
+ - TEMPLE
+ - CHENIL
+ - WAR		: Star Wars
+ - OTHELL	: Othello
+ - GRAVIT	: Gravitation
+
+K7-11 (BASF 60)
+----
+ - SNAKE	:  
+ - MAZOG	: 
+ - TRI	: 
+ - ANAC	: 
+ - CARAC	: 
+ - X07CAR	: 
+ - BENC	: 
+ - C.3D		: 
+ - 3D OI		: 
+ - POLAR		: 
+ - FACT		: 
+ - POLYG		: 
+ - TIC		: 
+ - INVER		: 
+ - PH		: 
+ - RENUM		: 
+ - DEUL		: 
+ - 3DOI2		: 
+ - FACTO		: 
+ - KEY		: 
+ - COURBE
+ - CALEND
+ - TIRAGE
+ - 3D RAP
+ - TEXTE
+ - CERCLE
+ - MONT
+ - MANDEL
+
+K7-12 (carrefour)
+----
+FACE A
+ - SI-VOL	: Simulateur de vol
+ - MINEUR	: 
+ - GRAVIT	:
+ - MOON1	: Moon Patrol 1
+ - MOON2	: Moon Patrol 2
+ - MATHS	: 
+ - ALIEN	: 
+ - GASP		: 
+ - AZAT		: Presentation Azathot
+ - AZATOT	: Azathot
+ - POKRTL	: 
+ - DRAGON	: 
+ - POKER	: 
+ - ALARME	: 
+ - GEOGRAPH	: 
+ - FRANCE	: 
+ - accesN	: 
+ - ACCES0	:
+ - RISK		: 
+ 
+ FACE B
+ - STRIP	: Strip Poker
+ - OTHELL	: Othello
+ - OTELO	: 
+ - SEAWAR	: 
+ - GOLF		: 
+ - MOTEUR	: 
+ - COKE		: 
+
+K7-13 (BASF LH 90)
+----
+ - FICHIE	: Base de données
+ - CALC		: Tableur
+ - 421
+ - IA		: 
+ - BABY		: Babylone
+ - JACK		: Jack Pot
+ - KOALA	: 
+ - koala
+ - MASTER ???	: 
+ - MEMORY	: 
+ - GP		: 
+ - NUMERO	: Numerologie
+ - CITE		: La Cité Interdite
+ - DICTAT	: 
+ - RESET	: 
+ - GRAPHO	: 
+ - LOGO		: 
+ - DANSE	: 
+ - PROTEC	: 
+ - CVBASE	: Conversion de bases
+ - BLOCOC	: 
+ - K7		: 
+ - MATRIC	: Calcul matriciel
+ - SCHUBE	: 
+ - JXINT	: 
+ - ON TOP	: 
+ 
+FACE B
+ - CIRCUS	: Magic Circus 
+ - GEO		: définition de caracteres
+ - TELE	:  
+ - COPIE	:  
+ - AUT-F6	: Autoprogrammation avec touche F6
+ - AUT-2	:  
+ - AUT-3	:  
+ - PAINT	:  
+ - BREAK	:  
+ - BOX		:  
+ - CAMEMB	:  
+ - LMDATA	:  
+ - POKER	:  
+ - SAUTE	:  
+ - ALARM	:  
+ - CARAC	:  
+ - POLYGO	:  
+ - AMORTL	: Amortissement Linéaire
+ - AMORTD	: Amortissement Dégressif
+ - ANEVID	: Ane Rouge (sur video)
+ - RAYONZ	: jeu (sur video)
+ - SIMVID	: jeu (sur video)
+ - TELTAX	: Calcul conso telephonique (necessite interface)
+ - ETI		: Trace etiquettes K7 sur X-730
+ - GAMES2	: Jeux Olympiques 
+
+K7-14 (TDK D46 + MEMOREX 60 dBSI )
+----
+ - TRON		: 
+ - JEU NB
+ - CALCUL
+ - CERCLE
+ - MINMAX
+ - MIROIR
+ - COURSE
+ - MUSIC
+ - PIANO
+ - POINT
+ - BILLE
+ - RONDS
+ - ESPACE
+ - DORMIR
+ - SOS
+ - SALUT
+
+------------------------------------------------------------------------
+Le Son du CANON n°9
+-------------------
+------------------------------------------------------------------------
+FACE A
+ - RAYONZ: jeu
+ - TELTAX: calcul taxes téléphoniques
+ - ETI	 : création d'étiquettes
+ - GAMES2: jeux olympiques II
+ - MINITE: Liaison Minitel
+
+FACE B
+ - RAYONZ
+
+Dossier speciaux informatiques 1-7 (Editions neptune)
+----------------------------------
+FACE A
+ - 3D
+ - GRAPH
+ - TEST
+ - MNTCC7
+ - PERT
+ - PIGAUS pivot de Gauss
+ - DECOLU resolution aX=b
+ - DECLDL
+ - GIVENS
+ - JACOBI
+ - GAUSEI Gauss Seidel
+ - AUTOMA
+ 
+------------------------------------------------------------------------
+ 
+ LE KIT'APPEL (Logi'stick) : gere appels telephoniques
+ ------------
+FACE A
+ - KIT'AP
+ - + données non reconnus
+
+FACE B
+ - KIT'AP
+ - + données non reconnus
+
+
+Le Son du CANON  n° 13
+----------------------
+ - Explications audio sur Burger (16 Ko mini)
+ - BURGER
+ - CDT.1 editeur d'icones
+
+------------------------------------------------------------------------
+ Jeux / Utilitaires
+ - MUSIC 
+ - TEMPLE
+ - G-PRIX
+ - LABYR
+ - BATTLE pb au chargement
+ - PROTECTEUR
+ - AWARI + codes
+ - VIE + codes
+ - TERRE pb decodage
+ 
+------------------------------------------------------------------------
+ 
+ Aide Basic
+ - RDI nok
+ - MATRIX nok
+ - MONITE 
+ - MONITE moniteur memoire Canon X-07
+
+------------------------------------------------------------------------
+ JEU1
+ ----
+FACE A
+ - MEMORY
+ - JACK
+ - MASTER
+ - HANOI
+ - POKER
+ - BABY
+ - PENDU
+ - KOALA
+ - T-T-T
+ - HARPE
+
+FACE B idem
+
+NAUTILUS
+ - NAUTIL
+ - NAUTIL2.txt
+ 
+ BANQUE
+ - V-BANK
+ - L-BANK
+ - + codes supplémentaires !

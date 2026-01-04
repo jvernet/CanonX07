@@ -1,0 +1,21 @@
+
+2 CLS:PRINTFRE(0);"Octets libres";
+3 A$="19"+MID$(DATE$,1,2)
+4 A=VAL(MID$(DATE$,4,2))
+5 RESTORE:FORI=1TOA:READB$:NEXT
+6 C$=MID$(DATE$,10,3)
+7 IFC$="MON"THENC$="Lundi"
+8 IFC$="TUE"THENC$="Mardi"
+9 IFC$="WED"THENC$="Mercredi"
+10 IFC$="THU"THENC$="Jeudi"
+11 IFC$="FRI"THENC$="Vendredi"
+12 IFC$="SAT"THENC$="Samedi"
+13 IFC$="SUN"THENC$="Dimanche"
+14 PRINT"   Le ";C$;" ";MID$(DATE$,7,2):PRINT"    ";B$;" ";A$
+15 LOCATE0,3:A$=MID$(TIME$,1,2)
+16 B$=MID$(TIME$,4,2)
+17 C$=MID$(TIME$,7,2)
+18 PRINT" ";A$;" h ";B$+" min ";C$;" sec";
+19 GOTO15
+20 DATAJanvier,Fevrier,Mars,Avril,Mai,Juin,Juillet,Aout,Septembre,Octobre
+21 DATANovembre,Decembre

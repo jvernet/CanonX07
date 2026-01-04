@@ -1,0 +1,14 @@
+
+0 C$=CHR$(13):R$=CHR$(29)
+1 KEY$(1)="Tim?TIME$"+C$
+2 KEY$(2)="LptLPRINTCHR$(  )"+R$+R$+R$
+3 KEY$(3)="DirDIR"+C$
+4 KEY$(4)="Fre?FRE(0)19026-FRE(0)"+C$
+5 KEY$(5)="RunRUN"
+6 KEY$(6)="LstLIST"
+7 KEY$(7)="Dat?DATE$"+C$
+8 KEY$(8)="Chr?CHR$(   )"+R$+R$+R$+R$
+9 KEY$(9)="Alm?ALM$"+C$
+10 KEY$(10)="Srt?START$"+C$
+11 KEY$(11)="CntCONT"+C$
+12 KEY$(12)="RunRUN"

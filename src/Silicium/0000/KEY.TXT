@@ -1,0 +1,9 @@
+
+10 REM FONCTIONS KEY
+20 KEY$(2)="cloCLOAD"+CHR$(13)
+30 KEY$(3)="dirDIR"+CHR$(13)
+40 KEY$(9)="conCONSOLE"
+50 KEY$(4)="lstLISTà"+CHR$(13)
+60 KEY$(10)="loaLOAD"
+70 KEY$(11)="savSAVE"
+80 KEY$(12)="cleCLEAR"+CHR$(13)

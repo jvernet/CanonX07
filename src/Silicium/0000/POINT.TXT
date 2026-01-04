@@ -1,0 +1,8 @@
+
+10 REM Coordonnees
+20 CLS
+30 LINE(0,16)-(120,16)
+40 LINE(60,0)-(60,32)
+50 INPUT "X,Y";X,Y
+60 PSET(X+60,16-Y)
+70 END
