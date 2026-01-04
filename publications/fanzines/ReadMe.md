@@ -17,9 +17,10 @@ De plus, nous ignorons le nombre exact de publication pour chacun d'eux.
 ___
 ## Un livre ?
 
-Fusion de tous les fanzines en format livre.\
-Suppression des PA, Pubs et autres.\
+Fusion de tous les fanzines en format livre ?\
+Suppression des PA, Pubs et autres ?\
 ...
+
 
 
 ___
