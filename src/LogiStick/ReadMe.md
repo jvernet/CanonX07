@@ -3,7 +3,7 @@
 ___
 ## Introduction
 
-Les logiciels éditer par Logi'Stick.\
+Les logiciels édités par Logi'Stick.\
 Issue de l'association Club C7 et aussi des éditions Neptune.
 
 Distribués via le Club C7 et aussi par DDI.
@@ -13,18 +13,19 @@ ___
 
 ### Jeux 1
 
-10 jeux sur la cassette, Face A et B identiques.
+10 jeux sur la cassette, Face A et B identiques.\
+Scan et OCR de la notice.
 
 - Memory
-- Le Pendu
 - Jack-Pot
 - Master Mind
 - Tours de Hanoï
 - Poker
+- Babylon
+- Le Pendu
+- Koala
 - Tic Tac Toe
 - Harpoon
-- Babylon
-- Koala
 
 NDR :
 - Erreur de frappe page 7 de la notice "TIC TAC ROE".
@@ -33,6 +34,13 @@ NDR :
 
 
 ### Jeux 2
+
+xx jeux sur la cassette, Face A et B identiques.\
+Scan et OCR de la notice.
+
+NDR :
+- Imprimer en format livret (A4 -> A5) puis assemblé.
+
 
 
 ...
