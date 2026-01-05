@@ -6,15 +6,34 @@ ___
 Le livre contient des informations sur quelques méthodes de programmation.\
 Il y a aussi quelques programmes.
 
-TO DO.
+Les plus courts sont dans un markdown associé au PDF.
 
 ___
 ## Liste des programmes
 
+Tableau de suivi :
 
-| Titre |      | Commentaire |
+| Icon | État |
+|------|-------|
+|  ✅  | Terminé et fonctionnel |
+|  ❌  | Echec |
+|  ❕  | À faire |
+|  📝  | En cours |
+
+Liste des programmes :
+
+| Titre | État | Commentaire |
 |-------|------|-------------|
-| Loto  | | |
-| Courbe | | |
+| Loto  | 📝 | |
+| Courbes | 📝 | |
+| Horloge Musicale | ❕ | |
+| Morse | ❕ | |
+| Facteurs Premiers | ❕ | |
+| Hard Copy D'Ecran | ❕ | |
+| DAO | ❕ | |
+| Simulation d'atterissage | ❕ | |
+| Mastermind | ❕ | |
+| Calculette | ❕ | |
+
 
 ___
