@@ -22,8 +22,13 @@ Tableau de suivi :
 
 Travail en cours.
 
-| Nom | État | Commentaire |
-|-----|------|-------------|
+| No | Nom | État | Commentaire |
+|----|-----|------|-------------|
+| 10 |  | 📝 | Jeux en encart |
+| 13 |  | 📝 | Jeux en encart |
+| 16 |  | 📝 | Jeux en encart |
+| 18 |  | 📝 | Jeux en encart |
 
+Dernière recherche sur no 35. Faire la suite.
 
 ___
