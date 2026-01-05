@@ -35,10 +35,21 @@ NDR :
 
 ### Jeux 2
 
-xx jeux sur la cassette, Face A et B identiques.\
+4 jeux sur la cassette.\
 Scan et OCR de la notice.
 
+Face A :
+
+- Anaconda (LCD)
+- Anaconda (PERITEL)
+
+Face B :
+
+- CAP-MAN (LCD)
+
+
 NDR :
+- Pour CAP-MAN, 2 logiciels, le premier redéfini les caractères pour le jeu, à lancer au préalable cf. notice
 - Imprimer en format livret (A4 -> A5) puis assemblé.
 
 
