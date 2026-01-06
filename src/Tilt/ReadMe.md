@@ -4,7 +4,7 @@ ___
 ## Introduction
 
 Sont mis ici les codes sources de la revue.\
-Ce sont des version [a] pour "alternate" car non conforme avec l'original publié (qui est compacté sans espace et donc dificile à lire).\
+Ce sont des versions [a] pour "alternate" car non conforme avec l'original publié (qui est compacté sans espace et donc dificile à lire).\
 Les sources ne sont pas encore testés et il est probable qu'il y est des bugs.\
 Ces versions pourraient être améliorées car le code n'est pas vraiement optimum.
 
@@ -31,10 +31,10 @@ Travail en cours :
 
 | No | Nom | État | Commentaire |
 |----|-----|------|-------------|
-| 10 |  | 📝 | Jeux en encart |
-| 13 |  | 📝 | Jeux en encart |
-| 16 |  | 📝 | Jeux en encart |
-| 18 |  | 📝 | Jeux en encart |
+| 10 | L'aventurier de l'ïle perdue | 📝 | Jeux en encart |
+| 13 | La cité interdite | 📝 | Jeux en encart |
+| 16 | Awali | 📝 | Jeux en encart |
+| 18 | Tout shuss ! | 📝 | Jeux en encart |
 
 Dernière recherche jusqu'au no 35. Faire la suite.\
 Mais probable qu'il n'y ai rien de plus.
