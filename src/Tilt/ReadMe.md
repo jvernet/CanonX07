@@ -3,13 +3,15 @@
 ___
 ## Introduction
 
-Sont mis ici les sources de la revue.
-
-TO DO.
+Sont mis ici les codes sources de la revue.
 
 NDR : Il est nécessaire de posséder la carte pour les jeux.\
 Elles seront restaurées et disponibles ici.
 
+En étude pour des sous-répertoire pour chaque publication compte tenue des éléments de jeu nécessaires.
+
+___
+## Liste
 
 Tableau de suivi :
 
@@ -20,7 +22,7 @@ Tableau de suivi :
 |  ❕  | À faire |
 |  📝  | En cours |
 
-Travail en cours.
+Travail en cours :
 
 | No | Nom | État | Commentaire |
 |----|-----|------|-------------|
@@ -29,6 +31,7 @@ Travail en cours.
 | 16 |  | 📝 | Jeux en encart |
 | 18 |  | 📝 | Jeux en encart |
 
-Dernière recherche sur no 35. Faire la suite.
+Dernière recherche jusqu'au no 35. Faire la suite.\
+Mais probable qu'il n'y ai rien de plus.
 
 ___
