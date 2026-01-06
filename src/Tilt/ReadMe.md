@@ -31,10 +31,10 @@ Travail en cours :
 
 | No | Nom | État | Commentaire |
 |----|-----|------|-------------|
-| 10 | L'aventurier de l'ïle perdue | 📝 | Jeux en encart |
-| 13 | La cité interdite | 📝 | Jeux en encart |
-| 16 | Awali | 📝 | Jeux en encart |
-| 18 | Tout shuss ! | 📝 | Jeux en encart |
+| 10 | L'aventurier de l'ïle perdue | 📝 | Jeux en encart (1 joueur) |
+| 13 | La cité interdite | 📝 | Jeux en encart (1-4 joueurs) |
+| 16 | Awali | 📝 | Jeux en encart (2 joueurs) |
+| 18 | Tout shuss ! | 📝 | Jeux en encart (1-4 joueurs) |
 
 Dernière recherche jusqu'au no 35. Faire la suite.\
 Mais probable qu'il n'y ai rien de plus.
