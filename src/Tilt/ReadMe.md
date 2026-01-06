@@ -8,6 +8,8 @@ Sont mis ici les codes sources de la revue.
 NDR : Il est nécessaire de posséder la carte pour les jeux.\
 Elles seront restaurées et disponibles ici.
 
+NDR : Les articles correspondant sont dans la section Publications.
+
 En étude pour des sous-répertoire pour chaque publication compte tenue des éléments de jeu nécessaires.
 
 ___
