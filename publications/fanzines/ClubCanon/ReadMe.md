@@ -9,6 +9,8 @@ Les fichiers sont en cours de restauration complète. Ceci afin de pouvoir les i
 
 Pour les dessins, nous ne connaissons pas le ou les auteurs, si vous savez, laisser un message.
 
+Il nous manque les numéros 1 et 6.
+
 ___
 ## Tableau des publications
 
@@ -16,7 +18,7 @@ Tableau de suivi :
 
 | Icon | État |
 |------|-------|
-|  ✅  | Terminé |
+|  ✅  | Terminé (PDF - OCR) |
 |  ❌  | Echec |
 |  ❕  | À trouver |
 |  📝  | En cours |
@@ -49,6 +51,6 @@ Une fois les images correctes, mise en PDF et OCR.
 
 Le renammage des PNG cherche à correspondre aux no de page.\
 Des pages blanches peuvent être insérées afin de pouvoir imprimer correctement chaque fanzines en mode livret.
-Par exemple sur une imprimante A3.
-
+Par exemple sur une imprimante A3.\
+Les originaux étaient semble t-il de simple recto assemblés.
 ___
