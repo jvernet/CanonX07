@@ -3,7 +3,10 @@
 ___
 ## Introduction
 
-Sont mis ici les codes sources de la revue.
+Sont mis ici les codes sources de la revue.\
+Ce sont des version [a] pour "alternate" car non conforme avec l'original publié (qui est compacté sans espace et donc dificile à lire).\
+Les sources ne sont pas encore testés et il est probable qu'il y est des bugs.\
+Ces versions pourraient être améliorées car le code n'est pas vraiement optimum.
 
 NDR : Il est nécessaire de posséder la carte pour les jeux.\
 Elles seront restaurées et disponibles ici.
