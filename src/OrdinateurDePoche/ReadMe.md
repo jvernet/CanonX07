@@ -5,6 +5,8 @@ ___
 
 Sont mis ici les sources de la revue.
 
+Ce sont des versions [a] pour "alternate" car non conforme avec l'original publié (qui est compacté sans espace et donc dificile à lire).
+Les sources ne sont pas encore testés et il est probable qu'il y est des bugs.
 
 
 ___
