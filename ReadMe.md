@@ -14,6 +14,11 @@ What we’re doing here:
 Think of this as a mix between a resource hub and a tribute.
 
 ___
+## Other Ressources on the web
+
+TO DO.
+
+___
 ## Work in progress
 
 See "Suivi.md" file.
