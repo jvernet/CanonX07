@@ -7,7 +7,11 @@ Compilations des ressources publiées pour le Canon X-07.
 
 Concernant les logiciels, veuillez vous référer au répertoire "src".
 
-Tableau de suivi :
+Les articles de revues sont référencés dans le répertoire "publications".\
+Une liste de référence existe.
+
+
+### Tableau de suivi
 
 | Icon | État |
 |------|-------|
@@ -63,7 +67,7 @@ Documentations des périphériques Canon.
 | X-722   | Convertisseur de Niveau RS-232  | ✅ | |
 | X-730   | Magnétophone Cassette           | ✅ | |
 | X-740   | Interface X-07 V20              | ❕ | le V20 est le MSX de Canon |
-| XR-100  | Module Extention Mémoire 8ko    | ❕ | |
+| XR-100  | Module Extention Mémoire 8ko    | ❕ | Puce dans le compartiment dédié |
 | XM-100  | Carte Extention 4ko             | ❕ | |
 | XM-101  | Carte Extention 8ko             | ❕ | |
 | XC-910  | Câble Cassette                  | ❌ | Voir X-730 |
@@ -141,6 +145,8 @@ ___
 | XF-01   | Lecteur Disquette 3 1/2 720ko   | SERSIG       | ❕ | Publicité et tarifs, voir "ads" |
 |         | Carte RAM CES                   | CMI          | ❕ | Publicité voir "ads" |
 |         | Attaché-case                    | Création Aimé-Gérard | ❌ | Publicité et tarifs, voir "ads" |
+
+
 
 
 ___
