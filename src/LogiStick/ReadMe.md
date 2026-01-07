@@ -102,7 +102,19 @@ ___
 
 ### Notices
 
+- Banque
+- Jeux 1
+- Jeux 2
+- Texte
+
 ### Jacquettes
+
+Jacquette de cassette audio standard, boitier noir.
+
+- Banque : recto / verso
+- Jeux 1 : recto / verso
+- Jeux 2 : recto / verso
+- Texte : recto / verso
 
 TO DO.
 
