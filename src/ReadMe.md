@@ -40,6 +40,8 @@ Travail en cours.
 | Logi'Stick | ❕ | |
 | Micro Systèmes | ❕ | |
 | Plus Loin avec Canon X07 | 📝 | |
+| Pocket Soft | 📝 | |
+| Power Soft | 📝 | |
 | Tilt | ❕ | |
 
 
