@@ -8,8 +8,52 @@ Issue de l'association Club C7 et aussi des éditions Neptune.
 
 Distribués via le Club C7 et aussi par DDI.
 
+
 ___
-## Liste
+## Suivi
+
+### Tableau de suivi
+
+| Icon | État |
+|------|-------|
+|  ✅  | Terminé et fonctionnel |
+|  ❌  | Echec |
+|  ❕  | À faire |
+|  📝  | En cours |
+
+### Travail en cours
+
+| Nom                | État | Commentaire |
+|--------------------|------|-------------|
+| Agenda             | ❕ | |
+| Aide               | ❕ | |
+| Alphatruc          | ❕ | |
+| Anaconda (LCD)     | 📝 | Cassette jeux 2 |
+| Anaconda (PERITEL) | 📝 | Cassette jeux 2 |
+| Ass/Deasse         | ❕ | |
+| Astro              | ❕ | |
+| Babylon            | 📝 | Cassette jeux 1 |
+| Banque             | 📝 | Cassette jeux 1 |
+| Calc               | ❕ | |
+| CAP-MAN (LCD)      | 📝 | Cassette jeux 2 |
+| Diététique         | ❕ | |
+| Fichiers           | ❕ | |
+| Graphe             | ❕ | |
+| Harpoon            | 📝 | Cassette jeux 1 |
+| Jack-Pot           | 📝 | Cassette jeux 1 |
+| Koala              | 📝 | Cassette jeux 1 |
+| Le Pendu           | 📝 | Cassette jeux 1 |
+| Master Mind        | 📝 | Cassette jeux 1 |
+| Maths 1            | ❕ | |
+| Memory             | 📝 | Cassette jeux 1 |
+| Poker              | 📝 | Cassette jeux 1 |
+| Texte              | 📝 | Cassette jeux 1 |
+| Tic Tac Toe        | 📝 | Cassette jeux 1 |
+| Tours de Hanoï     | 📝 | Cassette jeux 1 |
+
+
+___
+## Descriptions suplémentaires
 
 ### Jeux 1
 
@@ -49,13 +93,17 @@ Face B :
 
 
 NDR :
-- Pour CAP-MAN, 2 logiciels, le premier redéfini les caractères pour le jeu, à lancer au préalable cf. notice
+- Pour CAP-MAN, 2 logiciels, le premier redéfini les caractères pour le jeu, à lancer au préalable cf. notice.
 - Imprimer en format livret (A4 -> A5) puis assemblé.
 
 
+___
+## Ressources
 
-...
+### Notices
 
+### Jacquettes
 
+TO DO.
 
 ___
