@@ -29,7 +29,7 @@ ___
 ### Canon X‑07, Publications
 
 | Titre                                                    | Publication         | Année      | État | Commentaire |
-|----------------------------------------------------------|---------------------|------------|----------|
+|----------------------------------------------------------|---------------------|------------|------|-------------|
 | 40 Programmes pour Canon X-07                            | Micro Systemes ETSF | 1985       |    |
 | Applications en Assembleur dans l'Univers du Canon X-07  | Éditions Neptune    | 1986       | ✅ |
 | Atlantis                                                 | Éditions Neptune    | 1980s      | 📝 |
