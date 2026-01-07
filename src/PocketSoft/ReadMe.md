@@ -19,7 +19,29 @@ ___
 
 ### Travail en cours
 
+| Nom          | État | Commentaire |
+|--------------|------|-------------|
+| Text         | 📝 | |
+| Database     | 📝 | |
+| Paye         | ❕ | |
+| Facturation  | ❕ | |
+| Inventaire   | ❕ | |
+| Graph        | ❕ | |
+| Statistiques | ❕ | |
+| PERT         | ❕ | |
+| Calc         | 📝 | |
 
+
+___
+## Ressources
+
+### Notices
+
+### Jacquettes
+
+TO DO.
+
+Format dédié des boites type VHS.
 
 
 ___
