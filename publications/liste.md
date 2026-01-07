@@ -19,12 +19,38 @@ ___
 to do.
 
 ___
+### Atlantis
+
+Édité par les éditions Neptune.
+
+| No | Date    | Réf.                          | Commentaire                  |
+|----|---------|-------------------------------|------------------------------|
+| 0  | 1987-04 | La consécration du Canon X-07 | |
+
+Pas d'autre numéro connu de cette revue.\
+70 Fr. pour l'abonnement.
+
+___
 ### Hebdogiciel
 
 Beaucoup de listing.
 
+| No | Date    | Réf.                                    | Commentaire                  |
+|----|---------|-----------------------------------------|------------------------------|
+
+
+___
+### Info'Look
+
+Édité par les éditions Neptune.
+
 | No | Date       | Réf.                                    | Commentaire                  |
 |----|------------|-----------------------------------------|------------------------------|
+| 1  | 1987-05 | ||
+| 2  | 1985-06 | ||
+| 3  | 1985-10 | Le Canon X-07 : Le portatif Heureux ! | |
+
+Pas d'autre numéro connus.
 
 ___
 ### Led Micro
@@ -72,7 +98,7 @@ De plus beaucoup de numéros sont incomplets.
 ___
 ### Micro Systèmes
 
-TO DO
+Recherche à faire.
 
 | No | Date       | Réf.                                    | Commentaire                  |
 |----|------------|-----------------------------------------|------------------------------|
