@@ -32,23 +32,23 @@ Périphériques, logiciels etc.
 ___
 ### Canon X‑07, Publications
 
-| Titre                                                    | Publication         | Année      | État | Commentaire |
-|----------------------------------------------------------|---------------------|------------|------|-------------|
-| 40 Programmes pour Canon X-07                            | Micro Systemes ETSF | 1985       |    |
-| Applications en Assembleur dans l'Univers du Canon X-07  | Éditions Neptune    | 1986       | ✅ |
-| Atlantis                                                 | Éditions Neptune    | 1980s      | 📝 |
-| Canon X-07 Manuel Utilisateur                            | Canon               | 1983       | ✅ |
-| Canon X-07 BASIC Reference Card                          | Canon               | 1983       | ✅ |
-| Catalogue 1985                                           | Logi'Stick          | 1985       | ✅ | |
-| Club Canon X-07 Fanzine                                  | Club Canon X-07     | 1980s      | 📝 |
-| Dossiers Spéciaux du Club C7                             | Club C7             | 1985–1986  | 📝 |
-| Faites vos jeux avec Canon X-07                          | Eyrolles            | 1984       | ✅ |
-| Info'Look                                                | Éditions Neptune    | 1980s      | 📝 |
-| Le Son du Canon (Bulletin du Club C7)                    | Club C7             | 1984–1986  | 📝 |
-| Les Mystères du X-07                                     | Éditions Neptune    | 1985       | 📝 |
-| NCS800                                                   | National Semiconductor | 1980s | ✅ | Z80 dans le Canon X-07 |
-| Plus loin avec le Canon X-07                             | Soracom             | 1985       | ✅ | 
-| Technical Guide (EN)                                     | Canon               | 1980s      | ✅ | Guide de dépannage |
+| Titre                                                   | Publication         | Année      | État | Commentaire |
+|---------------------------------------------------------|---------------------|------------|------|-------------|
+| 40 Programmes pour Canon X-07                           | Micro Systemes ETSF | 1985       |    |
+| Applications en Assembleur dans l'Univers du Canon X-07 | Éditions Neptune    | 1986       | ✅ |
+| Atlantis                                                | Éditions Neptune    | 1980s      | 📝❕ | Numéro 0, autre No ? |
+| Canon X-07 Manuel Utilisateur                           | Canon               | 1983       | ✅ |
+| Canon X-07 BASIC Reference Card                         | Canon               | 1983       | ✅ |
+| Catalogue 1985                                          | Logi'Stick          | 1985       | ✅ | |
+| Club Canon X-07 Fanzine                                 | Club Canon X-07     | 1980s      | 📝❕ |
+| Dossiers Spéciaux du Club C7                            | Club C7             | 1985–1986  | 📝 |
+| Faites vos jeux avec Canon X-07                         | Eyrolles            | 1984       | ✅ |
+| Info'Look                                               | Éditions Neptune    | 1980s      | 📝❕ | 3 No, d'autres ? |
+| Le Son du Canon (Bulletin du Club C7)                   | Club C7             | 1984–1986  | 📝 |
+| Les Mystères du X-07                                    | Éditions Neptune    | 1985       | 📝 |
+| NCS800                                                  | National Semiconductor | 1980s | ✅ | Z80 dans le Canon X-07 |
+| Plus loin avec le Canon X-07                            | Soracom             | 1985       | ✅ | 
+| Technical Guide (EN)                                    | Canon               | 1980s      | ✅ | Guide de dépannage |
 
 NDR : Éditions Neptune est issue du Club C7
 
@@ -77,8 +77,9 @@ Documentations des périphériques Canon.
 | AD-4 II | Adaptateur Secteur X-07         | ❌ | |
 | AD-5    | Adapt. Secteur pour X-710/X-720 | ❌ | |
 | CH-3    | Adapt. Secteur pour X-730       | ❌ | |
-| BP-1    | jeu de 4 stylos Couleurs        | ❌ | Voir X-710 |
-| BP-2    | jeu de 4 stylos Noirs           | ❌ | Voir X-710 |
+| BP-1    | Jeu de 4 stylos Couleurs        | ❌ | Voir X-710 |
+| BP-2    | Jeu de 4 stylos Noirs           | ❌ | Voir X-710 |
+| MP-114  | Rouleau papier pour X-710       | ❌ | Voir X-710 |
 
 
 NDR : Attention avec le AD-5, bien vérifier les polarités de la prise (inversée).
@@ -116,9 +117,9 @@ Il s'agit des logiciels comercialisés.
 | LSXCA | Calc            | Logi'Stick  | ❕ | |
 | LSXGR | Graphe          | Logi'Stick  | ❕ | |
 | LSXFI | Fichiers        | Logi'Stick  | ❕ | |
-| LSXTE | Texte           | Logi'Stick  | ❕ | |
+| LSXTE | Texte           | Logi'Stick  | 📝 | |
 | LSXM1 | Maths 1         | Logi'Stick  | ❕ | |
-| LSXBA | Banque          | Logi'Stick  | ❕ | |
+| LSXBA | Banque          | Logi'Stick  | 📝 | |
 | LSXAS | Astro           | Logi'Stick  | ❕ | |
 | LSXAD | Aide            | Logi'Stick  | ❕ | |
 | LSXDI | Diététique      | Logi'Stick  | ❕ | |
@@ -140,13 +141,13 @@ NDR : Pour les logiciels publiés dans les revues, voir "src".
 ___
 ### Canon X‑07, Autres Périphériques
 
-| Ref.    | Périphérique / Accessoire       | Constructeur | Status | Commentaire |
-|---------|---------------------------------|--------------|--------|-------------|
-| XF-01   | Lecteur Disquette 3 1/2 720ko   | SERSIG       | ❕ | Publicité et tarifs, voir "ads" |
-|         | Carte RAM CES                   | CMI          | ❕ | Publicité voir "ads" |
-|         | Attaché-case                    | Création Aimé-Gérard | ❌ | Publicité et tarifs, voir "ads" |
+| Ref.    | Périphérique / Accessoire     | Constructeur | Status | Commentaire |
+|---------|-------------------------------|--------------|--------|-------------|
+| XF-01   | Lecteur Disquette 3 1/2 720ko | SERSIG       | ❕ | Publicité et tarifs, voir "ads" |
+|         | Carte RAM CES 32 à 128ko      | CMI          | ❕ | Publicité voir "ads" |
+|         | Attaché-case                  | Création Aimé-Gérard | ❌ | Publicité et tarifs, voir "ads" |
 
 
-
+NDR : La carte RAM CES à fait l'objet d'un article dans le Figaro.
 
 ___
