@@ -14,20 +14,3 @@ What we’re doing here:
 Think of this as a mix between a resource hub and a tribute.
 
 ___
-## Basic
-
-Inside the “basic” directory, you’ll find the key resources needed to develop programs in BASIC.
-
-### Ressources
-
-- [Hebdogiciel les listings](http://www.hebdogiciel.free.fr/CANONX07.htm)
-- [Hebdogiciel les software](http://www.hebdogiciel.free.fr/CANONX07_software)
-
-All resources may be added to this GitHub repository as preservation copies.
-
-___
-## Assembler
-
-Inside the “asm” directory, you’ll find all the essential resources needed to develop assembly programs.
-
-___
