@@ -1,23 +1,30 @@
 # Liste des publications
 
-
+___
 ## Introduction
 
 Tentative de référencement des publications sur le CANON X-07.
 
+Note :\
 PHC-25 : Tilt 08; led micro 1  \
 Squal : Tilt 21. led micro 14  \
 EXL100 : led micro 14 - List 7 \
-VG5000 : led micro 19
+VG5000 : led micro 19\
 
-## Tables par revue
+ref pour les autres obscure systems à reporter.
 
+___
+## Tables de références par revue
+
+to do.
 
 ___
 ### Hebdogiciel
 
 Beaucoup de listing.
 
+| No | Date       | Réf.                                    | Commentaire                  |
+|----|------------|-----------------------------------------|------------------------------|
 
 ___
 ### Led Micro
@@ -59,7 +66,7 @@ ___
 | 12 |    | Interdire l'accès... | Listings p68-69 |
 
 Pas de no 13 et au-dela.\
-De plus beaucoup de no sont incomplets.
+De plus beaucoup de numéros sont incomplets.
 
 
 ___
@@ -67,6 +74,8 @@ ___
 
 TO DO
 
+| No | Date       | Réf.                                    | Commentaire                  |
+|----|------------|-----------------------------------------|------------------------------|
 
 ___
 ### L'Ordinateur de poche
@@ -98,7 +107,12 @@ ___
 Le no 17 à un panaché de micro de l'époque.
 
 En cours d'extraction.\
-Il faudra netoyer les PDF et refaire les plan de jeu.
+Il faudra netoyer les PDF et refaire les plans de jeu.
+
+___
+### suite
+
+TO DO pour les autres revues.
 
 
 ___
