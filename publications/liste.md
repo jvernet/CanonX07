@@ -19,6 +19,16 @@ ___
 to do.
 
 ___
+### 01 Informatique
+
+| No  | Date       | Réf.                          | Commentaire                  |
+|-----|------------|-------------------------------|------------------------------|
+| 109 | 1983-09-19 | SICOB 83                      | p109, nouveauté CANON X-07   |
+
+
+NDR : no 109, erreur de frappe.
+
+___
 ### Atlantis
 
 Édité par les éditions Neptune.
@@ -96,12 +106,23 @@ De plus beaucoup de numéros sont incomplets.
 
 
 ___
+### Micro Ordinateurs
+
+Recherche à faire.
+
+| No | Date       | Réf.                                    | Commentaire                  |
+|----|------------|-----------------------------------------|------------------------------|
+| 19 | 1984-02 | Banc d'essai - Canon X-07 | p36-38 |
+
+
+___
 ### Micro Systèmes
 
 Recherche à faire.
 
 | No | Date       | Réf.                                    | Commentaire                  |
 |----|------------|-----------------------------------------|------------------------------|
+
 
 
 ___
@@ -123,6 +144,17 @@ ___
 | 23 | 1984-05 06 | Un canon (X-07) face à un mur de brique | Listing casse-briques p42-43 |
 
 Pas de no 24 et au-delà trouvé.
+
+
+
+___
+### SVM
+
+| No | Date    | Réf.                                   | Commentaire      |
+|----|---------|----------------------------------------|------------------|
+| 1  | 1983-12 | Un ordinateur pour Noël | p28 |
+
+Recherche suivants à faire.
 
 ___
 ### Tilt
