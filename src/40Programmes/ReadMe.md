@@ -1,17 +1,25 @@
 # 40 Programmes pour Canon X-07
 
 ETSF, Micro Systèmes\
-ISBN:
+ISBN 2-85535-103-0
+
+Auteurs : Gilles PROBST, André TONIC, Bertrand RAVEL.
 
 ___
 # Introduction
 
 To DO
 
+Il existe une cassette contenant les programmes.\
+Distribuée par D.D.I.
+
+NDR : [a] version "alternate" pour lisibilité.\
+Version éditeur à faire aussi.
 
 ___
 ## Liste
 
+Ci-dessous les tableaux d'avancement des récupérations des logiciels.
 
 ### Tableau de suivi
 
@@ -91,8 +99,8 @@ ___
 | Cycloîdes         | ❕ |  |
 | Elipses           | ❕ |  |
 | Graphismes divers | ❕ |  |
-| Inversion vidéo   | ❕ |  |
-| Télécran          | ❕ |  |
+| Inversion vidéo   | 📝 |  |
+| Télécran          | 📝 |  |
 
 
 
