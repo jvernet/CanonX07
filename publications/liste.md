@@ -55,10 +55,10 @@ Pas d'autre numéro connus.
 ___
 ### Led Micro
 
-| No | Date       | Réf.                                    | Commentaire                  |
-|----|------------|-----------------------------------------|------------------------------|
-| 03 |    | 34 eme SICOB | |
-| 05 |    | Produits | Présentation p60 |
+| No | Date    | Réf.                                    | Commentaire                  |
+|----|---------|-----------------------------------------|------------------------------|
+| 03 | 1983-10 | 34 eme SICOB | p66,... |
+| 05 | 1983-12 | Produits | Présentation, p60 |
 
 
 Restauration des pages à faire.
@@ -102,6 +102,15 @@ Recherche à faire.
 
 | No | Date       | Réf.                                    | Commentaire                  |
 |----|------------|-----------------------------------------|------------------------------|
+
+
+___
+### Micro VO
+
+| No | Date    | Réf.                                   | Commentaire      |
+|----|---------|----------------------------------------|------------------|
+| 3  | 1985-12 | Canon X-07, le micro qui tient le coup | p99, challengers |
+
 
 ___
 ### L'Ordinateur de poche
