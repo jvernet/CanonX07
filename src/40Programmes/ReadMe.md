@@ -72,7 +72,7 @@ ___
 | Nom                     | État | Commentaire |
 |-------------------------|------|-------------|
 | Biorythme               | ❕ |  |
-| Conon script            | ❕ |  |
+| Canon script            | ❕ |  |
 | Compteur téléphonique   | ❕ |  |
 | Conversion acre-hectare | ❕ |  |
 | Conversion arabe-romain | ❕ |  |
@@ -86,7 +86,7 @@ ___
 
 | Nom               | État | Commentaire |
 |-------------------|------|-------------|
-| Conon logo        | ❕ |  |
+| Canon logo        | ❕ |  |
 | Cercles colorés   | ❕ |  |
 | Cycloîdes         | ❕ |  |
 | Elipses           | ❕ |  |
