@@ -74,7 +74,7 @@ Documentations des périphériques Canon.
 | XC-920  | Câble // pour X-710             | ❌ | Voir X-710, non standrd |
 | XC-930  | Câble // Centronics             | ❌ | Non standard vers Centronics |
 | XC-940  | Câble Série pour X-722          | ❌ | Voir X-722 (DB25 ?) |
-| AD-4 II | Adaptateur Secteur X-07         | ❌ | |
+| AD-4 II | Adaptateur Secteur X-07         | ❌ | IN: 220V~ 50Hz 8.5VA - OUT: 4.5V= 450mA |
 | AD-5    | Adapt. Secteur pour X-710/X-720 | ❌ | |
 | CH-3    | Adapt. Secteur pour X-730       | ❌ | |
 | BP-1    | Jeu de 4 stylos Couleurs        | ❌ | Voir X-710 |
