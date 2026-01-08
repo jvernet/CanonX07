@@ -34,7 +34,7 @@ ___
 
 | Titre                                                   | Publication         | Année      | État | Commentaire |
 |---------------------------------------------------------|---------------------|------------|------|-------------|
-| 40 Programmes pour Canon X-07                           | Micro Systemes ETSF | 1985       |    |
+| 40 Programmes pour Canon X-07                           | Micro Systemes ETSF | 1985       | 📝 |
 | Applications en Assembleur dans l'Univers du Canon X-07 | Éditions Neptune    | 1986       | ✅ |
 | Atlantis                                                | Éditions Neptune    | 1980s      | 📝❕ | Numéro 0, autre No ? |
 | Canon X-07 Manuel Utilisateur                           | Canon               | 1983       | ✅ |
@@ -48,7 +48,7 @@ ___
 | Les Mystères du X-07                                    | Éditions Neptune    | 1985       | 📝 |
 | NCS800                                                  | National Semiconductor | 1980s | ✅ | Z80 dans le Canon X-07 |
 | Plus loin avec le Canon X-07                            | Soracom             | 1985       | ✅ | 
-| Technical Guide (EN)                                    | Canon               | 1980s      | ✅ | Guide de dépannage |
+| Technical Guide (EN)                                    | Canon               | 1980s      | ✅📝 | Guide de dépannage |
 
 NDR : Éditions Neptune est issue du Club C7
 
