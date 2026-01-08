@@ -33,7 +33,7 @@ ___
 50 PRINT HEX$(A):END
 ```
 
-### Page 119, Listing
+### Page 120, Listing
 
 ```basic
 10 INTI#1,"COM:",300,D
@@ -43,6 +43,7 @@ ___
 50 NEXT I
 60 END
 ```
+
 
 
 ___
