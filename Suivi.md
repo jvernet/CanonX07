@@ -70,7 +70,7 @@ Documentations des périphériques Canon.
 | XR-100  | Module Extention Mémoire 8ko    | ❕ | Puce dans le compartiment dédié |
 | XM-100  | Carte Extention 4ko             | ❕ | |
 | XM-101  | Carte Extention 8ko             | ❕ | |
-| XC-910  | Câble Cassette                  | ❌ | Voir X-730 |
+| XC-910  | Câble Cassette                  | ❌ | Voir X-730, (mini DIN 5b vers 3 x Jack 3.5) |
 | XC-920  | Câble // pour X-710             | ❌ | Voir X-710, non standrd |
 | XC-930  | Câble // Centronics             | ❌ | Non standard vers Centronics |
 | XC-940  | Câble Série pour X-722          | ❌ | Voir X-722 (DB25 ?) |
@@ -148,6 +148,6 @@ ___
 |         | Attaché-case                  | Création Aimé-Gérard | ❌ | Publicité et tarifs, voir "ads" |
 
 
-NDR : La carte RAM CES à fait l'objet d'un article dans le Figaro.
+NDR : La carte RAM CES à fait l'objet d'un article dans le Figaro (no ???).
 
 ___
