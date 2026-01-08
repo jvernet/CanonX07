@@ -50,7 +50,10 @@ ___
 | Plus loin avec le Canon X-07                            | Soracom             | 1985       | ✅ | 
 | Technical Guide (EN)                                    | Canon               | 1980s      | ✅📝 | Guide de dépannage |
 
-NDR : Éditions Neptune est issue du Club C7
+NDR :
+- Éditions Neptune est issue du Club C7
+- le Technical Guide inclu aussi les périfériques.
+- Avec les documents il semble possible de refaire certain périférique, notamment le X-722 (RS232).
 
 
 ___
