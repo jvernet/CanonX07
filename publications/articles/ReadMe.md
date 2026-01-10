@@ -13,7 +13,7 @@ Sources :
 ___
 ## Liste des articles
 
-La liste de référence des recherches est dans le fichier.
+La liste de référence des recherches est dans le fichier "liste.md".
 
 
 ___

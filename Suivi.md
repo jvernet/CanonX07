@@ -8,7 +8,7 @@ Compilations des ressources publiées pour le Canon X-07.
 Concernant les logiciels, veuillez vous référer au répertoire "src".
 
 Les articles de revues sont référencés dans le répertoire "publications".\
-Une liste de référence existe.
+Une liste de référence existe "liste.md".
 
 
 ### Tableau de suivi

@@ -18,12 +18,22 @@ ___
 
 to do.
 
+### Tableau de suivi
+
+| Icon | État |
+|------|-------|
+|  ✅  | Disponible, OCR |
+|  ❌  | N'existe probablement pas / voir autre documentation |
+|  ❕  | À trouver |
+|  📝  | En cours de restauration / scans |
+
+
 ___
 ### 01 Informatique
 
-| No  | Date       | Réf.                          | Commentaire                  |
-|-----|------------|-------------------------------|------------------------------|
-| 109 | 1983-09-19 | SICOB 83                      | p109, nouveauté CANON X-07   |
+| No  | Date       | Réf.      | État | Commentaire                  |
+|-----|------------|-----------|------|------------------------------|
+| 109 | 1983-09-19 | SICOB 83  | ✅   | p109, nouveauté CANON X-07   |
 
 
 NDR : no 109, erreur de frappe.
@@ -33,9 +43,9 @@ ___
 
 Édité par les éditions Neptune.
 
-| No | Date    | Réf.                          | Commentaire                  |
-|----|---------|-------------------------------|------------------------------|
-| 0  | 1987-04 | La consécration du Canon X-07 | |
+| No | Date    | Réf.                          | État | Commentaire                  |
+|----|---------|-------------------------------|------|------------------------------|
+| 0  | 1987-04 | La consécration du Canon X-07 | 📝   | |
 
 Pas d'autre numéro connu de cette revue.\
 70 Fr. pour l'abonnement.
@@ -45,31 +55,30 @@ ___
 
 Beaucoup de listing.
 
-| No | Date    | Réf.                                    | Commentaire                  |
-|----|---------|-----------------------------------------|------------------------------|
-
+| No | Date    | Réf.                                    | État | Commentaire                  |
+|----|---------|-----------------------------------------|------|------------------------------|
+|    |         |                                         | ❕    | |
 
 ___
 ### Info'Look
 
 Édité par les éditions Neptune.
 
-| No | Date       | Réf.                                    | Commentaire                  |
-|----|------------|-----------------------------------------|------------------------------|
-| 1  | 1987-05 | ||
-| 2  | 1985-06 | ||
-| 3  | 1985-10 | Le Canon X-07 : Le portatif Heureux ! | |
+| No | Date    | Réf.                                    | État | Commentaire                  |
+|----|---------|-----------------------------------------|------|------------------------------|
+| 1  | 1987-05 |                                         | 📝   |                              |
+| 2  | 1985-06 |                                         | 📝   |                              |
+| 3  | 1985-10 | Le Canon X-07 : Le portatif Heureux !   | 📝   |                              |
 
 Pas d'autre numéro connus.
 
 ___
 ### Led Micro
 
-| No | Date    | Réf.                                    | Commentaire                  |
-|----|---------|-----------------------------------------|------------------------------|
-| 03 | 1983-10 | 34 eme SICOB | p66,... |
-| 05 | 1983-12 | Produits | Présentation, p60 |
-
+| No | Date    | Réf.         | État | Commentaire                  |
+|----|---------|--------------|------|------------------------------|
+| 03 | 1983-10 | 34 eme SICOB | 📝   | p66,... |
+| 05 | 1983-12 | Produits     | 📝   | Présentation, p60 |
 
 Restauration des pages à faire.
 
@@ -110,9 +119,10 @@ ___
 
 Recherche à faire.
 
-| No | Date       | Réf.                                    | Commentaire                  |
-|----|------------|-----------------------------------------|------------------------------|
-| 19 | 1984-02 | Banc d'essai - Canon X-07 | p36-38 |
+| No | Date    | Réf.                      | État | Commentaire                  |
+|----|---------|---------------------------|------|------------------------------|
+| 19 | 1984-02 | Banc d'essai - Canon X-07 | 📝   | p36-38 |
+  
 
 
 ___
@@ -128,20 +138,20 @@ Recherche à faire.
 ___
 ### Micro VO
 
-| No | Date    | Réf.                                   | Commentaire      |
-|----|---------|----------------------------------------|------------------|
-| 3  | 1985-12 | Canon X-07, le micro qui tient le coup | p99, challengers |
+| No | Date    | Réf.                                   | État | Commentaire      |
+|----|---------|----------------------------------------|------|------------------|
+| 3  | 1985-12 | Canon X-07, le micro qui tient le coup | 📝   | p99, challengers |
 
 
 ___
 ### L'Ordinateur de poche
 
-| No | Date       | Réf.                                    | Commentaire                  |
-|----|------------|-----------------------------------------|------------------------------|
-| 19 | 1983-12    | Nouveau : CANON X-07                    | Coup d'oeil sur... p24-27    |
-| 21 | 1984-03    | Le Serpent et L'oeuf                    | Listing jeux p23-25          |
-| 22 | 1984-04    | Les Caractères du X-07                  | Article et Listing p46       |
-| 23 | 1984-05 06 | Un canon (X-07) face à un mur de brique | Listing casse-briques p42-43 |
+| No | Date       | Réf.                                    | État | Commentaire                  |
+|----|------------|-----------------------------------------|------|------------------------------|
+| 19 | 1983-12    | Nouveau : CANON X-07                    | 📝   | Coup d'oeil sur... p24-27    |
+| 21 | 1984-03    | Le Serpent et L'oeuf                    | 📝   | Listing jeux p23-25          |
+| 22 | 1984-04    | Les Caractères du X-07                  | 📝   | Article et Listing p46       |
+| 23 | 1984-05 06 | Un canon (X-07) face à un mur de brique | 📝   | Listing casse-briques p42-43 |
 
 Pas de no 24 et au-delà trouvé.
 
@@ -150,24 +160,24 @@ Pas de no 24 et au-delà trouvé.
 ___
 ### SVM
 
-| No | Date    | Réf.                                   | Commentaire      |
-|----|---------|----------------------------------------|------------------|
-| 1  | 1983-12 | Un ordinateur pour Noël | p28 |
+| No | Date    | Réf.                    | État | Commentaire      |
+|----|---------|-------------------------|------|------------------|
+| 1  | 1983-12 | Un ordinateur pour Noël | 📝   | p28 |
 
-Recherche suivants à faire.
+Recherche dans les suivants à faire.
 
 ___
 ### Tilt
 
-| No | Date       | Réf.                         | Commentaire                  |
-|----|------------|------------------------------|------------------------------|
-| 10 | 1984-03    | L'Aventurier de l'île perdue | Jeu en ancart - Listing      |
-| 12 | 1984       | Tilt journal                 | Logi'Stick - p10             |
-| 13 | 1984       | La cité interdite            | Jeu en ancart - Listing      |
-| 16 | 1984       | AWALI                        | Jeu en ancart - Listing      |
-| 17 | 1984       | Tilt Journal                 | Zodiacal - Pub               |
-| 18 | 1985       | Tout Shuss                   | Jeu en ancart - Listing      |
-| 19 | 1985       | Tilt Journal                 | L'X07 A DE LA MÉMOIRE - p16  |
+| No | Date       | Réf.                         | État | Commentaire                  |
+|----|------------|------------------------------|------|------------------------------|
+| 10 | 1984-03    | L'Aventurier de l'île perdue | 📝   | Jeu en ancart - Listing      |
+| 12 | 1984       | Tilt journal                 | 📝   | Logi'Stick - p10             |
+| 13 | 1984       | La cité interdite            | 📝   | Jeu en ancart - Listing      |
+| 16 | 1984       | AWALI                        | 📝   | Jeu en ancart - Listing      |
+| 17 | 1984       | Tilt Journal                 | 📝   | Zodiacal - Pub               |
+| 18 | 1985       | Tout Shuss                   | 📝   | Jeu en ancart - Listing      |
+| 19 | 1985       | Tilt Journal                 | 📝   | L'X07 A DE LA MÉMOIRE - p16  |
 
  recherche -> 35
 
