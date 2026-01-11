@@ -16,15 +16,15 @@ ___
 
 ### page 86
 
-Errata nécessaire "pop AF"
+Errata nécessaire "pop AF" au lieu de "POP HL".
 
 ``` Basic
-10 CLS: PRINT "Chargement...."
-20 FOR X=&HC100 to &H1C3E
+5 REM programme BASIC implantant une routine en LANGAGE MACHINE contenant une démonstration
+10 CLS:PRINT "Je charge les codes ... Un instant S.V.P !"
+20 FOR X=&HC100 TO &H1C3E
 30 READ A$:POKE X,VAL("&H"+A$)
-35 PRINT A$;" ";
 40 NEXT X
-45 REM
+45 REM données de la routine LANGAGE MACHINE
 50 DATA CD,9E,CE,1E,15,CD,25,1C
 60 DATA 1E,3C,CD,25,1C,1E,0F,CD
 70 DATA 25,1C,1E,0A,CD,25,1C,06
@@ -37,21 +37,116 @@ Errata nécessaire "pop AF"
 ```
 
 ```asm
-PUSH AF
-PUSH DB
-PUSH BC
-LD C,$Fl
-CALL $COC9
-LD A,($26C)
-OR $80
-OUT ($F0),A
-OUT (C),E
-LD A,$2
-OUT ($F5),A
-POP BC
-POP DB
-POP AF
-RET
+	PUSH AF
+	PUSH DB
+	PUSH BC
+	LD C,$Fl
+	CALL $COC9
+	LD A,($26C)
+	OR $80
+	OUT ($F0),A
+	OUT (C),E
+	LD A,$2
+	OUT ($F5),A
+	POP BC
+	POP DB
+	POP AF
+	RET
+```
+
+### page 120
+
+
+```asm
+```
+
+```basic
+```
+
+### page 122
+
+
+```asm
+```
+
+```basic
+```
+
+```basic
+```
+
+### page 124
+
+
+```asm
+```
+
+```basic
+```
+
+```basic
+```
+
+
+### page 126
+
+
+```asm
+```
+
+```basic
+```
+
+```basic
+```
+
+
+### page 128
+
+
+```asm
+```
+
+```basic
+```
+
+```basic
+```
+
+### page 130
+
+
+```asm
+```
+
+```basic
+```
+
+```basic
+```
+
+### page 132
+
+
+```asm
+```
+
+```basic
+```
+
+```basic
+```
+
+### page 134
+
+
+```asm
+```
+
+```basic
+```
+
+```basic
 ```
 
 
