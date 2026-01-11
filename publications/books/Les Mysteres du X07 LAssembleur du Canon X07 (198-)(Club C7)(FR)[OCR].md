@@ -18,6 +18,28 @@ ___
 
 Errata nécessaire "pop AF" au lieu de "POP HL".
 
+```asm
+	PUSH AF
+	PUSH DB
+	PUSH BC
+	LD C,$Fl
+	CALL $COC9
+	LD A,($26C)
+	OR $80
+	OUT ($F0),A
+	OUT (C),E
+	LD A,$2
+	OUT ($F5),A
+	POP BC
+	POP DB
+	POP AF
+	RET
+```
+
+```asm
+
+```
+
 ``` Basic
 5 REM programme BASIC implantant une routine en LANGAGE MACHINE contenant une démonstration
 10 CLS:PRINT "Je charge les codes ... Un instant S.V.P !"
@@ -36,23 +58,7 @@ Errata nécessaire "pop AF" au lieu de "POP HL".
 99 DATA 00,00,00,00,00,00,00,00
 ```
 
-```asm
-	PUSH AF
-	PUSH DB
-	PUSH BC
-	LD C,$Fl
-	CALL $COC9
-	LD A,($26C)
-	OR $80
-	OUT ($F0),A
-	OUT (C),E
-	LD A,$2
-	OUT ($F5),A
-	POP BC
-	POP DB
-	POP AF
-	RET
-```
+
 
 ### page 120
 
