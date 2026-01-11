@@ -5,12 +5,18 @@ ___
 
 L'objectif est de reprendre les codes sources ici.
 
-
+___
 ## Listings
+
+### page 62
+
+``` Basic
+```
 
 
 ### page 86
 
+Errata nécessaire "pop AF"
 
 ``` Basic
 10 CLS: PRINT "Chargement...."
@@ -31,7 +37,21 @@ L'objectif est de reprendre les codes sources ici.
 ```
 
 ```asm
-Code assembleur à mettre
+PUSH AF
+PUSH DB
+PUSH BC
+LD C,$Fl
+CALL $COC9
+LD A,($26C)
+OR $80
+OUT ($F0),A
+OUT (C),E
+LD A,$2
+OUT ($F5),A
+POP BC
+POP DB
+POP AF
+RET
 ```
 
 
