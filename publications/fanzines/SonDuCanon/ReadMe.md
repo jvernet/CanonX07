@@ -54,7 +54,7 @@ D'après les recherches, il y aurait 6 Hors série :
 | D3 |  | ❕ | Le X-07 s'évade         |
 | D4 |  | 📝 | Automatique & crise     |
 | D5 |  | 📝 | PERT et chemin critique |
-| D6 |  | 📝 | Systèmes linéaire       |
+| D6 |  | ❕ | Systèmes linéaire       |
 
 La référence pour les HS et Dn.\
 Manque aussi les dates de publication.
