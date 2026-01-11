@@ -64,9 +64,9 @@ Existe aussi :
 | No | Date    | Etat | COmmentaire              |
 |----|---------|------|--------------------------|
 | ?? | 1987-10 | 📝   | Catalogue des produits   |
-| ?? | 1987 ?  | 📝   | Catalogue des produits   |
+| ?? | 1987 ?  | 📝   | Catalogue des produits (date limite mars 1987)  |
 
-Autre feuille de promotion - vilidité 30 novembre 1986.\
+Autre feuille de promotion - validité 30 novembre 1986.\
 
 
 
@@ -82,7 +82,7 @@ Le renammage des PNG cherche à correspondre aux no de page.\
 Des pages blanches peuvent être insérées afin de pouvoir imprimer correctement chaque fanzines en mode livret.
 Par exemple sur une imprimante A3.
 
-NDR : Ce qui sera fait une fois toutes les publication restaurées.
+NDR : Ce qui sera fait une fois toutes les publication restaurées. Avant mars si possible pour la vidéo finale.
 
 
 
