@@ -3,52 +3,63 @@
 ___
 ## Introduction
 
-Fanzine du club C7.\
-Restauration en cours de tous les numéro.\
-Format A4, 300dpi, imprimable en mode livret (A3).\
+Gazette du club C7.\
+Restauration en cours de tous les numéros qui ont été trouvé.\
+Mise en format A4, 300dpi, imprimable en mode livret (A3).\
 Les petits programmes seront dans des markdown éponymes pour faciliter la lecture.\
 Prévision de les incruster ensuite pour une meilleurs restoration.\
-Certain numéro avaient des pub couleurs. Elles seront aussi ajoutées après restauration.
+Certain numéro avaient des pub couleurs. Elles ne seront pas ajoutées après restauration, elles sont à part.
 
-Source : Abandonware Magazines
+Source : Abandonware Magazines et objet trouvés.
 
 ___
 # Tableau
 
-Tableau de suivi :
+## Tableau de suivi :
 
 | Icon | État |
 |------|-------|
-|  ✅  | Terminé |
+|  ✅  | Terminé, OCR |
 |  ❌  | Echec |
 |  ❕  | À trouver |
 |  📝  | En cours |
 
 
-Tableaux de l'état d'avancement des restaurations :
+## Tableaux de l'état d'avancement des restaurations :
 
-Les 6 numéros connus :
+
+
+D'après nos recherche, il y aurait 12 numéros dont 1 double (11/12) :
+
+| No    | Date | Etat | COmmentaire |
+|-------|------|------|-------------|
+| 01    | 1984-11/12 |  | |
+| 02    | 1985-03/04 |  | |
+| 03    | 1985-05/06 |  | |
+| 04    |  |  | |
+| 05    |  |  | |
+| 06    |  |  | |
+| 07    |  |  | |
+| 08    |  |  | |
+| 09    |  |  | |
+| 10    |  |  | |
+| 11-12 |  |  | |
+| 13    |  |  | |
+
+D'après les recherches, il y aurait 6 Hors série :
 
 | No | Date | Etat | COmmentaire |
 |----|------|------|-------------|
-| 01 |  |  | |
-| 02 |  |  | |
-| 03 |  |  | |
-| 04 |  |  | |
-| 05 |  |  | |
-| 06 |  |  | |
+| D1 |  |  | Graphes Scientifiques   |
+| D2 |  |  | Courbes en 3 dimensions |
+| D3 |  |  | Le X-07 s'évade         |
+| D4 |  |  | Automatique & crise     |
+| D5 |  |  | PERT et chemin critique |
+| D6 |  |  | Systèmes linéaire       |
 
-Les 5 Hors série connus :
+La numérotation sur les HS et Dn.
 
-| No | Date | Etat | COmmentaire |
-|----|------|------|-------------|
-| 01 |  |  | |
-| 02 |  |  | |
-| 03 |  |  | |
-| 04 |  |  | |
-| 05 |  |  | |
 
-Il n'y a pas de no sur les HS, il faut les remettre dans l'ordre de date de publication.
 
 ___
 ## Note de restauration
