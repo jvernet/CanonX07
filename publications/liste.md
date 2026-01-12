@@ -177,6 +177,50 @@ Beaucoup de listing.
 | 114 | 1985-12-20 | Dragon                      | ❕  |  |
 | 115 | 1985-12-27 | Serpentine                  | ❕  |  |
 
+#### 1986
+
+| No  | Date       | Réf.                     | État | Commentaire                  |
+|-----|------------|--------------------------|------|------------------------------|
+| 116 | 1986-01-03 | Strip X07                | ❕  |  |
+| 116 | 1986-01-03 | Moteur à explosion       | ❕  |  |
+| 117 | 1986-01-10 | Moniteur désassembleur   | ❕  |  |
+| 119 | 1986-01-24 | Pin-up                   | ❕  | Imprimante X-710 |
+| 121 | 1986-02-07 | Mines                    | ❕  |  |
+| 122 | 1986-02-14 | Glaçon                   | ❕  |  |
+| 123 | 1986-02-21 | Labyrinthe 3D            | ❕  |  |
+| 124 | 1986-02-28 | Tracé de courbe          | ❕  |  |
+| 125 | 1986-03-07 | Aventurier               | ❕  |  |
+| 126 | 1986-03-14 | Golf miniature           | ❕  |  |
+| 127 | 1986-03-21 | Catch-mean               | ❕  |  |
+| 128 | 1986-03-28 | Judoka                   | ❕  |  |
+| 129 | 1986-04-04 | Formule 1                | ❕  |  |
+| 132 | 1986-04-25 | Jeu de Ponts             | ❕  |  |
+| 133 | 1986-05-02 | Jeu d'hivers             | ❕  |  |
+| 134 | 1986-05-09 | Key programmer           | ❕  |  |
+| 135 | 1986-05-16 | Canon burger             | ❕  |  |
+| 136 | 1986-05-23 | Canon-calc               | ❕  |  |
+| 137 | 1986-05-30 | Boat                     | ❕  |  |
+| 138 | 1986-06-06 | Canon writer             | ❕  |  |
+| 141 | 1986-06-27 | Music maker              | ❕  |  |
+| 142 | 1986-07-04 | LabyXo VII               | ❕  |  |
+| 146 | 1986-08-01 | 3D Munch                 | ❕  |  |
+| 146 | 1986-08-01 | 3D turbo                 | ❕  |  |
+| 146 | 1986-08-01 | Bataille dans la galaxie | ❕  |  |
+| 146 | 1986-08-01 | Rendez-vous              | ❕  |  |
+| 150 | 1986-08-29 | Temple                   | ❕  |  |
+| 152 | 1986-09-12 | Dames                    | ❕  |  |
+| 154 | 1986-09-26 | Renum auto/comkill       | ❕  |  |
+| 155 | 1986-10-03 | Texto 7                  | ❕  |  |
+| 156 | 1986-10-10 | Basic étendu             | ❕  |  |
+| 158 | 1986-10-24 | Jumper                   | ❕  |  |
+| 160 | 1986-11-07 | Le sorcier maudit        | ❕  |  |
+| 162 | 1986-11-21 | Desass-ASM               | ❕  |  |
+| 165 | 1986-12-12 | Sea war -2-              | ❕  |  |
+
+
+#### 1987
+
+
 
 ___
 ### Info'Look
