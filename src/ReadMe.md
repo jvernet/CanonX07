@@ -35,14 +35,14 @@ Travail en cours.
 |-----|------|-------------|
 | 40 programmes pour Canon X07 | 📝 | |
 | Faites vos jeux avec Canon X07 | ❕ | |
-| Hebdogiciel | ❕ | |
+| Hebdogiciel | 📝 | |
 | List | ❕ | |
 | Logi'Stick | ❕ | |
 | Micro Systèmes | ❕ | |
 | Plus Loin avec Canon X07 | 📝 | |
 | Pocket Soft | 📝 | |
 | Power Soft | 📝 | |
-| Tilt | ❕ | |
+| Tilt | ❕ | 📝 |
 
 
 ___
