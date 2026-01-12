@@ -16,6 +16,7 @@ Une liste de référence existe "liste.md".
 | Icon | État |
 |------|-------|
 |  ✅  | Disponible, OCR |
+|  ⭐  | La publication a un intérêt particulier |
 |  ❌  | N'existe probablement pas / voir autre documentation |
 |  ❕  | À trouver |
 |  📝  | En cours de restauration / scans |
@@ -44,8 +45,8 @@ ___
 | Dossiers Spéciaux du Club C7                            | Club C7             | 1985–1986  | 📝 |
 | Faites vos jeux avec Canon X-07                         | Eyrolles            | 1984       | ✅ |
 | Info'Look                                               | Éditions Neptune    | 1980s      | 📝❕ | 3 No, d'autres ? |
-| Le Son du Canon (Bulletin du Club C7)                   | Club C7             | 1984–1986  | 📝 |
-| Les Mystères du X-07                                    | Éditions Neptune    | 1985       | 📝 |
+| Le Son du Canon (Bulletin du Club C7)                   | Club C7             | 1984–1986  | 📝 | ⭐ |
+| Les Mystères du X-07                                    | Éditions Neptune    | 1985       | 📝 | ⭐ |
 | NCS800                                                  | National Semiconductor | 1980s | ✅ | Z80 dans le Canon X-07 |
 | Plus loin avec le Canon X-07                            | Soracom             | 1985       | ✅ | 
 | Technical Guide (EN)                                    | Canon               | 1980s      | ✅📝 | Guide de dépannage |
