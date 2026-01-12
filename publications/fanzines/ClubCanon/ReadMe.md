@@ -19,6 +19,7 @@ Tableau de suivi :
 | Icon | État |
 |------|-------|
 |  ✅  | Terminé (PDF - OCR) |
+|  ⭐  | La publication a un intérêt particulier |
 |  ❌  | Echec |
 |  ❕  | À trouver |
 |  📝  | En cours |
