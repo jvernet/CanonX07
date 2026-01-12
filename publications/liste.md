@@ -75,57 +75,80 @@ Les article ou autres ne sont pas encore référencés, en particulier ce qui co
 
 | No  | Date       | Réf.                     | État | Commentaire                  |
 |-----|------------|--------------------------|------|------------------------------|
-| 013 | 1984-01-06 | Morpion 10x10            | ❕  | |
-| 014 | 1984-01-13 | Météors                  | ❕  | |
-| 015 | 1984-01-20 | France                   | ❕  | |
-| 016 | 1984-01-27 | Tour de Hanoï            | ❕  | |
+| 013 | 1984-01-06 | Morpion 10x10            | ❕  | Listing |
+| 014 | 1984-01-13 | Météors                  | ❕  | Listing |
+| 014 | 1984-01-13 | BAOUM ! CANON !          | ❕  | Annonce livre Jeux & Programmes |
+| 015 | 1984-01-20 | France                   | ❕  | Listing |
+| 015 | 1984-01-20 | Pub et bon de commande   | ❕  | p9, livre Jeux & Programmes |
+| 016 | 1984-01-27 | Tour de Hanoï            | ❕  | Listing |
+| 016 | 1984-01-27 | Pub et bon de commande   | ❕  | p9, livre Jeux & Programmes |
+| 016 | 1984-01-27 | Pub La règle à calcul    | ❕  | p16, tarifs |
 | 017 | 1984-02-03 | Dessin                   | ❕  | Imprimante X-710 |
-| 018 | 1984-02-10 | King'07 - Donkey Kong    | ❕  | |
-| 019 | 1984-02-17 | Utilitaires              | ❕  | |
-| 020 | 1984-02-24 | Générateur de caractères | ❕  | |
-| 021 | 1984-03-01 | Labyrinthe 3D            | ❕  | |
-| 022 | 1984-03-09 | Frissons                 | ❕  | |
-| 023 | 1984-03-16 | Casse Briques - Breakout | ❕  | |
-| 024 | 1984-03-23 | Stat                     | ❕  | |
-| 025 | 1984-03-30 | Labyrinthe               | ❕  | |
-| 026 | 1984-04-06 | Rapt vampir              | ❕  | |
-| 027 | 1984-04-13 | Math 07                  | ❕  | |
-| 028 | 1984-04-20 | Donjon                   | ❕  | |
-| 029 | 1984-04-27 | Paye                     | ❕  | |
-| 030 | 1984-05-04 | Starwars                 | ❕  | |
-| 031 | 1984-05-11 | Memory                   | ❕  | |
-| 032 | 1984-05-18 | Labyr                    | ❕  | |
-| 033 | 1984-05-25 | King frog                | ❕  | |
-| 034 | 1984-06-01 | Le triposautjathlon      | ❕  | |
-| 035 | 1984-06-08 | Carrés magique           | ❕  | |
-| 036 | 1984-06-15 | Chenille                 | ❕  | |
-| 037 | 1984-06-22 | Bataille sous marine     | ❕  | |
-| 038 | 1984-06-29 | Temple                   | ❕  | |
-| 039 | 1984-07-06 | X07 Car                  | ❕  | |
-| 040 | 1984-07-13 | Battle                   | ❕  | |
-| 041 | 1984-07-20 | Black Jack               | ❕  | |
-| 042 | 1984-08-03 | Tunnel                   | ❕  | |
-| 042 | 1984-08-03 | Calcul                   | ❕  | |
-| 042 | 1984-08-03 | Grand Prix               | ❕  | |
-| 042 | 1984-08-03 | Bombardier               | ❕  | |
-| 046 | 1984-08-31 | Le prix du danger        | ❕  | |
-| 047 | 1984-09-07 | Générateur Musical       | ❕  | |
-| 048 | 1984-09-14 | FONT$                    | ❕  | |
-| 049 | 1984-09-21 | Piste                    | ❕  | |
-| 050 | 1984-09-28 | Jump                     | ❕  | |
-| 051 | 1984-10-05 | Tron                     | ❕  | |
-| 052 | 1984-10-12 | Patrouilleur de l'espace | ❕  | |
-| 053 | 1984-10-19 | Puzzle                   | ❕  | |
-| 054 | 1984-10-26 | Chevalier Lancelot       | ❕  | |
-| 055 | 1984-11-02 | Defenseur                | ❕  | |
-| 056 | 1984-11-09 | Canontext                | ❕  | |
-| 057 | 1984-11-16 | Force 8                  | ❕  | |
-| 058 | 1984-11-23 | Bacman                   | ❕  | |
-| 059 | 1984-11-30 | L'As de As               | ❕  | |
-| 060 | 1984-12-07 | Fifine la tortue         | ❕  | |
-| 061 | 1984-12-14 | Finance                  | ❕  | |
-| 062 | 1984-12-21 | Belote                   | ❕  | |
-| 063 | 1984-12-28 | Rase mottes              | ❕  | |
+| 017 | 1984-02-03 | Pub et bon de commande   | ❕  | p13, livre Jeux & Programmes |
+| 017 | 1984-02-03 | Pub La règle à calcul    | ❕  | p20, tarifs |
+| 018 | 1984-02-10 | King'07 - Donkey Kong    | ❕  | Listing |
+| 018 | 1984-02-10 | Pub et bon de commande   | ❕  | p13, livre Jeux & Programmes |
+| 018 | 1984-02-10 | Dessin (no17)            | ❕  | p13, exemples dessins |
+| 019 | 1984-02-17 | Utilitaires              | ❕  | Listing |
+| 019 | 1984-02-17 | Pub et bon de commande   | ❕  | p8, livre Jeux & Programmes |
+| 020 | 1984-02-24 | Générateur de caractères | ❕  | Listing |
+| 020 | 1984-02-24 | Pub et bon de commande   | ❕  | p8, livre Jeux & Programmes |
+| 021 | 1984-03-01 | Labyrinthe 3D            | ❕  | Listing |
+| 021 | 1984-03-01 | Pub et bon de commande   | ❕  | p8, livre Jeux & Programmes |
+| 021 | 1984-03-01 | Nouveaux coups de canon  | ❕  | XM101, X-730, XP110, XP120, XP130, XP140, XP150 |
+| 022 | 1984-03-09 | Frissons                 | ❕  | Listing |
+| 022 | 1984-03-09 | Pub et bon de commande   | ❕  | p8, livre Jeux & Programmes |
+| 023 | 1984-03-16 | Casse Briques - Breakout | ❕  | Listing |
+| 023 | 1984-03-16 | Pub et bon de commande   | ❕  | p8, livre Jeux & Programmes |
+| 024 | 1984-03-23 | Stat                     | ❕  | Listing |
+| 024 | 1984-03-23 | Errata Frissons (022)    | ❕  | Errata Listing Frissons |
+| 025 | 1984-03-30 | Labyrinthe               | ❕  | Listing |
+| 026 | 1984-04-06 | Rapt vampir              | ❕  | Listing |
+| 026 | 1984-04-06 | Pub et bon de commande   | ❕  | p9, livre Jeux & Programmes |
+| 027 | 1984-04-13 | Math 07                  | ❕  | Listing |
+| 027 | 1984-04-13 | Pub et bon de commande   | ❕  | p8, livre Jeux & Programmes |
+| 028 | 1984-04-20 | Donjon                   | ❕  | Listing |
+| 029 | 1984-04-27 | Paye                     | ❕  | Listing |
+| 029 | 1984-04-27 | Publicité Duriez         | ❕  | p8, tarifs  |
+| 030 | 1984-05-04 | Starwars                 | ❕  | Listing |
+| 031 | 1984-05-11 | Memory                   | ❕  | Listing |
+| 031 | 1984-05-11 | Publicité Duriez         | ❕  | p8, tarifs  |
+| 032 | 1984-05-18 | Labyr                    | ❕  | Listing |
+| 032 | 1984-05-18 | Errata (30)              | ❕  | Listing + Errata no 30 |
+| 032 | 1984-05-18 | Publicité Duriez         | ❕  | p15, tarifs  |
+| 033 | 1984-05-25 | King frog                | ❕  | Listing |
+| 033 | 1984-05-25 | Hebdocicob               | ❕  | p1, SICOB, Canon X-720 |
+| 034 | 1984-06-01 | Le triposautjathlon      | ❕  | Listing |
+| 035 | 1984-06-08 | Carrés magique           | ❕  | Listing |
+| 036 | 1984-06-15 | Chenille                 | ❕  | Listing |
+| 037 | 1984-06-22 | Bataille sous-marine     | ❕  | Listing |
+| 038 | 1984-06-29 | Temple                   | ❕  | Listing |
+| 039 | 1984-07-06 | X07 Car                  | ❕  | Listing |
+| 039 | 1984-07-06 | Errata (38)              | ❕  | Listing, Errata Temple |
+| 040 | 1984-07-13 | Battle                   | ❕  | Listing |
+| 041 | 1984-07-20 | Black Jack               | ❕  | Listing |
+| 042 | 1984-08-03 | Tunnel                   | ❕  | Listing |
+| 042 | 1984-08-03 | Calcul                   | ❕  | Listing |
+| 042 | 1984-08-03 | Grand Prix               | ❕  | Listing |
+| 042 | 1984-08-03 | Bombardier               | ❕  | Listing |
+| 046 | 1984-08-31 | Le prix du danger        | ❕  | Listing |
+| 047 | 1984-09-07 | Générateur Musical       | ❕  | Listing |
+| 048 | 1984-09-14 | FONT$                    | ❕  | Listing |
+| 049 | 1984-09-21 | Piste                    | ❕  | Listing |
+| 050 | 1984-09-28 | Jump                     | ❕  | Listing |
+| 051 | 1984-10-05 | Tron                     | ❕  | Listing |
+| 052 | 1984-10-12 | Patrouilleur de l'espace | ❕  | Listing |
+| 053 | 1984-10-19 | Puzzle                   | ❕  | Listing |
+| 054 | 1984-10-26 | Chevalier Lancelot       | ❕  | Listing |
+| 055 | 1984-11-02 | Defenseur                | ❕  | Listing |
+| 056 | 1984-11-09 | Canontext                | ❕  | Listing |
+| 057 | 1984-11-16 | Force 8                  | ❕  | Listing |
+| 058 | 1984-11-23 | Bacman                   | ❕  | Listing |
+| 059 | 1984-11-30 | L'As de As               | ❕  | Listing |
+| 060 | 1984-12-07 | Fifine la tortue         | ❕  | Listing |
+| 061 | 1984-12-14 | Finance                  | ❕  | Listing |
+| 062 | 1984-12-21 | Belote                   | ❕  | Listing |
+| 063 | 1984-12-28 | Rase mottes              | ❕  | Listing |
 
 
 #### 1985
