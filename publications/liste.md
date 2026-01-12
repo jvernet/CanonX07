@@ -53,8 +53,8 @@ Pas d'autre numéro connu de cette revue.\
 ___
 ### Hebdogiciel
 
-Beaucoup de listing.
-
+Beaucoup de listing.\
+Les article ou autres ne sont pas encore référencés, en particulier ce qui concerne le module X-740.
 
 #### 1983
 
@@ -220,7 +220,9 @@ Beaucoup de listing.
 
 #### 1987
 
-
+| No  | Date       | Réf.       | État | Commentaire                  |
+|-----|------------|------------|------|------------------------------|
+| 168 | 1987-01-02 | Beach head | ❕  |  |
 
 ___
 ### Info'Look
