@@ -46,7 +46,7 @@ ___
 | Faites vos jeux avec Canon X-07                         | Eyrolles            | 1984       | ✅ |
 | Info'Look                                               | Éditions Neptune    | 1980s      | 📝❕ | 3 No, d'autres ? |
 | Le Son du Canon (Bulletin du Club C7)                   | Club C7             | 1984–1986  | 📝 | ⭐ |
-| Les Mystères du X-07                                    | Éditions Neptune    | 1985       | 📝 | ⭐ |
+| Les Mystères du X-07                                    | Éditions Neptune    | 1985       | 📝 | ⭐ La bible de l'assembleur |
 | NCS800                                                  | National Semiconductor | 1980s | ✅ | Z80 dans le Canon X-07 |
 | Plus loin avec le Canon X-07                            | Soracom             | 1985       | ✅ | 
 | Technical Guide (EN)                                    | Canon               | 1980s      | ✅📝 | Guide de dépannage |
