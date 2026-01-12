@@ -20,6 +20,7 @@ ___
 | Icon | État |
 |------|-------|
 |  ✅  | Terminé, OCR |
+|  ⭐  | La publication a un intérêt particulier |
 |  ❌  | Echec |
 |  ❕  | À trouver |
 |  📝  | En cours |
@@ -27,10 +28,9 @@ ___
 
 ## Tableaux de l'état d'avancement des restaurations :
 
-
 D'après nos recherche, il y aurait 12 numéros de la gazette "Au son du Canon" dont 1 double (11/12) :
 
-| No    | Date       | Etat | COmmentaire |
+| No    | Date       | Etat | Commentaire |
 |-------|------------|------|-------------|
 | 01    | 1984-11/12 | 📝 | |
 | 02    | 1985-03/04 | 📝 | |
@@ -40,28 +40,28 @@ D'après nos recherche, il y aurait 12 numéros de la gazette "Au son du Canon" 
 | 06    | 1985-11/12 | 📝 | |
 | 07    | 1986-01-02 | 📝 | |
 | 08    | 1986-03-04 | 📝 | |
-| 09    |            | ❕  | |
-| 10    |            | ❕  | |
-| 11-12 |            | ❕  | |
-| 13    |            | ❕  | |
+| 09    | 198?       | ❕  | |
+| 10    | 198?       | ❕  | |
+| 11-12 | 198?       | ❕  | |
+| 13    | 198?       | ❕  | |
 
 D'après les recherches, il y aurait 6 Hors série :
 
-| No | Date | Etat | COmmentaire |
+| No | Date | Etat | Commentaire |
 |----|------|------|-------------|
-| D1 |  | 📝 | Graphes Scientifiques   |
-| D2 |  | 📝 | Courbes en 3 dimensions |
-| D3 |  | ❕ | Le X-07 s'évade         |
-| D4 |  | 📝 | Automatique & crise     |
-| D5 |  | 📝 | PERT et chemin critique |
-| D6 |  | ❕ | Systèmes linéaire       |
+| D1 | 198? | 📝 | Graphes Scientifiques   |
+| D2 | 198? | 📝 | Courbes en 3 dimensions |
+| D3 | 198? | ❕ | Le X-07 s'évade         |
+| D4 | 198? | 📝 | Automatique & crise     |
+| D5 | 198? | 📝 | PERT et chemin critique |
+| D6 | 198? | ❕ | Systèmes linéaire       |
 
 La référence pour les HS et Dn.\
 Manque aussi les dates de publication.
 
 Existe aussi :
 
-| No | Date    | Etat | COmmentaire              |
+| No | Date    | Etat | Commentaire              |
 |----|---------|------|--------------------------|
 | ?? | 1987-10 | 📝   | Catalogue des produits   |
 | ?? | 1987 ?  | 📝   | Catalogue des produits (date limite mars 1987)  |
