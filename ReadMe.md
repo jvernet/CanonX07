@@ -1,6 +1,6 @@
 # Canon X-07
 
-![Logo RPUFOS](asset/rpufos_logo.png)
+![Logo RPUFOS](assets/RPUFOS_Logo.png)
 
 ___
 ## Introduction
