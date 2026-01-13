@@ -35,21 +35,21 @@ ___
 
 | Titre                                                   | Publication         | Année      | État | Commentaire |
 |---------------------------------------------------------|---------------------|------------|------|-------------|
-| 40 Programmes pour Canon X-07                           | Micro Systemes ETSF | 1985       | 📝 |
-| Applications en Assembleur dans l'Univers du Canon X-07 | Éditions Neptune    | 1986       | ✅ |
+| 40 Programmes pour Canon X-07                           | Micro Systemes ETSF | 1985       | 📝 | |
+| Applications en Assembleur dans l'Univers du Canon X-07 | Éditions Neptune    | 1986       | ✅ | |
 | Atlantis                                                | Éditions Neptune    | 1980s      | 📝❕ | Numéro 0, autre No ? |
-| Canon X-07 Manuel Utilisateur                           | Canon               | 1983       | ✅ |
-| Canon X-07 BASIC Reference Card                         | Canon               | 1983       | ✅ |
+| Canon X-07 Manuel Utilisateur                           | Canon               | 1983       | ✅ | |
+| Canon X-07 BASIC Reference Card                         | Canon               | 1983       | ✅ | |
 | Catalogue 1985                                          | Logi'Stick          | 1985       | ✅ | |
 | Club Canon X-07 Fanzine                                 | Club Canon X-07     | 1980s      | 📝❕ |
-| Dossiers Spéciaux du Club C7                            | Club C7             | 1985–1986  | 📝 |
-| Faites vos jeux avec Canon X-07                         | Eyrolles            | 1984       | ✅ |
+| Dossiers Spéciaux du Club C7                            | Club C7             | 1985–1986  | 📝 | |
+| Faites vos jeux avec Canon X-07                         | Eyrolles            | 1984       | ✅ | |
 | Info'Look                                               | Éditions Neptune    | 1980s      | 📝❕ | 3 No, d'autres ? |
 | Le Son du Canon (Bulletin du Club C7)                   | Club C7             | 1984–1986  | 📝 | ⭐ |
 | Les Mystères du X-07                                    | Éditions Neptune    | 1985       | 📝 | ⭐ La bible de l'assembleur |
 | NCS800                                                  | National Semiconductor | 1980s | ✅ | Z80 dans le Canon X-07 |
-| Plus loin avec le Canon X-07                            | Soracom             | 1985       | ✅ | 
-| Technical Guide (EN)                                    | Canon               | 1980s      | ✅📝 | Guide de dépannage |
+| Plus loin avec le Canon X-07                            | Soracom             | 1985       | ✅ |  |
+| Technical Guide (EN)                                    | Canon               | 1980s      | ✅📝 | ⭐ Guide de dépannage |
 
 NDR :
 - Éditions Neptune est issue du Club C7
@@ -64,11 +64,11 @@ Documentations des périphériques Canon.
 
 | Ref.    | Périphérique / Accessoire       | Status | Commentaire |
 |---------|---------------------------------|--------|-------------|
-| X-710   | Table traçante 4 couleurs       | ❕ | |
+| X-710   | Table traçante 4 couleurs       | ❕ | Problème connu sur l'alimentation |
 | X-711   | Imprimante Thermique            | ✅ | |
-| X-720   | Interface Vidéo Peritel         | ✅ | |
-| X-721   | Coupleur optique                | ❕ | |
-| X-722   | Convertisseur de Niveau RS-232  | ✅ | |
+| X-720   | Interface Vidéo Peritel         | ✅ | Très rare |
+| X-721   | Coupleur optique                | ❕ | Très rare |
+| X-722   | Convertisseur de Niveau RS-232  | ✅ | Rare |
 | X-730   | Magnétophone Cassette           | ✅ | |
 | X-740   | Interface X-07 V20              | ❕ | le V20 est le MSX de Canon |
 | XR-100  | Module Extention Mémoire 8ko    | ❕ | Puce dans le compartiment dédié |
@@ -78,7 +78,7 @@ Documentations des périphériques Canon.
 | XC-920  | Câble // pour X-710             | ❌ | Voir X-710, non standrd |
 | XC-930  | Câble // Centronics             | ❌ | Non standard vers Centronics |
 | XC-940  | Câble Série pour X-722          | ❌ | Voir X-722 (DB25 ?) |
-| AD-4 II | Adaptateur Secteur X-07         | ❌ | IN: 220V~ 50Hz 8.5VA - OUT: 4.5V= 450mA |
+| AD-4 II | Adaptateur Secteur X-07         | ❌📝 | IN: 220V~ 50Hz 8.5VA - OUT: 4.5V= 450mA |
 | AD-5    | Adapt. Secteur pour X-710/X-720 | ❌ | |
 | CH-3    | Adapt. Secteur pour X-730       | ❌ | |
 | BP-1    | Jeu de 4 stylos Couleurs        | ❌ | Voir X-710 |
@@ -89,6 +89,7 @@ Documentations des périphériques Canon.
 NDR :
 - Attention avec le AD-5, bien vérifier les polarités de la prise (inversée).
 - XC-910 ; on cherche la réf de la prise DIN (ça y ressemble, mais ça n'a pas l'aire d'être ça.
+- AD-4 II ; photo.
 
 ___
 ### Canon X‑07, Logiciels
