@@ -55,7 +55,7 @@ NDR :
 - Éditions Neptune est issue du Club C7
 - le Technical Guide inclu aussi les périfériques.
 - Avec les documents il semble possible de refaire certain périférique, notamment le X-722 (RS232).
-- XR-100 : Il y a des Toshiba encore disponible sur ebay (2026).
+
 
 ___
 ### Canon X‑07, Périphériques
@@ -71,12 +71,12 @@ Documentations des périphériques Canon.
 | X-722   | Convertisseur de Niveau RS-232  | ✅ | Rare |
 | X-730   | Magnétophone Cassette           | ✅ | |
 | X-740   | Interface X-07 V20              | ❕ | le V20 est le MSX de Canon |
-| XR-100  | Module Extention Mémoire 8ko    | ❕ | Puce dans le compartiment dédié |
+| XR-100  | Module Extention Mémoire 8ko    | ❕ | Puce dans le compartiment dédié !!! Atention au switch devant !!! |
 | XM-100  | Carte Extention 4ko             | ❕ | |
 | XM-101  | Carte Extention 8ko             | ❕ | |
 | XC-910  | Câble Cassette                  | ❌ | Voir X-730, (mini DIN 5b? vers 3 x Jack 3.5) |
-| XC-920  | Câble // pour X-710             | ❌ | Voir X-710, non standrd |
-| XC-930  | Câble // Centronics             | ❌ | Non standard vers Centronics |
+| XC-920  | Câble // pour X-710             | ❌📝 | Voir X-710, non standrd |
+| XC-930  | Câble // Centronics             | ❌📝 | Non standard vers Centronics |
 | XC-940  | Câble Série pour X-722          | ❌ | Voir X-722 (DB25 ?) |
 | AD-4 II | Adaptateur Secteur X-07         | ❌📝 | IN: 220V~ 50Hz 8.5VA - OUT: 4.5V= 450mA |
 | AD-5    | Adapt. Secteur pour X-710/X-720 | ❌ | |
@@ -89,7 +89,10 @@ Documentations des périphériques Canon.
 NDR :
 - Attention avec le AD-5, bien vérifier les polarités de la prise (inversée).
 - XC-910 ; on cherche la réf de la prise DIN (ça y ressemble, mais ça n'a pas l'aire d'être ça.
-- AD-4 II ; photo.
+- XR-100 : Il y a des Toshiba compatibles encore disponible sur ebay (2026).
+- XC-920, XC-930, AD-4 II ; photos.
+- BP-1 et BP-2 : Alternative disponible (liens à mettre).
+- X-710 : rebranding d'ALPS. équivalant à plein de modèles (le premier et de chez Tandy) (à faire).
 
 ___
 ### Canon X‑07, Logiciels
