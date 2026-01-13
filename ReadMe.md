@@ -2,6 +2,9 @@
 
 ![Logo RPUFOS](assets/RPUFOS_Logo.png)
 
+<img src="assets/RPUFOS_Logo.png" alt="Logo RPUFOS" width="300">
+
+
 ___
 ## Introduction
 
