@@ -55,7 +55,7 @@ NDR :
 - Éditions Neptune est issue du Club C7
 - le Technical Guide inclu aussi les périfériques.
 - Avec les documents il semble possible de refaire certain périférique, notamment le X-722 (RS232).
-
+- XR-100 : Il y a des Toshiba encore disponible sur ebay (2026).
 
 ___
 ### Canon X‑07, Périphériques
