@@ -37,6 +37,11 @@ Ressources :
 ___
 ## Work in progress
 
+For tracking officially released hardware and software:
+- **[suivi.md](Suivi.md)**
+
+For articles that include software listings:
+- **[liste.md](publication/liste.md)**
 
 
 ___
