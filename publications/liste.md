@@ -7,6 +7,9 @@ Tentative de référencement des publications sur le CANON X-07.\
 Les liens sont mis vers [Abandonware Magazines](https://abandonware-magazines.org/).\
 Faire clique droit car GitHub n'accepte pas le target="_blank".
 
+Actuellement la date la plus ancienne est Octobre 1983, pour les premières publications.\
+Le Canon X07 ayant été montré au SICOB '83.
+
 Note :\
 PHC-25 : Tilt 08; led micro 1  \
 Squal : Tilt 21. led micro 14  \
