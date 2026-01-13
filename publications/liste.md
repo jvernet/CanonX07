@@ -379,14 +379,26 @@ Pas de no 24 et au-delà trouvé.
 ___
 ### [SVM](https://abandonware-magazines.org/affiche_mag.php?mag=48)
 
-| No | Date    | Réf.                    | État | Commentaire      |
-|----|---------|-------------------------|------|------------------|
-| 1  | 1983-12 | Un ordinateur pour Noël | 📝   | p28 |
+| No  | Date    | Réf.                    | État | Commentaire           |
+|-----|---------|-------------------------|------|-----------------------|
+| 001 | 1983-12 | Un ordinateur pour Noël | 📝   | p28                   |
+| 006 | 1984-05 | Fractales pour tous     | 📝   | p92-93 ; X-710        |
+| 006 | 1984-05 | Pub Hebdogiciel         | 📝   | Casette Canon 12 jeux |
+| 007 | 1984-06 | Pub Hebdogiciel         | 📝   | Casette Canon 12 jeux |
+| 009 | 1984-09 | Pub canon X07           | 📝   | p8,9 |
+| 009 | 1984-09 | Le Guide : Canon X07    | 📝   | p49 |
+| 010 | 1984-10 | Pub canon X07           | 📝   | p6,7 |
+| 011 | 1984-11 | Pub canon X07           | 📝   | p8,9 |
+| 015 | 1985-03 | Pub canon X07           | 📝   | p117 |
+| 015 | 1985-03 | Pub Majuscule - canon X07 | 📝   | p155 |
 
 Recherche dans les suivants à faire.
 
-2, SIM ?
+SVM 15,16,17  pub V20.
 
+2, SIM ?\
+3, microgouilles\
+4, 5, 13, 14 printer, 18, 19
 
 ___
 ### [Tilt](https://abandonware-magazines.org/affiche_mag.php?mag=28)
