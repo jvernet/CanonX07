@@ -16,11 +16,14 @@ Ou livres :
 - 40 Programmes pour Canon X07
 - Faites vos Jeux avec Canon X07
 - Plus Loin avec Canon X07
+- ...
 
 ___
 ## Suivi
 
-Tableau de suivi :
+Pour le détail voir dans [publications](../publication).
+
+### Tableau de suivi
 
 | Icon | État |
 |------|-------|
@@ -29,7 +32,7 @@ Tableau de suivi :
 |  ❕  | À faire |
 |  📝  | En cours |
 
-Travail en cours.
+### Travail en cours
 
 | Nom | État | Commentaire |
 |-----|------|-------------|
@@ -43,6 +46,5 @@ Travail en cours.
 | Pocket Soft | 📝 | |
 | Power Soft | 📝 | |
 | Tilt | ❕ | 📝 |
-
 
 ___
