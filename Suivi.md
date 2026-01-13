@@ -74,7 +74,7 @@ Documentations des périphériques Canon.
 | XR-100  | Module Extention Mémoire 8ko    | ❕ | Puce dans le compartiment dédié |
 | XM-100  | Carte Extention 4ko             | ❕ | |
 | XM-101  | Carte Extention 8ko             | ❕ | |
-| XC-910  | Câble Cassette                  | ❌ | Voir X-730, (mini DIN 5b vers 3 x Jack 3.5) |
+| XC-910  | Câble Cassette                  | ❌ | Voir X-730, (mini DIN 5b? vers 3 x Jack 3.5) |
 | XC-920  | Câble // pour X-710             | ❌ | Voir X-710, non standrd |
 | XC-930  | Câble // Centronics             | ❌ | Non standard vers Centronics |
 | XC-940  | Câble Série pour X-722          | ❌ | Voir X-722 (DB25 ?) |
@@ -86,7 +86,9 @@ Documentations des périphériques Canon.
 | MP-114  | Rouleau papier pour X-710       | ❌ | Voir X-710 |
 
 
-NDR : Attention avec le AD-5, bien vérifier les polarités de la prise (inversée).
+NDR :
+- Attention avec le AD-5, bien vérifier les polarités de la prise (inversée).
+- XC-910 ; on cherche la réf de la prise DIN (ça y ressemble, mais ça n'a pas l'aire d'être ça.
 
 ___
 ### Canon X‑07, Logiciels
