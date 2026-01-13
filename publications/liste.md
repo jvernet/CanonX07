@@ -391,6 +391,7 @@ ___
 | 011 | 1984-11 | Pub canon X07           | 📝   | p8,9 |
 | 015 | 1985-03 | Pub canon X07           | 📝   | p117 |
 | 015 | 1985-03 | Pub Majuscule - canon X07 | 📝   | p155 |
+| 020 | 1985-09 | Article RS232 | 📝   | p136 (pour aide) |
 
 Recherche dans les suivants à faire.
 
@@ -398,7 +399,7 @@ SVM 15,16,17  pub V20.
 
 2, SIM ?\
 3, microgouilles\
-4, 5, 13, 14 printer, 18, 19
+4, 5, 13, 14 printer, 18, 19, 20 (idem J&S ?)
 
 ___
 ### [Tilt](https://abandonware-magazines.org/affiche_mag.php?mag=28)
