@@ -283,6 +283,11 @@ Pas d'autres numéros connus.\
 Les numéros sont complet car pas d'autres ressources connues.
 
 ___
+### Jeux & Stratégie
+
+Mis ici car il y a de quoi faire des adaptations multi micro.
+
+___
 ### [Led Micro](https://abandonware-magazines.org/affiche_mag.php?mag=61)
 
 | No | Date    | Réf.         | État | Commentaire                  |
@@ -392,6 +397,8 @@ ___
 | 015 | 1985-03 | Pub canon X07           | 📝   | p117 |
 | 015 | 1985-03 | Pub Majuscule - canon X07 | 📝   | p155 |
 | 020 | 1985-09 | Article RS232 | 📝   | p136 (pour aide) |
+| 023 | 1985-12 | 4 outsiders | p72 - Noêl |
+
 
 Recherche dans les suivants à faire.
 
@@ -400,6 +407,11 @@ SVM 15,16,17  pub V20.
 2, SIM ?\
 3, microgouilles\
 4, 5, 13, 14 printer, 18, 19, 20 (idem J&S ?)
+
+25, nanoréseau, index, 26
+
+Probablement rien au-delà du 26, stop de recherche.\
+Cepandant quelques programme peuvent s'avérer interessant à analyser, SVM étant lié à jeux & Stratégie.
 
 ___
 ### [Tilt](https://abandonware-magazines.org/affiche_mag.php?mag=28)
