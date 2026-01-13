@@ -270,7 +270,8 @@ ___
 | 2  | 1985-06 |                                         | 📝   |                              |
 | 3  | 1985-10 | Le Canon X-07 : Le portatif Heureux !   | 📝   |                              |
 
-Pas d'autre numéro connus.
+Pas d'autre numéro connus.\
+Les numéros sont complet car pas d'autres ressources connues.
 
 ___
 ### Led Micro
