@@ -51,7 +51,7 @@ ___
 
 | No | Date    | Réf.                          | État | Commentaire                  |
 |----|---------|-------------------------------|------|------------------------------|
-| 0  | 1987-04 | La consécration du Canon X-07 | 📝   | |
+| 0  | 1987-04 | La consécration du Canon X-07 | 📝   | numéro gratuit de lancement |
 
 Pas d'autre numéro connu de cette revue. Elle est ici complète car nul par ailleurs.\
 70 Fr. pour l'abonnement.
