@@ -265,6 +265,9 @@ Les article sont référencés. L'ensemble des listings est dans la partie "src"
 |-----|------------|------------|------|------------------------------|
 | 168 | 1987-01-02 | Beach head | ❌  |  |
 
+Hebdogiciel c'est arrêté au no 168, donc tous les listings non fini sont incomplet.\
+Le Beach Head existe, il faut le trouver.
+
 ___
 ### Info'Look
 
