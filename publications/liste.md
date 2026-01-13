@@ -295,30 +295,30 @@ Restauration des pages à faire.
 ___
 ### [LIST](https://abandonware-magazines.org/affiche_mag.php?mag=9)
 
-| No | Date       | Réf.                                    | Commentaire                  |
-|----|------------|-----------------------------------------|------------------------------|
-| 01 |    | Table des matières | Listing - p78 |
-| 03 |    | Publicité double page | |
-| 06 |    | La gazette de List - Carte Minitel | Tout petit encart - p16 |
-| 06 |    | La gazette de List - Logi'Stick | 3 cassettes - p18 |
-| 06 |    | La guerre des trois | Listing ; p20-21 |
-| 07 |    | La gazette de List - Info Systemes | Cartes Mémoires - p19 |
-| 07 |    | Trois miniatures | 3 listings - p68 |
-| 07 |    | Delete et Renum | Listings - p79 |
-| 08 |    | Des courbes très anguleuses | Listing - p20 21 |
-| 08 |    | Un mouchard dans le Canon | Listing - p73 |
-| 09 |    | Assembleur désassembleur X-07 | Cassette Logi'Stick - p46-47 |
-| 09 |    | Le Basic du Canon X-07 | Test - p68-70 |
-| 10 |    | à vos clavier | p10 ; Question List No 6 p20 |
-| 10 |    | Assembleur du X-07 | Cherchez la chaîne ; p24-25 |
-| 10 |    | Inversion vidéo | Listings ; p76 |
-| 11 |    | à vos clavier | p9 ; Question List mémoire écran, ref no 7 p71 |
-| 11 |    | Le langage machine du Canon X-07 s'implante | p35-37 |
-| 12 |    | La gazette de List - Can'ell | Un Minitel Moniteur X-07 ; p11 |
-| 12 |    | La gazette de List - Carte moniteur XP-140 | p14 |
-| 12 |    | Lister l'erreur automatiquement | Listing p46-47 |
-| 12 |    | Mesurer le temps d'utilisation | Listings p63-64 |
-| 12 |    | Interdire l'accès... | Listings p68-69 |
+| No | Date       | Réf.                                        | État | Commentaire                  |
+|----|------------|---------------------------------------------|------|------------------------------|
+| 01 | 1984-07/08 | Table des matières                          | 📝   | Listing - p78 |
+| 03 | 1984-10    | Publicité double page                       | 📝   | pub |
+| 06 | 1985-01/02 | La gazette de List - Carte Minitel          | 📝   | Tout petit encart - p16 |
+| 06 | 1985-01/02 | La gazette de List - Logi'Stick             | 📝   | 3 cassettes - p18 |
+| 06 | 1985-01/02 | La guerre des trois                         | 📝   | Listing ; p20-21  |
+| 07 | 1985-03    | La gazette de List - Info Systemes          | 📝   |  Cartes Mémoires - p19 |
+| 07 | 1985-03    | Trois miniatures                            | 📝   | 3 listings - p68 |
+| 07 | 1985-03    | Delete et Renum                             | 📝   | Listings - p79 |
+| 08 | 1985-04    | Des courbes très anguleuses                 | 📝   | Listing - p20 21 |
+| 08 | 1985-04    | Un mouchard dans le Canon                   | 📝   | Listing - p73 |
+| 09 | 1985-05    | Assembleur désassembleur X-07               | 📝   | Cassette Logi'Stick - p46-47 |
+| 09 | 1985-05    | Le Basic du Canon X-07                      | 📝   | Test - p68-70 |
+| 10 | 1985-06    | à vos clavier                               | 📝   | p10 ; Question List No 6 p20 |
+| 10 | 1985-06    | Assembleur du X-07                          | 📝   | Cherchez la chaîne ; p24-25 |
+| 10 | 1985-06    | Inversion vidéo                             | 📝   | Listings ; p76 |
+| 11 | 1985-07/08 | à vos clavier                               | 📝   | p9 ; Question List mémoire écran, ref no 7 p71 |
+| 11 | 1985-07/08 | Le langage machine du Canon X-07 s'implante | 📝   | p35-37 |
+| 12 | 1985-09/10 | La gazette de List - Can'ell                | 📝   | Un Minitel Moniteur X-07 ; p11 |
+| 12 | 1985-09/10 | La gazette de List - Carte moniteur XP-140  | 📝   | p14 |
+| 12 | 1985-09/10 | Lister l'erreur automatiquement             | 📝   | Listing p46-47 |
+| 12 | 1985-09/10 | Mesurer le temps d'utilisation              | 📝   | Listings p63-64 |
+| 12 | 1985-09/10 | Interdire l'accès...                        | 📝   | Listings p68-69 |
 
 Pas de no 13 et au-dela.\
 De plus beaucoup de numéros sont incomplets.
@@ -332,21 +332,30 @@ Recherche à faire.
 | No | Date    | Réf.                      | État | Commentaire                  |
 |----|---------|---------------------------|------|------------------------------|
 | 19 | 1984-02 | Banc d'essai - Canon X-07 | 📝   | p36-38 |
-  
 
+Apparement seul numéro qui en parle.
+
+no 27, VG5000, à reporter. 29, Alice 90. 32, exl100. 33, Canon v20 (1985-05)
 
 ___
 ### [Micro Systèmes](https://abandonware-magazines.org/affiche_mag.php?mag=64)
 
-Recherche à faire.
+Autre source plus complète [ACPC.me]()
 
-| No | Date       | Réf.                                    | Commentaire                  |
-|----|------------|-----------------------------------------|------------------------------|
+| No  | Date    | Réf.                      | Commentaire                  |
+|-----|---------|---------------------------|------------------------------|
+| 42  | 1984-05 | Un Moniteur/Désassembleur | p179 |
+| 49  | 1985-01 | Password                  | p147, Assembleur, ref. au no 42 |
+| 49  | 1985-01 | Assembleur 2 passes       | p151, carte 4k nécessaire |
 
+
+à finir.
 
 
 ___
 ### [Micro V.O](https://abandonware-magazines.org/affiche_mag.php?mag=79)
+
+Liste no incomplète. 4, 5 et 7 absents.
 
 | No | Date    | Réf.                                   | État | Commentaire      |
 |----|---------|----------------------------------------|------|------------------|
