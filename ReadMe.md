@@ -22,16 +22,21 @@ Think of this as a mix between a resource hub and a tribute.
 RPUFOS is a French group, but everyone is welcome to join and contribute.\
 For now, all the content is written in French.
 
-**For more information, you can check out:
-- Olipix’s channel**
+For more information, you can check out:
+- [Olipix’s channel](https://www.youtube.com/@Olipix) (You Tube)
 
 ___
 ## Other Ressources on the web
 
-TO DO.
+Ressources :
+- Hebdogiciel les listing
+- Abandonware magazines
+- ...
+
 
 ___
 ## Work in progress
 
-See "Suivi.md" file.
+
+
 ___
