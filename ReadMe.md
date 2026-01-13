@@ -1,8 +1,7 @@
 # Canon X-07
 
-<img src="assets/RPUFOS_Logo.png" alt="Logo RPUFOS" width="250">
+<img src="assets/RPUFOS_Logo.png" alt="Logo RPUFOS" width="250" style="margin:auto;">
 
-![Description](assets/RPUFOS_Logo.png){width=200}
 
 ___
 ## Introduction
