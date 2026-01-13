@@ -4,7 +4,7 @@
 ## Introduction
 
 Les codes sources sont thésaurisé ici.\
-Rangés par "éditeurs".
+Rangés par éditeurs.
 
 - Hebdogiciel
 - Logi'Stick
@@ -18,10 +18,16 @@ Ou livres :
 - Plus Loin avec Canon X07
 - ...
 
+Toute aide est la bienvenue.
+
+### Convention
+
+Les noms adoptent la notation TOSEC.
+
 ___
 ## Suivi
 
-Pour le détail voir dans [publications](../publication).
+Pour le détail voir dans [publications](../publications).
 
 ### Tableau de suivi
 
@@ -33,6 +39,8 @@ Pour le détail voir dans [publications](../publication).
 |  📝  | En cours |
 
 ### Travail en cours
+
+Lorsque ✅, cela signifie que nous avons tout trouvé et que tout est disponible.
 
 | Nom | État | Commentaire |
 |-----|------|-------------|
