@@ -58,7 +58,9 @@ Pas d'autre numéro connu de cette revue. Elle est ici complète car nul par ail
 70 Fr. pour l'abonnement.
 
 ___
-### [Hebdogiciel](https://abandonware-magazines.org/affiche_mag.php?mag=7)
+### <a href="https://abandonware-magazines.org/affiche_mag.php?mag=7" target="_blank">Hebdogiciel</a>
+
+<a href="" target="_blank"></a>
 
 Beaucoup de listing.\
 Les article sont référencés. L'ensemble des listings est dans la partie "src" (travail en cours).
