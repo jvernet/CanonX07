@@ -385,6 +385,9 @@ ___
 
 Recherche dans les suivants à faire.
 
+2, SIM ?
+
+
 ___
 ### [Tilt](https://abandonware-magazines.org/affiche_mag.php?mag=28)
 
