@@ -29,13 +29,14 @@ Si vous avez des choses que nous n'avons pas, merci de nous le signaler.
 | Icon | État |
 |------|-------|
 |  ✅  | Disponible, OCR |
-|  ❌  | N'existe probablement pas / voir autre documentation |
+|  ⭐  | La publication a un intérêt particulier |
+|  ❌  | N'existe probablement pas / voir autre documentation / incomplet |
 |  ❕  | À trouver |
 |  📝  | En cours de restauration / scans |
 
 
 ___
-### 01 Informatique
+### [01 Informatique](https://abandonware-magazines.org/affiche_mag.php?mag=248)
 
 | No  | Date       | Réf.      | État | Commentaire                  |
 |-----|------------|-----------|------|------------------------------|
@@ -57,7 +58,7 @@ Pas d'autre numéro connu de cette revue. Elle est ici complète car nul par ail
 70 Fr. pour l'abonnement.
 
 ___
-### Hebdogiciel
+### [Hebdogiciel](https://abandonware-magazines.org/affiche_mag.php?mag=7)
 
 Beaucoup de listing.\
 Les article sont référencés. L'ensemble des listings est dans la partie "src" (travail en cours).
@@ -257,7 +258,7 @@ Les article sont référencés. L'ensemble des listings est dans la partie "src"
 
 | No  | Date       | Réf.       | État | Commentaire                  |
 |-----|------------|------------|------|------------------------------|
-| 168 | 1987-01-02 | Beach head | ❕  |  |
+| 168 | 1987-01-02 | Beach head | ❌  |  |
 
 ___
 ### Info'Look
@@ -270,11 +271,11 @@ ___
 | 2  | 1985-06 |                                         | 📝   |                              |
 | 3  | 1985-10 | Le Canon X-07 : Le portatif Heureux !   | 📝   |                              |
 
-Pas d'autre numéro connus.\
+Pas d'autres numéros connus.\
 Les numéros sont complet car pas d'autres ressources connues.
 
 ___
-### Led Micro
+### [Led Micro](https://abandonware-magazines.org/affiche_mag.php?mag=61)
 
 | No | Date    | Réf.         | État | Commentaire                  |
 |----|---------|--------------|------|------------------------------|
@@ -284,7 +285,7 @@ ___
 Restauration des pages à faire.
 
 ___
-### LIST
+### [LIST](https://abandonware-magazines.org/affiche_mag.php?mag=9)
 
 | No | Date       | Réf.                                    | Commentaire                  |
 |----|------------|-----------------------------------------|------------------------------|
@@ -316,7 +317,7 @@ De plus beaucoup de numéros sont incomplets.
 
 
 ___
-### Micro Ordinateurs
+### [Micro Ordinateurs](https://abandonware-magazines.org/affiche_mag.php?mag=415)
 
 Recherche à faire.
 
@@ -327,7 +328,7 @@ Recherche à faire.
 
 
 ___
-### Micro Systèmes
+### [Micro Systèmes](https://abandonware-magazines.org/affiche_mag.php?mag=64)
 
 Recherche à faire.
 
@@ -337,7 +338,7 @@ Recherche à faire.
 
 
 ___
-### Micro VO
+### [Micro V.O](https://abandonware-magazines.org/affiche_mag.php?mag=79)
 
 | No | Date    | Réf.                                   | État | Commentaire      |
 |----|---------|----------------------------------------|------|------------------|
@@ -345,7 +346,7 @@ ___
 
 
 ___
-### L'Ordinateur de poche
+### [L'Ordinateur de poche](https://abandonware-magazines.org/affiche_mag.php?mag=15)
 
 | No | Date       | Réf.                                    | État | Commentaire                  |
 |----|------------|-----------------------------------------|------|------------------------------|
@@ -359,7 +360,7 @@ Pas de no 24 et au-delà trouvé.
 
 
 ___
-### SVM
+### [SVM](https://abandonware-magazines.org/affiche_mag.php?mag=48)
 
 | No | Date    | Réf.                    | État | Commentaire      |
 |----|---------|-------------------------|------|------------------|
@@ -368,7 +369,7 @@ ___
 Recherche dans les suivants à faire.
 
 ___
-### Tilt
+### [Tilt](https://abandonware-magazines.org/affiche_mag.php?mag=28)
 
 | No | Date       | Réf.                         | État | Commentaire                  |
 |----|------------|------------------------------|------|------------------------------|
@@ -381,6 +382,9 @@ ___
 | 19 | 1985       | Tilt Journal                 | 📝   | L'X07 A DE LA MÉMOIRE - p16  |
 
  recherche -> 35
+
+⭐ : pour les numéros 10, 13, 16, 18; mixer un jeu de plateau avec un ordinateur.\
+NDR : Un principe très utilisé dans la revue [Jeux & Stratégie](https://abandonware-magazines.org/affiche_mag.php?mag=185).
 
 Le no 17 à un panaché de micro de l'époque.
 
