@@ -93,6 +93,7 @@ NDR :
 - XC-920, XC-930, AD-4 II ; photos.
 - BP-1 et BP-2 : Alternative disponible (liens à mettre).
 - X-710 : rebranding d'ALPS. équivalant à plein de modèles (le premier et de chez Tandy) (à faire).
+  - Oric Atos MCP40
 
 ___
 ### Canon X‑07, Logiciels
