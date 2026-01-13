@@ -54,21 +54,21 @@ ___
 ### Hebdogiciel
 
 Beaucoup de listing.\
-Les article ou autres ne sont pas encore référencés, en particulier ce qui concerne le module X-740.
+Les article sont référencés. L'ensemble des listings est dans la partie "src" (travail en cours).
 
 #### 1983
 
-| No  | Date       | Réf.               | État | Commentaire                  |
-|-----|------------|--------------------|------|------------------------------|
-| 009 | 1983-12-09 | Boum? Canon X-07   | ❕  | p1 et 8, présentation |
-| 009 | 1983-12-09 | Carré diabolique   | ❕  | Listing |
-| 010 | 1983-12-16 | Calendrier         | ❕  | Listing |
-| 010 | 1983-12-16 | Bnzaï ! Canon X-07 | ❕  | p1 et 8 |
-| 010 | 1983-12-16 | Publicité Duriez   | ❕  | p16, tarifs  |
-| 011 | 1983-12-23 | Coffre-fort        | ❕  | Listing |
-| 011 | 1983-12-23 | Publicité Duriez   | ❕  | p16, tarifs  |
-| 012 | 1983-12-30 | Casino la boule    | ❕  | Listing |
-| 012 | 1983-12-30 | Publicité Duriez   | ❕  | p16, tarifs  |
+| No  | Date       | Réf.                | État | Commentaire                  |
+|-----|------------|---------------------|------|------------------------------|
+| 009 | 1983-12-09 | Boum? Canon X-07    | ❕  | p1 et 8, présentation |
+| 009 | 1983-12-09 | Carré diabolique    | ❕  | Listing |
+| 010 | 1983-12-16 | Calendrier          | ❕  | Listing |
+| 010 | 1983-12-16 | Banzaï ! Canon X-07 | ❕  | p1 et 8 |
+| 010 | 1983-12-16 | Publicité Duriez    | ❕  | p16, tarifs  |
+| 011 | 1983-12-23 | Coffre-fort         | ❕  | Listing |
+| 011 | 1983-12-23 | Publicité Duriez    | ❕  | p16, tarifs  |
+| 012 | 1983-12-30 | Casino la boule     | ❕  | Listing |
+| 012 | 1983-12-30 | Publicité Duriez    | ❕  | p16, tarifs  |
 
 
 #### 1984
