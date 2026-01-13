@@ -16,7 +16,13 @@ ref pour les autres obscure systems à reporter.
 ___
 ## Tables de références par revue
 
-to do.
+On se base sur :
+- Abandonware Magazine
+- Archive.org
+- silicium
+- ...
+
+Si vous avez des choses que nous n'avons pas, merci de nous le signaler.
 
 ### Tableau de suivi
 
@@ -47,7 +53,7 @@ ___
 |----|---------|-------------------------------|------|------------------------------|
 | 0  | 1987-04 | La consécration du Canon X-07 | 📝   | |
 
-Pas d'autre numéro connu de cette revue.\
+Pas d'autre numéro connu de cette revue. Elle est ici complète car nul par ailleurs.\
 70 Fr. pour l'abonnement.
 
 ___
