@@ -3,7 +3,9 @@
 ___
 ## Introduction
 
-Tentative de référencement des publications sur le CANON X-07.
+Tentative de référencement des publications sur le CANON X-07.\
+Les liens sont mis vers [Abandonware Magazines](https://abandonware-magazines.org/).\
+Faire clique droit car GitHub n'accepte pas le target="_blank".
 
 Note :\
 PHC-25 : Tilt 08; led micro 1  \
@@ -16,9 +18,9 @@ ref pour les autres obscure systems à reporter.
 ___
 ## Tables de références par revue
 
-On se base sur :
-- Abandonware Magazine
-- Archive.org
+Les recherche ont été effectuées sur :
+- [Abandonware Magazines](https://abandonware-magazines.org/)
+- [Archive.org](https://archive.org/)
 - silicium
 - ...
 
@@ -58,9 +60,7 @@ Pas d'autre numéro connu de cette revue. Elle est ici complète car nul par ail
 70 Fr. pour l'abonnement.
 
 ___
-### <a href="https://abandonware-magazines.org/affiche_mag.php?mag=7" target="_blank">Hebdogiciel</a>
-
-<a href="" target="_blank"></a>
+### [Hebdogiciel](https://abandonware-magazines.org/affiche_mag.php?mag=7)
 
 Beaucoup de listing.\
 Les article sont référencés. L'ensemble des listings est dans la partie "src" (travail en cours).
