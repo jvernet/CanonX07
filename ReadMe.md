@@ -2,6 +2,8 @@
 
 <img src="assets/RPUFOS_Logo.png" alt="Logo RPUFOS" width="250">
 
+![Description](assets/RPUFOS_Logo.png){width=200}
+
 ___
 ## Introduction
 
