@@ -155,6 +155,11 @@ ___
 | Ref.    | Périphérique / Accessoire     | Constructeur | Status | Commentaire |
 |---------|-------------------------------|--------------|--------|-------------|
 | XF-01   | Lecteur Disquette 3 1/2 720ko | SERSIG       | ❕ | Publicité et tarifs, voir "ads" |
+| FCD-1   | Lecteur Disquette 3 1/2 720ko | ?            | ❕ | Club C7 - Disquette spécial avec DOS |
+| FCD-2   | Lecteur Disquette 3 1/2 720ko | ?            | ❕ | Club C7 |
+| C1      | Câble allume cigare           | Club C7 ?    | ❕ | Club C7 |
+| C2      | Câble alimentation X07        | Club C7 ?    | ❕ | Club C7 |
+| C3      | Câble alimentation imprimante | Club C7 ?    | ❕ | Club C7 |
 |         | Carte RAM CES 32 à 128ko      | CMI          | ❕ | Publicité voir "ads" |
 |         | Attaché-case                  | Création Aimé-Gérard | ❌ | Publicité et tarifs, voir "ads" |
 
