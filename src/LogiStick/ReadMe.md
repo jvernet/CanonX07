@@ -126,6 +126,9 @@ Dimensions (HxL) : 105x102mm.
 - Jeux 2 : recto / verso
 - Texte : recto / verso
 
-TO DO.
+___
+## TO DO.
+
+Trouver les fichiers Wav ou les faire, puis convertir, (CAS, BAS).
 
 ___
