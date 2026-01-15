@@ -35,13 +35,21 @@ ___
 ___
 ## Ressources
 
+
+
 ### Notices
+
 
 ### Jacquettes
 
-TO DO.
+Format VHS.
 
-Format dédié des boites type VHS.
+
+## Pour toutes les boites
+
+Format dédié des boites de type VHS ((NDR: pour celles trouvées).\
+Le boitier de la cassette est transparent, il est coller au moyen d'un sctotch double face.
+
 
 
 ___
