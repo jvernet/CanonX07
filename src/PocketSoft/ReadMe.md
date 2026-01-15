@@ -35,14 +35,15 @@ ___
 ___
 ## Ressources
 
-
-
 ### Notices
 
+Dimension (HxL) : x mm.\
+Pour être insérée dans la boite VHS.
 
 ### Jacquettes
 
-Format VHS.
+Format VHS.\
+Dimensions (HxL) : 21x29mm.
 
 
 ## Pour toutes les boites
