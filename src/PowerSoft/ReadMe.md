@@ -50,8 +50,50 @@ Dimensions (HxL) : 148x121mmm.
 
 Une bonne dimension plus correcte pour la boite serait 110x170mm.
 
+#### Astrostorm
 
+Votre mission est de passer a travers 4 tunnels.
+Attention la difficulté est qu'ils vont en diminuant.
+Pour vous déplacer utilisez les STICKS.
+Suivez la séquénce CLOAD "ASTRO", puis RETURN.
+Une fois le chargement effectué appuyez su RUN,
 
+#### Briques
+
+Detruisez le mur de briques qui se trouve devant vous.
+La raquette se déplace grace au touches des STICKS (flêches).
+Suivez la séquence CLOAD "BRIQUES", puis RETURN.
+Une fois le chargement effectué appuyez sur RUN.
+
+#### Destroyer
+
+Vous partez a la chasse au sous marin.
+Pour manoeuvrer utilisez les STICKS.
+Pour tire r utilisez la touche "F".
+Pour faire surface utilisez la touche "+".
+Pour plonger, utilisez la touche "-".
+Suivez la séquence CLOAD "DESTRO" puis RETURN.
+Une fois le chargement effectué appuyez sur RUN.
+
+#### Morpion
+
+Empechez votre adversaire d'aligner troi$ pions sur un damier.
+Suivez la séquence CLOAD "MORP", puis RETURN.
+Une fois le chargement effectué appuyez sur RUN.
+
+#### Space Trek
+
+Vous devez passer par un champs de mines avant de rejoindre votre base.
+Utilisez les STICKS pour les detruire.
+Suivez la séquence CLOAD "SPACE", puis RETURN.
+Une fois le chargement effectué appuyez sur RUN.
+
+#### Squash
+
+Evitez que la balle sorte du terrain.
+Pour cela utilisez les touches STICK.
+Suivez la séquénce CLOAD "SQUASH", puis RETURN.
+Une fois le chargement effectué appuyez sur RUN.
 
 ### Jacquette
 
