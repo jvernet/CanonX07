@@ -33,7 +33,7 @@ ___
 | Ass/Deasse         | ❕ | |
 | Astro              | ❕ | |
 | Babylon            | 📝 | Cassette jeux 1 |
-| Banque             | 📝 | Cassette jeux 1 |
+| Banque             | 📝 | Cassette |
 | Calc               | ❕ | |
 | CAP-MAN (LCD)      | 📝 | Cassette jeux 2 |
 | Diététique         | ❕ | |
@@ -47,7 +47,7 @@ ___
 | Maths 1            | ❕ | |
 | Memory             | 📝 | Cassette jeux 1 |
 | Poker              | 📝 | Cassette jeux 1 |
-| Texte              | 📝 | Cassette jeux 1 |
+| Texte              | 📝 | Cassette |
 | Tic Tac Toe        | 📝 | Cassette jeux 1 |
 | Tours de Hanoï     | 📝 | Cassette jeux 1 |
 
@@ -109,7 +109,8 @@ ___
 
 ### Jacquettes
 
-Jacquette de cassette audio standard, boitier noir.
+Jacquette de cassette audio standard, boitier de couleur noir.\
+Dimensions (HxL) : 105x102mm.
 
 - Banque : recto / verso
 - Jeux 1 : recto / verso
