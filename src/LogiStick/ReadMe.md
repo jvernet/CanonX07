@@ -58,7 +58,7 @@ ___
 ### Jeux 1
 
 <p align="center" style="margin:auto;">
-  <img src="Jeux 1, jacquette recto (1984)(LogiStick)(FR).png" alt="Logo RPUFOS" width="150">&nbsp;<img src="Jeux 1, jacquette verso (1984)(LogiStick)(FR).png" alt="Logo RPUFOS" width="150">
+  <img src="Jeux 1, jacquette recto (1984)(LogiStick)(FR).png" alt="Logo RPUFOS" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Jeux 1, jacquette verso (1984)(LogiStick)(FR).png" alt="Logo RPUFOS" width="150">
 </p>
 
 10 jeux sur la cassette, Face A et B identiques.\
@@ -82,6 +82,11 @@ NDR :
 
 
 ### Jeux 2
+
+<p align="center" style="margin:auto;">
+  <img src="Jeux 2, jacquette recto (1984)(LogiStick)(FR).png" alt="Logo RPUFOS" width="150">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Jeux 2, jacquette verso (1984)(LogiStick)(FR).png" alt="Logo RPUFOS" width="150">
+</p>
+
 
 4 jeux sur la cassette.\
 Scan et OCR de la notice.
