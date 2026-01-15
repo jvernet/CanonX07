@@ -25,12 +25,12 @@ ___
 
 | Nom        | État | Commentaire |
 |------------|------|-------------|
-| Astrostorm | ❕  |  |
-| Briques    | ❕  |  |
-| Destroyer  | ❕  |  |
-| Morpion    | ❕  |  |
-| Space Trek | ❕  |  |
-| Squash     | ❕  |  |
+| Astrostorm | 📝  |  |
+| Briques    | 📝  |  |
+| Destroyer  | 📝  |  |
+| Morpion    | 📝  |  |
+| Space Trek | 📝  |  |
+| Squash     | 📝  |  |
 
 NDR : Pas d'autres logiciels connus.\
 Les 6 logiciels publiés sur cassette "JEUX VOLUME UN".\
