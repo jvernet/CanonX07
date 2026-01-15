@@ -57,6 +57,10 @@ ___
 
 ### Jeux 1
 
+<p align="center">
+  <img src="Jeux 1, jacquette recto (1984)(LogiStick)(FR).png" alt="Logo RPUFOS" width="150" style="margin:auto;">
+</p>
+
 10 jeux sur la cassette, Face A et B identiques.\
 Scan et OCR de la notice.
 
