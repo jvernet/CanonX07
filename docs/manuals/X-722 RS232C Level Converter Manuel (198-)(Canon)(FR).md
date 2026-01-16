@@ -10,6 +10,8 @@ Listings de la documentation X-722.
 ___
 ## Les listings
 
+Ci-après les listings de la documentation.\
+Si vous constatez des erreurs, merci de la signaler.
 
 ### Page 20
 
@@ -32,6 +34,7 @@ ___
 30 PRINT#1,A$
 40 GOTO 20
 ```
+
 
 
 
