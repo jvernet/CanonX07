@@ -13,11 +13,14 @@ Une liste de référence existe "liste.md".
 ### Ressources
 
 - [Abandonware magazines](https://abandonware-magazines.org/)
-- silicium
+- [Association Silicium](https://oldskool.silicium.org/calc/x07/)
+  - [Fiche du site web](https://silicium.org/index.php/blog-catalogue/ordis/ordinateurs-de-poche/canon-x-07)
 - [Archives.org](https://archive.org/)
 - Archives.org BXO : https://archive.org/details/@bxo/lists/1/canon-x07
+- [forum.system-cfg.com](https://forum.system-cfg.com/viewtopic.php?f=1&t=3624&start=15&sid=cb2d5b5e65af18239334ab5c8217c7d5) Topic Canon X07
 - ...
 
+Sans doute dans un MD dédié plus tard.
 
 ### Tableau de suivi
 
