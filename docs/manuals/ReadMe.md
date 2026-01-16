@@ -5,6 +5,6 @@ ___
 
 Répertoire des Manuels concernant le Canon X-07.
 
-Voir tableau de suivi pour l'état d'avancement.
+Voir tableau de [Suivi](/Suivi.md) pour l'état d'avancement.
 
 ___
