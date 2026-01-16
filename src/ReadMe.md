@@ -22,7 +22,7 @@ Toute aide est la bienvenue.
 
 ### Convention
 
-Les noms adoptent la notation TOSEC.
+Les noms adoptent la notation [TOSEC](https://www.tosecdev.org/tosec-naming-convention).
 
 ___
 ## Suivi
@@ -42,6 +42,8 @@ Pour le détail voir dans [publications](../publications).
 
 Lorsque ✅, cela signifie que nous avons tout trouvé et que tout est disponible.
 
+#### Programmes X07
+
 | Nom | État | Commentaire |
 |-----|------|-------------|
 | 40 programmes pour Canon X07 | 📝 | |
@@ -55,4 +57,13 @@ Lorsque ✅, cela signifie que nous avons tout trouvé et que tout est disponibl
 | Power Soft | 📝 | |
 | Tilt | ❕ | 📝 |
 
+#### Adaptations vers X07
+
+Pour les conversion de programmes.\
+Ou encore ceux publiés dit multi-machines. Cas que l'on trouve dans la revue [Jeux & Stratégie](https://abandonware-magazines.org/affiche_mag.php?mag=185) par exemple.
+
+| Nom | État | Commentaire |
+|-----|------|-------------|
+
+En recherche.
 ___
