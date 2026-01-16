@@ -10,6 +10,14 @@ Concernant les logiciels, veuillez vous référer au répertoire "src".
 Les articles de revues sont référencés dans le répertoire "publications".\
 Une liste de référence existe "liste.md".
 
+### Ressources
+
+- Abandonware magazines
+- silicium
+- Archives.org
+- Archives.org BXO https://archive.org/details/@bxo/lists/1/canon-x07
+- ...
+
 
 ### Tableau de suivi
 
