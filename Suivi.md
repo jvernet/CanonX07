@@ -64,7 +64,7 @@ Documentations des périphériques Canon.
 
 | Ref.    | Périphérique / Accessoire       | Status | Commentaire |
 |---------|---------------------------------|--------|-------------|
-| X-710   | Table traçante 4 couleurs       | ❕ | Problème connu sur l'alimentation |
+| X-710   | Table traçante 4 couleurs       | 📝 | Problème connu sur l'alimentation |
 | X-711   | Imprimante Thermique            | ✅ | |
 | X-720   | Interface Vidéo Peritel         | ✅ | Très rare |
 | X-721   | Coupleur optique                | ❕ | Très rare |
@@ -102,10 +102,10 @@ ___
 
 | Ref.      | Périphérique / Accessoire       | Éditeur | Status | Commentaire |
 |-----------|---------------------------------|---------|--------|-------------|
-| XP-F110 F | Fichiers                        | Canon   | ❕ |  |
+| XP-F110 F | Fichiers                        | Canon   | 📝❕ |  |
 | XP-F120 F | Table                           | Canon   | ❕ |  |
-| XP-F130 F | Graph                           | Canon   | ❕ |  |
-| XP-F140 F | Moniteur                        | Canon   | ❕ |  |
+| XP-F130 F | Graph                           | Canon   | 📝❕ |  |
+| XP-F140 F | Moniteur                        | Canon   | 📝❕ |  |
 | XP-F150 F | Fonctions                       | Canon   | ❕ |  |
 
 
