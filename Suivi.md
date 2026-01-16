@@ -12,10 +12,10 @@ Une liste de référence existe "liste.md".
 
 ### Ressources
 
-- Abandonware magazines
+- [Abandonware magazines](https://abandonware-magazines.org/)
 - silicium
-- Archives.org
-- Archives.org BXO https://archive.org/details/@bxo/lists/1/canon-x07
+- [Archives.org](https://archive.org/)
+- Archives.org BXO : https://archive.org/details/@bxo/lists/1/canon-x07
 - ...
 
 
