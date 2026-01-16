@@ -75,7 +75,7 @@ Documentations des périphériques Canon.
 | X-710   | Table traçante 4 couleurs       | 📝 | Problème connu sur l'alimentation |
 | X-711   | Imprimante Thermique            | ✅ | |
 | X-720   | Interface Vidéo Peritel         | ✅ | Très rare |
-| X-721   | Coupleur optique                | ❕ | Très rare |
+| X-721   | Coupleur optique                | 📝 | Très rare |
 | X-722   | Convertisseur de Niveau RS-232  | ✅ | Rare |
 | X-730   | Magnétophone Cassette           | ✅ | |
 | X-740   | Interface X-07 V20              | ❕ | le V20 est le MSX de Canon |
@@ -108,13 +108,14 @@ ___
 
 #### Documentations des logiciels sur carte Canon.
 
-| Ref.      | Périphérique / Accessoire       | Éditeur | Status | Commentaire |
-|-----------|---------------------------------|---------|--------|-------------|
-| XP-F110 F | Fichiers                        | Canon   | 📝❕ |  |
-| XP-F120 F | Table                           | Canon   | ❕ |  |
-| XP-F130 F | Graph                           | Canon   | 📝❕ |  |
-| XP-F140 F | Moniteur                        | Canon   | 📝❕ |  |
-| XP-F150 F | Fonctions                       | Canon   | ❕ |  |
+| Ref.      | Périphérique / Accessoire        | Éditeur | Status | Commentaire |
+|-----------|----------------------------------|---------|--------|-------------|
+| XP-F110 F | Fichiers                         | Canon   | 📝❕ |  |
+| XP-F120 F | Table                            | Canon   | ❕ |  |
+| XP-F130 F | Graph                            | Canon   | 📝 |  |
+| XP-F140 F | Monitor card - Manuel technique  | Canon   | 📝 |  |
+| XP-F140 F | Monitor card - Guide utilisateur | Canon   | 📝❕ | besoin du scan couleur couverture |
+| XP-F150 F | Fonctions                        | Canon   | ❕ |  |
 
 
 #### Documentations des logiciels sur Cassette.
