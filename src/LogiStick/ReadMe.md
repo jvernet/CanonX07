@@ -8,6 +8,7 @@ Issue de l'association Club C7 et aussi des éditions Neptune.
 
 Distribués via le Club C7 et aussi par DDI.
 
+Les fichiers images (png) sont à 300dpi, taille original (pour reproduction si besoin, attention c'est du recto verso).
 
 ___
 ## Suivi
@@ -22,6 +23,8 @@ ___
 |  📝  | En cours |
 
 ### Travail en cours
+
+Liste non exhaustive, il en manque.
 
 | Nom                | État | Commentaire |
 |--------------------|------|-------------|
@@ -43,6 +46,7 @@ ___
 | Jack-Pot           | 📝 | Cassette jeux 1 |
 | Koala              | 📝 | Cassette jeux 1 |
 | Le Pendu           | 📝 | Cassette jeux 1 |
+| Magic Circus       | 📝 |  |
 | Master Mind        | 📝 | Cassette jeux 1 |
 | Maths 1            | ❕ | |
 | Memory             | 📝 | Cassette jeux 1 |
