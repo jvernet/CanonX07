@@ -1,5 +1,11 @@
 # Canon X-07
 
+
+<p align="center">
+  <img src="assets/RPUFOS_Logo.png" alt="Logo RPUFOS" width="250" style="margin:auto;">
+</p>
+
+
 ___
 ## Introduction
 
@@ -13,21 +19,29 @@ What we’re doing here:
 
 Think of this as a mix between a resource hub and a tribute.
 
-___
-## Basic
+RPUFOS is a French group, but everyone is welcome to join and contribute.\
+For now, all the content is written in French.
 
-Inside the “basic” directory, you’ll find the key resources needed to develop programs in BASIC.
-
-### Ressources
-
-- [Hebdogiciel les listings](http://www.hebdogiciel.free.fr/CANONX07.htm)
-- [Hebdogiciel les software](http://www.hebdogiciel.free.fr/CANONX07_software)
-
-All resources may be added to this GitHub repository as preservation copies.
+For more information, you can check out:
+- [Olipix’s channel](https://www.youtube.com/@Olipix) (You Tube)
 
 ___
-## Assembler
+## Other Ressources on the web
 
-Inside the “asm” directory, you’ll find all the essential resources needed to develop assembly programs.
+Ressources :
+- Hebdogiciel les listing
+- Abandonware magazines
+- ...
+
+
+___
+## Work in progress
+
+For tracking officially released hardware and software:
+- **[suivi.md](Suivi.md)**
+
+For articles that include software listings:
+- **[liste.md](publications/liste.md)**
+
 
 ___
