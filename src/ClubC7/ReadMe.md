@@ -13,6 +13,8 @@ Les listings sont en cours (conversion utf8 et corrections)
 ___
 ## Les listings 
 
+Les programmes ci-dessous étaient vendu à part par le CLub C7. Il n'ont pas fait l'objet de publications da  ns les revues du Club. 
+
 - 16 pions
 - 421
 - Alunissage
@@ -42,10 +44,12 @@ ___
 - Tri de Hoare
 - Tri Numerique
 
-
+Liste à compléter.
 
 ___
-## Les listings "Son du Canon"
+## Les listings du fanzine "Son du Canon" édité par le CLub C7.
+
+NDR : il nous manques des numéros.
 
 ### No 1
 
@@ -121,6 +125,7 @@ Programme 1
 
 
 ### No 13
+
 
 
 
