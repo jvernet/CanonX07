@@ -12,6 +12,11 @@ Certain numéro avaient des pub couleurs. Elles ne seront pas ajoutées après r
 
 Source : Abandonware Magazines et objet trouvés.
 
+Les numéros ont aussi leur cassette éponyme.\
+Recherche en cours pour les logiciels.\
+
+NDR : les cassettes contiennent les logiciels publiés, sauf certain petit code. Une restauration est en cours.
+
 ___
 # Tableau
 
