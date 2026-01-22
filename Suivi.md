@@ -174,7 +174,8 @@ ___
 | C3      | Câble alimentation imprimante | Club C7 ?    | ❕ | Club C7 |
 |         | Carte RAM CES 32 à 128ko      | CMI          | ❕ | Publicité voir "ads" |
 |         | Attaché-case                  | Création Aimé-Gérard | ❌ | Publicité et tarifs, voir "ads" |
-
+| EX 7007 | Malette Communication         | E.M.R.       | ! | cf. club C7 no 8 |
+| XE 7045 | Carte Extention (>152Ko)      | E.M.R.       | ! | cf. club C7 no 8 |
 
 NDR : La carte RAM CES à fait l'objet d'un article dans le Figaro (no ???).
 
