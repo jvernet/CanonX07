@@ -1,4 +1,4 @@
-# Les variante de la X-710
+# Les variantes de la X-710 et les commandes
 
 ___
 ## Introduction
@@ -18,5 +18,13 @@ ___
 
 
 Tandy, commodore, ...
+
+___
+## Commandes
+
+L'idée est de donner un résumé efficace des commandes pour ce type de traceur.
+
+TO DO.
+
 
 ___
