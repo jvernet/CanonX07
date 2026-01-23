@@ -2,7 +2,7 @@
 
 Jean-Paul DELAHAYE\
 EYROLLES\
-1985-01\
+1985-01
 
 ___
 ## Introductions
