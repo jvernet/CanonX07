@@ -57,11 +57,16 @@ ___
 | Dossiers Spéciaux du Club C7                            | Club C7             | 1985–1986  | 📝 | |
 | Faites vos jeux avec Canon X-07                         | Eyrolles            | 1984       | ✅ | |
 | Info'Look                                               | Éditions Neptune    | 1980s      | 📝❕ | 3 No, d'autres ? |
+| Jeux et programmes CANON X-07                           | ETSF                | 1980s      | ❕ | |
 | Le Son du Canon (Bulletin du Club C7)                   | Club C7             | 1984–1986  | 📝 | ⭐ |
 | Les Mystères du X-07                                    | Éditions Neptune    | 1985       | 📝 | ⭐ La bible de l'assembleur |
+| Lexique X-07 / HX-20 (EPSON)                            | Club Canon          | 1980s     | !      | Club Canon No 7 1986 ? 500 exemplaires |
 | NCS800                                                  | National Semiconductor | 1980s | ✅ | Z80 dans le Canon X-07 |
+| Nouveaux Dessins géométriques                           | Eyrolles            | 198x       | ! | Jean-Paul Delahaye; Canon X-07 et X-710 |
 | Plus loin avec le Canon X-07                            | Soracom             | 1985       | ✅ |  |
 | Technical Guide (EN)                                    | Canon               | 1980s      | ✅📝 | ⭐ Guide de dépannage |
+
+
 
 NDR :
 - Éditions Neptune est issue du Club C7
@@ -82,7 +87,7 @@ Documentations des périphériques Canon.
 | X-721   | Coupleur optique                | 📝 | Très rare |
 | X-722   | Convertisseur de Niveau RS-232  | ✅ | Rare |
 | X-730   | Magnétophone Cassette           | ✅ | |
-| X-740   | Interface X-07 V20              | ❕ | le V20 est le MSX de Canon |
+| X-740   | Interface X-07 V20              | ❕ | le V20 est le MSX de Canon, lire Club Canon no 9 |
 | XR-100  | Module Extention Mémoire 8ko    | ❕ | Puce dans le compartiment dédié !!! Atention au switch devant !!! |
 | XM-100  | Carte Extention 4ko             | ❕ | |
 | XM-101  | Carte Extention 8ko             | ❕ | |
@@ -175,11 +180,16 @@ Il s'agit des logiciels comercialisés.
 |       | Mille Milliards  | SYCOMEX     | ❕ | Publicité et tarifs, voir "ads" |
 |       | Compta 86        | Informatique cdp | ❕ | Publicité et tarifs, voir "ads" (Chirurgien dentiste) |
 |       | CAN'ELL          | Feeling Soft | ❕ | Liaison Minitel |
+|       | X-07 Pilot       | AP-Soft      | ❕ | Assistance pilote d'avion |
+|       | X-07 COM         | AP-Soft      | ❕ | ? |
+|       | RATIOGALA        | CCPA         | ❕ | Rations vaches laitières |
+|       | RATIOPEDA        | CCPA         | ❕ | Rations brebies laitières |
+|       | RATIOPORC        | CCPA         | ❕ | Rations Porcs |
 
 
 NDR : Les Réf. sont à vérifier.
 
-NDR : Pour les logiciels publiés dans les revues, voir "src".
+NDR : Pour les logiciels publiés dans les revues, voir [src](https://github.com/VFD/CanonX07/tree/main/src).
 
 ___
 ### Canon X‑07, Autres Périphériques
@@ -197,10 +207,26 @@ ___
 | EX 7007 | Malette Communication         | E.M.R.       | ! | cf. club C7 no 8 |
 | XE 7045 | Carte Extention (>152Ko)      | E.M.R.       | ! | cf. club C7 no 8 |
 |         | Sport Tester 3000             | PRAGMAT      | ! | |
-|         | Carte extension               | NAPAC | ! ||
-|         | Lecteur code barre            | SICMI | ! ||
-
+|         | Carte extension               | NAPAC        | ! ||
+|         | Lecteur code barre            | SICMI        | ! ||
+| CMX 8   | Carte 8 Ko                    | ERIE         | ❕    | Format carte de crédit |
+| CMX 16  | Carte 16 Ko                   | ERIE         | ❕    | Format carte de crédit |
+| CMX 8P  | Carte 8 Ko                    | ERIE         | ❕    | Format carte de crédit Protégé en écriture |
+| CMX 16P | Carte 16 Ko                   | ERIE         | ❕    | Format carte de crédit Protégé en écriture |
 
 NDR : La carte RAM CES à fait l'objet d'un article dans le Figaro (no ???).
 
+
 ___
+### Canon X‑07, Périphériques DIY
+
+| Ref.    | Périphérique / Accessoire     | Constructeur | Status | Commentaire |
+|---------|-------------------------------|--------------|--------|-------------|
+|         | Interface Peritel             |              | !      | Micro Systèmes 09/1986 |
+|         | Controleur disquette 5 1/4    |              | !      | Club Canon 1986 |
+|         | Serveur Minitel               |              | !      | Club Canon No 3 1986, p17 absente |
+|         | EPROM routines système        |              | !      | Club Orléans |
+
+
+___
+
