@@ -11,7 +11,7 @@ ___
 
 Disponible :
 - [Archive.org](https://archive.org/details/delahaye-dessins-geometriques/page/16/mode/2up)
-- [Université de Lille](https://nextcloud.univ-lille.fr/index.php/s/R4PgSRWGyHEbDgG) \
+- [Université de Lille](https://nextcloud.univ-lille.fr/index.php/s/R4PgSRWGyHEbDgG)
 
 Apparement les pages blanche ont été suprimées.\
 Rebuild à faire du PDF mais avant les codes sources.
