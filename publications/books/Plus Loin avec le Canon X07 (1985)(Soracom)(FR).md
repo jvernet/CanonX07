@@ -1,7 +1,5 @@
 # Plus Loin avec le Canon X07 (1985)(Soracom)(FR)
 
-
-
 ___
 ## Introduction
 
@@ -103,11 +101,9 @@ ___
 120 H=VAL(MID$(TIME$,1,2))
 130 HM=(H=0)
 140 H=H MOD 12: IF HM THEN H=12
-
-à finir, scan mediocre
-
 ```
 
+NDR : à finir, scan mediocre
 
 ___
 ### page 67 : MORSE
@@ -177,6 +173,198 @@ TO DO
 ```
 
 
+___
+### page 78 : COURBE
+
+```basic
+10 LPRINT CHR$(18)
+16 LPRINT"M0,0"
+20 LPRINT"M240,0"
+40 PL=3.141592654
+50 P=PI/180
+55 R=522
+60 FOR I=60 TO 110STEP1
+69 REM ORG CERCLE : 170,-522
+70 X=170+R*COS(I*P)
+80 Y=-522+R*SIN(I*P)
+82 IF I=60 THEN 85 ELSE 90
+85 LPRINT"M";STR$(INT(X));",";STR$(INT(Y))
+90 LPRINT"D";STR$(INT(X));",";STR$(INT(Y))
+110 NEXT I
+120 LPRLNT"A"
+```
+
+
+___
+### page 79 : COURBE
+
+```basic
+10 LPRINT CHR$(18)
+20 LPRINT"M240,0"
+30 LPRINT"I"
+40 P=3.141592654/180
+50 FOR I=1 TO 360 STEP 10
+60 X=200*COS(P*I)
+70 Y=200*SIN(P*I)
+80 LPRINT"L0,D";STR$(X);",";STR$(Y)
+90 NEXT I
+100 LPRINT "A"
+```
+
+___
+### page 80 : COURBE
+
+```basic
+10 LPRINT CHR$(18)
+20 LPRINT"M240,0"
+30 LPRINT"I"
+40 P=3.141592654/180
+50 FOR I=1 TO 400 STEP 5
+60 X=R*COS(P*I)
+70 Y=R*SIN(P*I)
+80 LPRINT"L0,D";STR$(X);",";STR$(Y)
+85 R=R+3
+90 NEXT I
+100 LPRINT "A"
+```
+
+___
+### page 81 : PARABOLE
+
+```basic
+10 LPRLNT CHR$(L8J
+20 LPRINT"M0,-200"
+30 LPRINT"I"
+40 LPRINT"D480,0"
+50 LPRINT"M240,200"
+60 LPRINT"D240,0"
+80 LPRINT"I"
+90 FOR X=-200 TO 200 STEP 10
+100 Y=(X^2)/200+10
+110 IF X=-200 THEN 160
+120 LPRINT"D";STR$(X);",";STR$(Y)
+130 NEXT X
+140 LPRINT"A"
+150 END
+160 LPRINT"M";STR$(X);",";STR$(Y)
+170 GOTO 130
+```
+
+___
+### page 82 : CERCLE
+
+```basic
+10 LPRINT CHR$(18)
+20 LPRINT"M240,0"
+30 LPRINT"I"
+35 R=70
+40 P=3.141592654/180
+50 FOR I=0 TO 360 STEP 5
+60 X=R*COS(P*I)
+70 Y=R*SIN(P*I)
+75 IF I=0 THEN 120
+80 LPRINT"L0,D";STR$(X);",";STR$(Y)
+90 NEXT I
+100 LPRINT"A"
+110 END
+120 LPRINT"L0,M";STR$(X);",";STR$(Y)
+130 GOTO 90
+```
+
+NDR : Cette application du tracé de cercle n'est pas optimum.
+
+___
+### page 82 : LISSAJOU
+
+```basic
+60 X=R*SIN(P*I)*COS(P*I)
+```
+
+NDR : Pas explicite, changer uniquement la ligne en question sur le programme précédent ?
+
+___
+### page 83
+
+```basic
+100 Y=(X^3)/36500+10
+```
+
+NDR : On fait quoi de la ligne ?
+
+___
+### page 83,84
+
+```basic
+10 LPRINT CHR$(18)
+20 LPRINT"M240,0"
+30 LPRINT"I"
+35 R=70
+40 P=3.141592654/180
+50 FOR I=0 TO 360 STEP 5
+55 LPRINT"L0,M0,0"
+60 X=R*SIN(P*I)*COS(P*I)
+70 Y=R*SIN(P*I)
+75 IF I=0 THEN 120
+80 LPRINT"L0,D";STR$(X);",";STR$(Y)
+90 NEXT I
+100 LPRINT"A"
+110 END
+120 LPRINT"L0,M";STR$(X);",";STR$(Y)
+130 GOTO 90
+```
+
+___
+### page 84
+
+```basic
+10 LPRINT CHR$(18)
+20 LPRINT"M240,0"
+30 LPRINT"I"
+35 R=70
+40 P=3.141592654/180
+50 FOR I=0 TO 360 STEP 5
+55 LPRINT"L0,M0,0"
+60 X=R*COS(P*I)
+70 Y=R*SIN(P*I)
+75 'IF I=0 THEN 120
+80 LPRINT"L0,D";STR$(X);",";STR$(Y)
+90 NEXT I
+100 LPRINT"A"
+110 END
+120 LPRINT"L0,M";STR$(X);",";STR$(Y)
+130 GOTO 90
+```
+
+___
+### page 85
+
+```basic
+10 LPRINT CHR$(18)
+20 LPRINT"M240,0"
+30 LPRINT"I"
+40 P=3.141592654/180
+50 FOR I=0 TO 360 STEP 10
+60 X=200*COS(P*I)
+70 Y=200*SIN(P*I)
+80 LPRINT"L0,D";STR$(X);",";STR$(Y)
+90 NEXT I
+100 LPRINT"A"
+```
+
+___
+### page 85
+
+```basic
+10 P=3.141592654/180: R=200
+20 LPRINT CHR$(18): LPRINT"M240,;"STR$(-R): LPRINT"I"
+30 LPRINT"M";STR$(R);",0"
+40 FOR I=0 TO 360 STEP 20
+50 FOR J=0 TO 360 STEP 20
+60 X=R*COS(P*I): Y=R*SIN(P*I)
+70 Z=R*COS(P*J): T=R*SIN(P*J)
+80 LPRINT"D";STR$(X);",";STR$(Y);",";STR$(Z);",";STR$(T)
+90 NEXT J,I
+```
 
 ___
 ### page 87 : KALEIDOSCOPE
@@ -193,6 +381,60 @@ ___
 90 GOTO 20
 ```
 
-to be continued...
 
+___
+### page 89 : Simulation d'atterissage
+
+```basic
+TO DO
+```
+
+___
+### page 97 : Master Mind
+
+```basic
+TO DO
+```
+
+___
+### page 101 : Dessiner la France
+
+```basic
+TO DO
+```
+
+___
+### page 110 : Calculette
+
+```basic
+TO DO
+```
+
+___
+### page 113 : Dump Mémoire
+
+```basic
+TO DO
+```
+
+___
+### page 115 : Renumérotation
+
+```basic
+10 REM* RENUM simple *
+20 DEFINT I-L:DEFSGN A-F,M-Z
+30 A=&H553: REM ADRESSE DEBUT PROGRAMME
+40 B=PEEK(A)+256*PEEKCA+l ) : REM Add DEBUT proch. ligne
+50 IF B=0 THEN PRINT"Ok": END : REM Renum. termine
+60 C=C+10: REM PAS de renumerotation
+70 O=PEEK(A+2)+PEEK(A+3)*256
+80 PRINT O,">";C
+90 POKE A+2,(C-256*INT(C/256): REM renumertation LSB
+100 POKE A+3,INT(C/256): REM renumerotation MSB
+110 A=B: REM preparation ligne suivante
+120 GOTO 40
+```
+
+
+EOF
 ___
