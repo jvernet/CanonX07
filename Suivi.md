@@ -126,37 +126,46 @@ ___
 
 Il s'agit des logiciels comercialisés.
 
-| Ref.  | Logiciels       | Éditeur     | Status | Commentaire |
-|-------|-----------------|-------------|--------|-------------|
-|       | Calc            | POCKET-SOFT | 📝 | |
-|       | Text            | POCKET-SOFT | 📝 | |
-|       | Database        | POCKET-SOFT | 📝 | |
-|       | Paye            | POCKET-SOFT | ❕ | |
-|       | Facturation     | POCKET-SOFT | ❕ | |
-|       | Inventaire      | POCKET-SOFT | ❕ | |
-|       | Graph           | POCKET-SOFT | ❕ | |
-|       | Statistiques    | POCKET-SOFT | ❕ | |
-|       | PERT            | POCKET-SOFT | ❕ | |
-|       | Jeux volume un  | Power Soft  | 📝 | Cassette de 6 jeux |
-| LSXCA | Calc            | Logi'Stick  | ❕ | |
-| LSXGR | Graphe          | Logi'Stick  | ❕ | |
-| LSXFI | Fichiers        | Logi'Stick  | ❕ | |
-| LSXTE | Texte           | Logi'Stick  | 📝 | |
-| LSXM1 | Maths 1         | Logi'Stick  | ❕ | |
-| LSXBA | Banque          | Logi'Stick  | 📝 | |
-| LSXAS | Astro           | Logi'Stick  | ❕ | |
-| LSXAD | Aide            | Logi'Stick  | ❕ | |
-| LSXDI | Diététique      | Logi'Stick  | ❕ | |
-| LSXAL | Alphatruc       | Logi'Stick  | ❕ | |
-| LSXAD | Ass/Deasse      | Logi'Stick  | ❕ | |
-| LSXAG | Agenda          | Logi'Stick  | ❕ | |
-| LSXJ1 | Jeux 1          | Logi'Stick  | ✅ | |
-| LSXJ2 | Jeux 2          | Logi'Stick  | ✅ | |
-| LSXAP | Kit'Appel       | Logi'Stick  | ❕ | |
-|       | K7 dossiers C7  | Club C7     | ❕ | Cassette des dossiers spéciaux du Club C7 |
-|       | K7 Applications | Club C7     | ❕ | Cassette du livre Applications Assembleur du Club C7 |
-|       | Mille Milliards | SYCOMEX     | ❕ | Publicité et tarifs, voir "ads" |
-|       | Compta 86       | Informatique cdp | ❕ | Publicité et tarifs, voir "ads" (Chirurgien dentiste) |
+| Ref.  | Logiciels        | Éditeur     | Status | Commentaire |
+|-------|------------------|-------------|--------|-------------|
+|       | Calc             | POCKET-SOFT | 📝 | |
+|       | Text             | POCKET-SOFT | 📝 | |
+|       | Database         | POCKET-SOFT | 📝 | |
+|       | Paye             | POCKET-SOFT | ❕ | |
+|       | Facturation      | POCKET-SOFT | ❕ | |
+|       | Inventaire       | POCKET-SOFT | ❕ | |
+|       | Graph            | POCKET-SOFT | ❕ | |
+|       | Statistiques     | POCKET-SOFT | ❕ | |
+|       | PERT             | POCKET-SOFT | ❕ | |
+|       | Jeux volume un   | Power Soft  | 📝 | Cassette de 6 jeux |
+| LSXCA | Calc             | Logi'Stick  | ❕ | |
+| LSXGR | Graphe           | Logi'Stick  | ❕ | |
+| LSXFI | Fichiers         | Logi'Stick  | ❕ | |
+| LSXTE | Texte            | Logi'Stick  | 📝 | |
+| LSXM1 | Maths 1          | Logi'Stick  | ❕ | |
+| LSXBA | Banque           | Logi'Stick  | 📝 | |
+| LSXAS | Astro            | Logi'Stick  | ❕ | |
+| LSXAD | Aide             | Logi'Stick  | ❕ | |
+| LSXDI | Diététique       | Logi'Stick  | ❕ | |
+| LSXAL | Alphatruc        | Logi'Stick  | ❕ | |
+| LSXAD | Ass/Deasse       | Logi'Stick  | ❕ | |
+| LSXAG | Agenda           | Logi'Stick  | ❕ | |
+| LSXJ1 | Jeux 1           | Logi'Stick  | ✅ | |
+| LSXJ2 | Jeux 2           | Logi'Stick  | ✅ | |
+| LSXAP | Kit'Appel        | Logi'Stick  | ❕ | |
+|       | Astro 2          | Logi'Stick  | ❕ | |
+|       | Bourse           | Logi'Stick  | ❕ | |
+|       | Gestion de Stock | Logi'Stick  | ❕ | |
+|       | Investissement   | Logi'Stick  | ❕ | |
+|       | Patrimoine       | Logi'Stick  | ❕ | |
+|       | Maths 2          | Logi'Stick  | ❕ | |
+|       | Nautilus         | Logi'Stick  | ❕ | |
+|       | Basic étendu     | Logi'Stick  | ❕ | |
+|       | Forth            | Logi'Stick  | ❕ | |
+|       | K7 dossiers C7   | Club C7     | ❕ | Cassette des dossiers spéciaux du Club C7 |
+|       | K7 Applications  | Club C7     | ❕ | Cassette du livre Applications Assembleur du Club C7 |
+|       | Mille Milliards  | SYCOMEX     | ❕ | Publicité et tarifs, voir "ads" |
+|       | Compta 86        | Informatique cdp | ❕ | Publicité et tarifs, voir "ads" (Chirurgien dentiste) |
 
 NDR : Les Réf. sont à vérifier.
 
