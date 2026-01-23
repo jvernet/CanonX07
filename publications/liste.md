@@ -380,6 +380,14 @@ ___
 Pas de no 24 et au-delà trouvé.
 
 
+___
+### [L'Ordinateur Individuel](https://www.abandonware-magazines.org/affiche_mag.php?mag=38)
+
+| No | Date       | Réf.                                    | État | Commentaire                  |
+|----|------------|-----------------------------------------|------|------------------------------|
+
+juin 85.
+
 
 ___
 ### [SVM](https://abandonware-magazines.org/affiche_mag.php?mag=48)
