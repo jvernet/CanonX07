@@ -53,7 +53,7 @@ ___
 | Canon X-07 BASIC Reference Card                         | Canon               | 1983       | ✅ | |
 | Catalogue 1985                                          | Logi'Stick          | 1985       | ✅ | |
 | Club Canon X-07 Fanzine                                 | Club Canon X-07     | 1980s      | 📝❕ |
-| Dessins géométriques                                    | Eyrolles            | 1985       | ✅ | ⭐ Jean-Paul Delahaye; Canon X-07 et X-710 |
+| Dessins géométriques                                    | Eyrolles            | 1985       | ✅📝 | ⭐ Jean-Paul Delahaye; Canon X-07 et X-710 |
 | Dossiers Spéciaux du Club C7                            | Club C7             | 1985–1986  | 📝 | |
 | Faites vos jeux avec Canon X-07                         | Eyrolles            | 1984       | ✅ | |
 | Info'Look                                               | Éditions Neptune    | 1980s      | 📝❕ | 3 No, d'autres ? |
@@ -62,7 +62,7 @@ ___
 | Les Mystères du X-07                                    | Éditions Neptune    | 1985       | 📝 | ⭐ La bible de l'assembleur |
 | Lexique X-07 / HX-20 (EPSON)                            | Club Canon          | 1980s     | !      | Club Canon No 7 1986 ? 500 exemplaires |
 | NCS800                                                  | National Semiconductor | 1980s | ✅ | Z80 dans le Canon X-07 |
-| Nouveaux Dessins géométriques                           | Eyrolles            | 198x       | ! | Jean-Paul Delahaye; Canon X-07 et X-710 |
+| Nouveaux Dessins géométriques                           | Eyrolles            | 198x       | ✅📝 | ⭐ Jean-Paul Delahaye; Canon X-07 et X-710 |
 | Plus loin avec le Canon X-07                            | Soracom             | 1985       | ✅ |  |
 | Technical Guide (EN)                                    | Canon               | 1980s      | ✅📝 | ⭐ Guide de dépannage |
 
