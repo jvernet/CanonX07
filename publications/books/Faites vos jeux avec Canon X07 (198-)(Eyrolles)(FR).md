@@ -193,8 +193,8 @@ ___
 600 GOTO 505
 ```
 
-505 : Utiliser GRAPH + E - chr$(153) redéfini
-550 : Utiliser GRAPH + A - chr$(136) redéfini
+- 505 : Utiliser GRAPH + E - chr$(153) redéfini
+- 550 : Utiliser GRAPH + A - chr$(136) redéfini
 
 Version alternative ?
 
@@ -216,7 +216,7 @@ Version alternative ?
 590 NEXT I
 600 GOTO 505
 ```
-
+NDR : Permet d'éviter des surprises avec les transformation BAS -> WAV (ou CAS), etc.
 
 ___
 ### page 19 : SYNTHETISEUR
@@ -400,5 +400,6 @@ TO DO
 
 Serait à mettre à part.\
 Programme incomplet, n'affiche pas le plateau.
+
 
 ___
