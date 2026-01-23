@@ -53,6 +53,7 @@ ___
 | Canon X-07 BASIC Reference Card                         | Canon               | 1983       | ✅ | |
 | Catalogue 1985                                          | Logi'Stick          | 1985       | ✅ | |
 | Club Canon X-07 Fanzine                                 | Club Canon X-07     | 1980s      | 📝❕ |
+| Dessins géométriques                                    | Eyrolles            | 1985       | ✅ | ⭐ Jean-Paul Delahaye; Canon X-07 et X-710 |
 | Dossiers Spéciaux du Club C7                            | Club C7             | 1985–1986  | 📝 | |
 | Faites vos jeux avec Canon X-07                         | Eyrolles            | 1984       | ✅ | |
 | Info'Look                                               | Éditions Neptune    | 1980s      | 📝❕ | 3 No, d'autres ? |
