@@ -138,6 +138,11 @@ Il s'agit des logiciels comercialisés.
 |       | Statistiques     | POCKET-SOFT | ❕ | |
 |       | PERT             | POCKET-SOFT | ❕ | |
 |       | Jeux volume un   | Power Soft  | 📝 | Cassette de 6 jeux |
+|       | Easy Bank        | Power Soft  | ❕ | |
+|       | Easy File        | Power Soft  | ❕ | |
+|       | Easy Calc        | Power Soft  | ❕ | |
+|       | Easy Graph       | Power Soft  | ❕ | |
+|       | Turtle           | Power Soft  | ❕ | |
 | LSXCA | Calc             | Logi'Stick  | ❕ | |
 | LSXGR | Graphe           | Logi'Stick  | ❕ | |
 | LSXFI | Fichiers         | Logi'Stick  | ❕ | |
