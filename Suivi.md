@@ -128,6 +128,7 @@ Il s'agit des logiciels comercialisés.
 
 | Ref.  | Logiciels        | Éditeur     | Status | Commentaire |
 |-------|------------------|-------------|--------|-------------|
+|       | Software 1       | Hebdogiciel | ❕ | |
 |       | Calc             | POCKET-SOFT | 📝 | |
 |       | Text             | POCKET-SOFT | 📝 | |
 |       | Database         | POCKET-SOFT | 📝 | |
@@ -167,10 +168,14 @@ Il s'agit des logiciels comercialisés.
 |       | Nautilus         | Logi'Stick  | ❕ | |
 |       | Basic étendu     | Logi'Stick  | ❕ | |
 |       | Forth            | Logi'Stick  | ❕ | |
+|       | Leçon de musique | Logi'Stick  | ❕ | |
+|       | Accordeur        | Logi'Stick  | ❕ | |
 |       | K7 dossiers C7   | Club C7     | ❕ | Cassette des dossiers spéciaux du Club C7 |
 |       | K7 Applications  | Club C7     | ❕ | Cassette du livre Applications Assembleur du Club C7 |
 |       | Mille Milliards  | SYCOMEX     | ❕ | Publicité et tarifs, voir "ads" |
 |       | Compta 86        | Informatique cdp | ❕ | Publicité et tarifs, voir "ads" (Chirurgien dentiste) |
+|       | CAN'ELL          | Feeling Soft | ❕ | Liaison Minitel |
+
 
 NDR : Les Réf. sont à vérifier.
 
