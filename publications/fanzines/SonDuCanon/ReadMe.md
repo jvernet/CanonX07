@@ -37,7 +37,7 @@ D'après nos recherche, il y aurait 12 numéros de la gazette "Au son du Canon" 
 
 | No    | Date       | Etat | Commentaire |
 |-------|------------|------|-------------|
-| 01    | 1984-11/12 | 📝 | |
+| 01    | 1984-11/12 | 📝 | manque 2 pages |
 | 02    | 1985-03/04 | 📝 | |
 | 03    | 1985-05/06 | 📝 | |
 | 04    | 1985-07/08 | 📝 | |
@@ -45,10 +45,10 @@ D'après nos recherche, il y aurait 12 numéros de la gazette "Au son du Canon" 
 | 06    | 1985-11/12 | 📝 | |
 | 07    | 1986-01-02 | 📝 | |
 | 08    | 1986-03-04 | 📝 | |
-| 09    | 198?       | ❕  | |
-| 10    | 198?       | ❕  | |
-| 11-12 | 198?       | ❕  | |
-| 13    | 198?       | ❕  | |
+| 09    | 198?       | ❕  | À trouver |
+| 10    | 198?       | ❕  | À trouver |
+| 11-12 | 198?       | ❕  | À trouver |
+| 13    | 198?       | ❕  | À trouver |
 
 D'après les recherches, il y aurait 6 Hors série :
 
@@ -56,10 +56,10 @@ D'après les recherches, il y aurait 6 Hors série :
 |----|------|------|-------------|
 | D1 | 198? | 📝 | Graphes Scientifiques   |
 | D2 | 198? | 📝 | Courbes en 3 dimensions |
-| D3 | 198? | ❕ | Le X-07 s'évade         |
+| D3 | 198? | ❕ | Le X-07 s'évade. À trouver |
 | D4 | 198? | 📝 | Automatique & crise     |
 | D5 | 198? | 📝 | PERT et chemin critique |
-| D6 | 198? | ❕ | Systèmes linéaire       |
+| D6 | 198? | ❕ | Systèmes linéaire. À trouver |
 
 La référence pour les HS et Dn.\
 Manque aussi les dates de publication.
@@ -73,7 +73,7 @@ Existe aussi :
 
 Autre feuille de promotion - validité 30 novembre 1986.\
 
-
+Feuilles volantes trouvées dans un classeur.
 
 ___
 ## Note de restauration
