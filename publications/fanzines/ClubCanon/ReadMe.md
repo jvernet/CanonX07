@@ -45,12 +45,12 @@ Tableau de l'état d'avancement des restaurations :
 ___
 ## Note de restauration
 
-Les sources sont les scan qui se trouvent encore sur Abandonware Magazine.\
+Les sources sont les scans qui se trouvent encore sur [Abandonware Magazine](https://www.abandonware-magazines.org/affiche_mag.php?mag=104&page=11).\
 Les JPG ont été transformé en PNG, puis en Grayscale. Traitements divers de corrections et retouches.\
 Transformation en A4 300dpi.\
 Une fois les images correctes, mise en PDF et OCR.
 
-Le renammage des PNG cherche à correspondre aux no de page.\
+Le renommage des PNG cherche à correspondre aux no de page.\
 Des pages blanches peuvent être insérées afin de pouvoir imprimer correctement chaque fanzines en mode livret.
 Par exemple sur une imprimante A3.\
 Les originaux étaient semble t-il de simple recto assemblés.
