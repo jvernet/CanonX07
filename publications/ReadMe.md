@@ -11,7 +11,7 @@ Les recherches et restaurations sont en cours.
 Dans le cadre d'articles, seul l'article est repris de la revues.
 
 Cette partie ne concerne pas les logiciels publiés, par exemple dans Hebdogiciel.\
-Veuillez vous référer au répertoire "src".\
-Par contre le fichier liste.md cherche à tout référencer.
+Veuillez vous référer au répertoire ["src"](../src).\
+Par contre le fichier [Liste.md](liste.md) cherche à tout référencer.
 
 ___
