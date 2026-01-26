@@ -64,6 +64,17 @@ Pas d'autre numéro connu de cette revue. Elle est ici complète car nul par ail
 70 Fr. pour l'abonnement.
 
 ___
+### Creative Computing (USA)
+
+
+| No | Date    | Réf.                          | État | Commentaire                  |
+|----|---------|-------------------------------|------|------------------------------|
+|    | 1984-01 |14 Notebook  Computer in Brief |      | p40-41                       |
+
+TO DO
+
+
+___
 ### [Hebdogiciel](https://abandonware-magazines.org/affiche_mag.php?mag=7)
 
 Beaucoup de listing.\
