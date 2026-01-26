@@ -348,23 +348,23 @@ ___
 
 Autre source plus complète [ACPC.me]()
 
-| No  | Date    | Réf.                      | Commentaire                  |
-|-----|---------|---------------------------|------------------------------|
-| 035 | 1983-10 |                           | Présentation |
-| 042 | 1984-05 | Un Moniteur/Désassembleur | p179 |
-| 044 | 1984-07 | Vérouillage minuscule     | p139 |
-| 046 | 1984-10 | Mazog                     | p215 |
-| 046 | 1984-10 | Reset                     | p225 |
-| 046 | 1984-10 | Bomber                    | p229 |
-| 047 | 1984-11 | Basic étendu              | p221 |
-| 048 | 1984-12 | Graphisme assité par ordinateur | p213 |
-| 049 | 1985-01 | Password                  | p147, Assembleur, ref. au no 42 |
-| 049 | 1985-01 | Assembleur 2 passes       | p151, carte 4k nécessaire |
-| 050 | 1985-02 | Dictator                  | p199, jeu simulation |
-| 052 | 1985-04 | Basic étendu              | p175 |
-| 056 | 1985-09 | Un clavier Azerty         | p227 |
-| 060 | 1986-01 | Basic étendu              | p139 |
-| 061 | 1986-02 | Labyrinthe                | p153 |
+| No  | Date    | Réf.                      | État | Commentaire                  |
+|-----|---------|---------------------------|------|------------------------------|
+| 035 | 1983-10 | Éssais                    | 📝   | p78, Présentation |
+| 042 | 1984-05 | Un Moniteur/Désassembleur | 📝   | p179 |
+| 044 | 1984-07 | Vérouillage minuscule     | 📝   | p139 |
+| 046 | 1984-10 | Mazog                     | 📝   | p215 |
+| 046 | 1984-10 | Reset                     | 📝   | p225 |
+| 046 | 1984-10 | Bomber                    | 📝   | p229 |
+| 047 | 1984-11 | Basic étendu              | 📝   | p221 |
+| 048 | 1984-12 | Graphisme assité par ordinateur | 📝   | p213 |
+| 049 | 1985-01 | Password                  | 📝   | p147, Assembleur, ref. au no 42 |
+| 049 | 1985-01 | Assembleur 2 passes       | 📝   | p151, carte 4k nécessaire |
+| 050 | 1985-02 | Dictator                  | 📝   | p199, jeu simulation |
+| 052 | 1985-04 | Basic étendu              | 📝   | p175 |
+| 056 | 1985-09 | Un clavier Azerty         | 📝   | p227 |
+| 060 | 1986-01 | Basic étendu              | 📝   | p139 |
+| 061 | 1986-02 | Labyrinthe                | 📝   | p153 |
 
 Rien d'autre trouvé.\
 à confirmmer.
@@ -387,6 +387,7 @@ ___
 | 19 | 1983-12    | Nouveau : CANON X-07                    | 📝   | Coup d'oeil sur... p24-27    |
 | 21 | 1984-03    | Le Serpent et L'oeuf                    | 📝   | Listing jeux p23-25          |
 | 22 | 1984-04    | Les Caractères du X-07                  | 📝   | Article et Listing p46       |
+| 23 | 1984-05 06 | Publicité                               | ❕   | p16 |
 | 23 | 1984-05 06 | Un canon (X-07) face à un mur de brique | 📝   | Listing casse-briques p42-43 |
 
 Pas de no 24 et au-delà trouvé.
@@ -397,6 +398,10 @@ ___
 
 | No | Date       | Réf.                                    | État | Commentaire                  |
 |----|------------|-----------------------------------------|------|------------------------------|
+| 52 | 1983-10    | Publicité                               | ❕   | p62                          |
+| 58 | 1984-04    | Éssai                                   | ❕   | p182                         |
+| 63 | 1984-10    | Publicité                               | ❕   | p16                          |
+
 
 juin 85.
 
@@ -417,7 +422,7 @@ ___
 | 015 | 1985-03 | Pub canon X07           | 📝   | p117 |
 | 015 | 1985-03 | Pub Majuscule - canon X07 | 📝   | p155 |
 | 020 | 1985-09 | Article RS232 | 📝   | p136 (pour aide) |
-| 023 | 1985-12 | 4 outsiders | p72 - Noêl |
+| 023 | 1985-12 | 4 outsiders | | p72 - Noêl |
 
 
 Recherche dans les suivants à faire.
