@@ -25,7 +25,7 @@ Les recherche ont été effectuées sur :
 - [Abandonware Magazines](https://abandonware-magazines.org/)
 - [Abandonware Listing](http://abandonlistings.free.fr/) ⚠ http !
 - ACPC.ME
-- [Archive.org](https://archive.org/)
+- [Archive.org](https://archive.org/) : https://archive.org/details/computermagazines?page=2
 - silicium
 - ...
 
@@ -63,6 +63,33 @@ ___
 
 Pas d'autre numéro connu de cette revue. Elle est ici complète car nul par ailleurs.\
 70 Fr. pour l'abonnement.
+
+
+___
+### BYTE Magazine (USA)
+
+[Archive.org](https://archive.org/details/byte-magazine?sort=title)
+
+TO DO.
+
+___
+### Compute! Magazine (USA)
+
+[Archive.org](https://archive.org/details/compute-magazine)
+
+TO DO
+
+| No | Date    | Réf.                          | État | Commentaire                  |
+|----|---------|-------------------------------|------|------------------------------|
+
+
+___
+### Computer Gamming World (USA)
+
+TO DO
+
+| No | Date    | Réf.                          | État | Commentaire                  |
+|----|---------|-------------------------------|------|------------------------------|
 
 ___
 ### Creative Computing (USA)
@@ -310,6 +337,12 @@ ___
 ### Jeux & Stratégie
 
 Mis ici car il y a de quoi faire des adaptations multi micro.
+
+
+___
+### (Kilobaud) Microcomputing
+
+[Archive.org](https://archive.org/details/kilobaudmagazine?sort=title)
 
 ___
 ### Led Micro
