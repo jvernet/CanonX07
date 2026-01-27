@@ -12,6 +12,10 @@ La différences peut être dans les mots clés pour faire les tracés et surtout
 Il y aurait une ROM interne.\
 Un dump serait bienvenu.
 
+### Problème de batteires
+
+Voir https://oldskool.silicium.org/calc/x07/bidx710.htm
+
 ___
 ## Tableau
 
@@ -21,6 +25,33 @@ ___
 | FP-1000 | Casio  |       |             |
 
 Tandy, commodore, ...
+
+Liste à vérifier.
+
+| Modèle                  | Marque          |
+|-------------------------|-----------------|
+| DPG-1302 (mécanisme)    | ALPS            |
+| 1020                    | Atari           |
+| CGP-115                 | Tandy / Radio Shack |
+| 4-COLOR PRINTER / MCP-40| Mattel Aquarius |
+| HX-1000                 | Texas Instruments |
+| 1520                    | Commodore       |
+| FA-10                   | Casio           |
+| FA-11                   | Casio           |
+| CE-1600P                | Sharp           |
+| MZ-1P01                 | Sharp           |
+| MZ-1P16                 | Sharp           |
+| PC-2500 Printer         | Sharp           |
+| PL-10                   | Olivetti        |
+| SP-400                  | Sega            |
+| EB-50                   | Silver Reed     |
+| Laser PP-40I            | VTech           |
+| Microprinter WP-100     | Convergent      |
+| MCP-40X                 | Astron          |
+
+
+
+
 
 Quand on les trouve, les notices sont jointes dans ce répertoire.
 
