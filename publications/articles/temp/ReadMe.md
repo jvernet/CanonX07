@@ -42,7 +42,7 @@ PHC25: 34\
 61\
 
 
-Byte (USA)
+Bits & Bytes (USA)
 
 Extraction pour ZX81 -> PHC25
 
