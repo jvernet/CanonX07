@@ -59,17 +59,22 @@ NDR: C'est compacté est difficile à lire. Donc à ajout d'une version plus lis
 ```
 
 L'article indique aussi la structure d'une ligne basic.
-| Octet | Commentaire |
-|-------|-------------|
-| 1     | 00 | 
-| 2     | Adresse ligne suivante poids faible | 
-| 3     | Adresse ligne suivante poids fort |
-| 4     | Numéro de ligne poids Faible |
-| 5     | Numéro de ligne poids Fort |
-| -     | Instruction et suite de la ligne en ASCII |
-| n-1   | 00 ; fin de programme |
-| n     | 00 ; fin de programme |
+| Adresse | Octet | Commentaire |
+|---------|-------|-------------|
+| &H0552  | 1     | 00 ; séparateur de ligne ; 1ère ligne en &H0552 | 
+| &H0553  | 2     | Adresse ligne suivante poids faible | 
+| &H0554  | 3     | Adresse ligne suivante poids fort |
+| &H0555  | 4     | Numéro de ligne poids Faible |
+| &H0556  | 5     | Numéro de ligne poids Fort |
+| &H0557  | 6     | Instruction
+| &H0558  | 7     | et suite de la ligne en ASCII |
+| &Hn-2   | n-2   | 00 ; séparateur de ligne | 
+| &Hn-1   | n-1   | 00 ; fin de programme |
+| &Hn     | n     | 00 ; fin de programme |
 
-Voir avec le programme RALP (ZX81) comment l'adapter au X07.
+NDR :
+- Il apparaît que le 00 est plutôt un séparateur qu'un début de ligne, car il se retrouve aussi à la fin même si pas de nouvelle ligne.
+- 
+- Voir avec le programme RALP (ZX81) comment l'adapter au X07.
 
 ___
