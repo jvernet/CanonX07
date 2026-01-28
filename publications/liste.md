@@ -23,7 +23,9 @@ ___
 
 Les recherche ont été effectuées sur :
 - [Abandonware Magazines](https://abandonware-magazines.org/)
-- [Archive.org](https://archive.org/)
+- [Abandonware Listing](http://abandonlistings.free.fr/) ⚠ http !
+- ACPC.ME
+- [Archive.org](https://archive.org/) : https://archive.org/details/computermagazines?page=2
 - silicium
 - ...
 
@@ -62,13 +64,59 @@ ___
 Pas d'autre numéro connu de cette revue. Elle est ici complète car nul par ailleurs.\
 70 Fr. pour l'abonnement.
 
+
 ___
-### [Hebdogiciel](https://abandonware-magazines.org/affiche_mag.php?mag=7)
+### BYTE Magazine (USA)
+
+[Archive.org](https://archive.org/details/byte-magazine?sort=title)
+
+TO DO.
+
+___
+### Compute! Magazine (USA)
+
+[Archive.org](https://archive.org/details/compute-magazine)
+
+TO DO
+
+| No | Date    | Réf.                          | État | Commentaire                  |
+|----|---------|-------------------------------|------|------------------------------|
+
+
+___
+### Computer Gamming World (USA)
+
+TO DO
+
+| No | Date    | Réf.                          | État | Commentaire                  |
+|----|---------|-------------------------------|------|------------------------------|
+
+___
+### Creative Computing (USA)
+
+[Archive.org]()
+
+
+| No | Date    | Réf.                          | État | Commentaire                  |
+|----|---------|-------------------------------|------|------------------------------|
+|    | 1984-01 | 14 Notebook Computer in Brief | ❕   | p40-41                       |
+
+Recherche à compléter.
+
+
+___
+### Hebdogiciel
+
+[Abandonware magazine](https://abandonware-magazines.org/affiche_mag.php?mag=7)
 
 Beaucoup de listing.\
 Les article sont référencés. L'ensemble des listings est dans la partie "src" (travail en cours).
 
 #### 1983
+
+- 4 programmes
+- 2 articles
+- 3 pubs
 
 | No  | Date       | Réf.                | État | Commentaire                  |
 |-----|------------|---------------------|------|------------------------------|
@@ -84,6 +132,9 @@ Les article sont référencés. L'ensemble des listings est dans la partie "src"
 
 
 #### 1984
+
+- 52 programmes
+- 2 articles
 
 | No  | Date       | Réf.                     | État | Commentaire                  |
 |-----|------------|--------------------------|------|------------------------------|
@@ -280,15 +331,25 @@ ___
 | 3  | 1985-10 | Le Canon X-07 : Le portatif Heureux !   | 📝   |                              |
 
 Pas d'autres numéros connus.\
-Les numéros sont complet car pas d'autres ressources connues.
+Les numéros sont complets et disponible ici car pas d'autres ressources connues.
 
 ___
 ### Jeux & Stratégie
 
 Mis ici car il y a de quoi faire des adaptations multi micro.
 
+
 ___
-### [Led Micro](https://abandonware-magazines.org/affiche_mag.php?mag=61)
+### (Kilobaud) Microcomputing
+
+[Archive.org](https://archive.org/details/kilobaudmagazine?sort=title)
+
+___
+### Led Micro
+
+[Abandonware Magazines](https://abandonware-magazines.org/affiche_mag.php?mag=61)
+
+- 2 articles
 
 | No | Date    | Réf.         | État | Commentaire                  |
 |----|---------|--------------|------|------------------------------|
@@ -298,7 +359,13 @@ ___
 Restauration des pages à faire.
 
 ___
-### [LIST](https://abandonware-magazines.org/affiche_mag.php?mag=9)
+### LIST
+
+[Abandonware Magazines](https://abandonware-magazines.org/affiche_mag.php?mag=9)
+
+- 8 programmes
+- n articles
+- 1 pub
 
 | No | Date       | Réf.                                        | État | Commentaire                  |
 |----|------------|---------------------------------------------|------|------------------------------|
@@ -328,9 +395,22 @@ ___
 Pas de no 13 et au-dela.\
 De plus beaucoup de numéros sont incomplets.
 
+___
+### Micro 7
+
+Recherche à faire.
+
+| No | Date    | Réf.                      | État | Commentaire                  |
+|----|---------|---------------------------|------|------------------------------|
+
+Voir si les BASIC générique sont adaptables.
 
 ___
-### [Micro Ordinateurs](https://abandonware-magazines.org/affiche_mag.php?mag=415)
+### Micro Ordinateurs
+
+[Abandonware Magazines](https://abandonware-magazines.org/affiche_mag.php?mag=415)
+
+- 1 article
 
 Recherche à faire.
 
@@ -343,22 +423,41 @@ Apparement seul numéro qui en parle.
 no 27, VG5000, à reporter. 29, Alice 90. 32, exl100. 33, Canon v20 (1985-05)
 
 ___
-### [Micro Systèmes](https://abandonware-magazines.org/affiche_mag.php?mag=64)
+### Micro Systèmes
 
-Autre source plus complète [ACPC.me]()
+- [Abandonware Magazines](https://abandonware-magazines.org/affiche_mag.php?mag=64)
+- [ACPC.me]()
+- Micro Systèmes Les Listings
 
-| No  | Date    | Réf.                      | Commentaire                  |
-|-----|---------|---------------------------|------------------------------|
-| 42  | 1984-05 | Un Moniteur/Désassembleur | p179 |
-| 49  | 1985-01 | Password                  | p147, Assembleur, ref. au no 42 |
-| 49  | 1985-01 | Assembleur 2 passes       | p151, carte 4k nécessaire |
+- 14 programmes
+- 1 article
+- n pubs
 
+| No  | Date    | Réf.                      | État | Commentaire                  |
+|-----|---------|---------------------------|------|------------------------------|
+| 035 | 1983-10 | Éssais                    | 📝   | p78, Présentation |
+| 042 | 1984-05 | Un Moniteur/Désassembleur | 📝   | p179 |
+| 044 | 1984-07 | Vérouillage minuscule     | 📝   | p139 |
+| 046 | 1984-10 | Mazog                     | 📝   | p215 |
+| 046 | 1984-10 | Reset                     | 📝   | p225 |
+| 046 | 1984-10 | Bomber                    | 📝   | p229 |
+| 047 | 1984-11 | Basic étendu              | 📝   | p221 |
+| 048 | 1984-12 | Graphisme assité par ordinateur | 📝   | p213 |
+| 049 | 1985-01 | Password                  | 📝   | p147, Assembleur, ref. au no 42 |
+| 049 | 1985-01 | Assembleur 2 passes       | 📝   | p151, carte 4k nécessaire |
+| 050 | 1985-02 | Dictator                  | 📝   | p199, jeu simulation |
+| 052 | 1985-04 | Basic étendu              | 📝   | p175 |
+| 056 | 1985-09 | Un clavier Azerty         | 📝   | p227 |
+| 060 | 1986-01 | Basic étendu              | 📝   | p139 |
+| 061 | 1986-02 | Labyrinthe                | 📝   | p153 |
 
-à finir.
-
+Compléter les recherches.\
+à confirmmer.
 
 ___
-### [Micro V.O](https://abandonware-magazines.org/affiche_mag.php?mag=79)
+### Micro V.O
+
+[Abandonware Magazines](https://abandonware-magazines.org/affiche_mag.php?mag=79)
 
 Liste no incomplète. 4, 5 et 7 absents.
 
@@ -366,46 +465,77 @@ Liste no incomplète. 4, 5 et 7 absents.
 |----|---------|----------------------------------------|------|------------------|
 | 3  | 1985-12 | Canon X-07, le micro qui tient le coup | 📝   | p99, challengers |
 
+Il semble qu'il n'y est pas de listing.
 
 ___
-### [L'Ordinateur de poche](https://abandonware-magazines.org/affiche_mag.php?mag=15)
+### L'Ordinateur de Poche
+
+[Abandonware magazines](https://abandonware-magazines.org/affiche_mag.php?mag=15)
+
+- 3 programmes
+- 1 article
+- 1 pub
 
 | No | Date       | Réf.                                    | État | Commentaire                  |
 |----|------------|-----------------------------------------|------|------------------------------|
 | 19 | 1983-12    | Nouveau : CANON X-07                    | 📝   | Coup d'oeil sur... p24-27    |
 | 21 | 1984-03    | Le Serpent et L'oeuf                    | 📝   | Listing jeux p23-25          |
 | 22 | 1984-04    | Les Caractères du X-07                  | 📝   | Article et Listing p46       |
+| 23 | 1984-05 06 | Publicité                               | ❕   | p16 |
 | 23 | 1984-05 06 | Un canon (X-07) face à un mur de brique | 📝   | Listing casse-briques p42-43 |
 
 Pas de no 24 et au-delà trouvé.
 
 
 ___
-### [L'Ordinateur Individuel](https://www.abandonware-magazines.org/affiche_mag.php?mag=38)
+### L'Ordinateur Individuel
+
+[Abandonware magazines](https://www.abandonware-magazines.org/affiche_mag.php?mag=38)
+
+- 1 programme
+- 2 articles
+- 1 pub
 
 | No | Date       | Réf.                                    | État | Commentaire                  |
 |----|------------|-----------------------------------------|------|------------------------------|
+| 52 | 1983-10    | Publicité                               | ❕   | p62                          |
+| 53 | 1984-10    | Déplacer un point à travers l'écran     | ❕   | p227, listing                |
+| 58 | 1984-04    | Éssai                                   | ❕   | p182                         |
+| 63 | 1984-10    | Publicité                               | ❕   | p16                          |
 
-juin 85.
+Voir pour les BASIC standard.
+
+Fin de recherche juin 85.
+
+___
+### Science & Vie
+
+Recherche à faire
+
+| No | Date       | Réf.                         | État | Commentaire                  |
+|----|------------|------------------------------|------|------------------------------|
+
 
 
 ___
-### [SVM](https://abandonware-magazines.org/affiche_mag.php?mag=48)
+### SVM (Science et Vie Micro)
 
-| No  | Date    | Réf.                    | État | Commentaire           |
-|-----|---------|-------------------------|------|-----------------------|
-| 001 | 1983-12 | Un ordinateur pour Noël | 📝   | p28                   |
-| 006 | 1984-05 | Fractales pour tous     | 📝   | p92-93 ; X-710        |
-| 006 | 1984-05 | Pub Hebdogiciel         | 📝   | Casette Canon 12 jeux |
-| 007 | 1984-06 | Pub Hebdogiciel         | 📝   | Casette Canon 12 jeux |
-| 009 | 1984-09 | Pub canon X07           | 📝   | p8,9 |
-| 009 | 1984-09 | Le Guide : Canon X07    | 📝   | p49 |
-| 010 | 1984-10 | Pub canon X07           | 📝   | p6,7 |
-| 011 | 1984-11 | Pub canon X07           | 📝   | p8,9 |
-| 015 | 1985-03 | Pub canon X07           | 📝   | p117 |
-| 015 | 1985-03 | Pub Majuscule - canon X07 | 📝   | p155 |
-| 020 | 1985-09 | Article RS232 | 📝   | p136 (pour aide) |
-| 023 | 1985-12 | 4 outsiders | p72 - Noêl |
+[Abandonware magazines](https://abandonware-magazines.org/affiche_mag.php?mag=48)
+
+| No  | Date    | Réf.                      | État | Commentaire            |
+|-----|---------|---------------------------|------|------------------------|
+| 001 | 1983-12 | Un ordinateur pour Noël   | 📝   | p28                   |
+| 006 | 1984-05 | Fractales pour tous       | 📝   | p92-93 ; X-710        |
+| 006 | 1984-05 | Pub Hebdogiciel           | 📝   | Casette Canon 12 jeux |
+| 007 | 1984-06 | Pub Hebdogiciel           | 📝   | Casette Canon 12 jeux |
+| 009 | 1984-09 | Pub canon X07             | 📝   | p8,9                  |
+| 009 | 1984-09 | Le Guide : Canon X07      | 📝   | p49                   |
+| 010 | 1984-10 | Pub canon X07             | 📝   | p6,7                  |
+| 011 | 1984-11 | Pub canon X07             | 📝   | p8,9                  |
+| 015 | 1985-03 | Pub canon X07             | 📝   | p117                  |
+| 015 | 1985-03 | Pub Majuscule - canon X07 | 📝   | p155                  |
+| 020 | 1985-09 | Article RS232             | 📝   | p136 (pour aide)      |
+| 023 | 1985-12 | 4 outsiders               | 📝   | p72 - Noêl            |
 
 
 Recherche dans les suivants à faire.
@@ -422,7 +552,20 @@ Probablement rien au-delà du 26, stop de recherche.\
 Cepandant quelques programme peuvent s'avérer interessant à analyser, SVM étant lié à jeux & Stratégie.
 
 ___
-### [Tilt](https://abandonware-magazines.org/affiche_mag.php?mag=28)
+### Telesoft
+
+Recherche à faire.
+
+| No | Date       | Réf.                         | État | Commentaire                  |
+|----|------------|------------------------------|------|------------------------------|
+
+
+___
+### Tilt
+
+- [Abandonware magazines](https://abandonware-magazines.org/affiche_mag.php?mag=28)
+- [Tilt Les Listings](http://abandonlistings.free.fr/tilt/CANONX07.htm)
+
 
 | No | Date       | Réf.                         | État | Commentaire                  |
 |----|------------|------------------------------|------|------------------------------|
@@ -448,6 +591,6 @@ ___
 ### suite
 
 TO DO pour les autres revues.
-
+Notamment USA UK et NZ.
 
 ___
