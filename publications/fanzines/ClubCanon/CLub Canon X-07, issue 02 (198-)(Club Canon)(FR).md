@@ -20,8 +20,15 @@ Pause CUI-CUI
 
 NDR: Le programme est corrigé à la main dans le buletin scané. Laissé tel quel.
 
+- OUT 244, 78 active le haut parleur·
+- OUT 24 3,0 met a zero l'octet de poids fort (celui que l'on multiplie par 256 pour coder un nombre supérieur à 255).
+- OUT 242, A donne la valeur A à l'octet de poids faible 242.
+- Le nombre obtenu par l'opération 256 * octet 243 + octet 242 donne un son d'autant plus grave qu'il est élevé.
+
 ___
 ## Page 13
+
+Renum programme basic.
 
 ```basic
 5 CLS:PRINT"RENUM":PL=1363:DEFFNX(X)=PEEK(PL)+256*PEEK(PL+1):INPUT"PAS";I:LR=I
@@ -50,4 +57,19 @@ NDR: C'est compacté est difficile à lire. Donc à ajout d'une version plus lis
 60 GOSUB 100: GOTO 30
 100 POKE PL+2,LR MOD 256: POKE PL+3,LR*256: LR=LR+I: RETURN
 ```
+
+L'article indique aussi la structure d'une ligne basic.
+| Octet | Commentaire |
+|-------|-------------|
+| 1     | 00 | 
+| 2     | Adresse ligne suivante poids faible | 
+| 3     | Adresse ligne suivante poids fort |
+| 4     | Numéro de ligne poids Faible |
+| 5     | Numéro de ligne poids Fort |
+| -     | Instruction et suite de la ligne en ASCII |
+| n-1   | 00 ; fin de programme |
+| n     | 00 ; fin de programme |
+
+Voir avec le programme RALP (ZX81) comment l'adapter au X07.
+
 ___
